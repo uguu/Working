@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE Tags SYSTEM "matroskatags.dtd"> -->
+
+<Chapters>
+  <EditionEntry>
+    <EditionUID>1347934633</EditionUID>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>1</EditionFlagDefault>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <ChapterAtom>
+      <ChapterUID>4197378746</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>Item 3: Yachiyo, Kyouko, Satou... And the returning Otoo-san. (Part 1)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:03:40.011000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2021932437</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterSegmentUID format="hex">
+        99 12 d0 9a 69 24 13 6a 9f b8 37 b8 7b c6 bb 2e
+      </ChapterSegmentUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:29.923000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>OP: Someone Else</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1352252337</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>Item 3: Yachiyo, Kyouko, Satou... And the returning Otoo-san. (Part 2)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:03:40.011000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:19:43.037000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1500637857</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>ED: Heart no Edge ni Idomou Go to Heart Edge</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:19:43.037000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:21:13.105000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1024833943</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>Item 3: Yachiyo, Kyouko, Satou... And the returning Otoo-san. (Part 3)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:21:13.105000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:46.053000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2904902588</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>Next Episode Preview</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:22:46.053000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:06.051000000</ChapterTimeEnd>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

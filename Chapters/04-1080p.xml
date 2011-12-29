@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE Tags SYSTEM "matroskatags.dtd"> -->
+
+<Chapters>
+  <EditionEntry>
+    <EditionUID>1347934633</EditionUID>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>1</EditionFlagDefault>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <ChapterAtom>
+      <ChapterUID>4197378746</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>Item 4: Souma, a fresh... too fresh, youth. (Part 1)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:02:48.043000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2021932437</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterSegmentUID format="hex">
+        9a 7c 57 20 4c 0a 5b 51 9c 1a b2 e7 ed 65 2a fe
+      </ChapterSegmentUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:29.923000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>OP: Someone Else</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1352252337</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>Item 4: Souma, a fresh... too fresh, youth. (Part 2)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:02:48.043000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:20:16.070000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1500637857</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>ED: Heart no Edge ni Idomou Go to Heart Edge</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:20:16.070000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:21:46.055000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1024833943</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>Item 4: Souma, a fresh... too fresh, youth. (Part 3)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:21:46.055000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:11.060000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2904902588</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>Next Episode Preview</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:22:11.060000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:31.016000000</ChapterTimeEnd>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
