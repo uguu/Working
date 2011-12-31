@@ -7,14 +7,15 @@ WrapStyle: 0
 PlayResX: 1920
 PlayResY: 1080
 ScaledBorderAndShadow: yes
-Last Style Storage: [uguu~] Working!!
+Last Style Storage: Working 100%
 Video Zoom: 4
 Audio File: ?video
 Video Zoom Percent: 0.500000
 Audio URI: C:\@projects\git\Working\6-720.mkv
 Video File: ..\6-720.mkv
 Video Aspect Ratio: 0
-Video Position: 32336
+Video Position: 14192
+Automation Scripts: ~..\..\Aegisub-Motion\Aegisub-Motion.lua
 Collisions: Normal
 
 [V4+ Styles]
@@ -26,28 +27,45 @@ Style: Working - Internal,Verlag Bold,80,&H00FFFFFF,&HFFFFFFFF,&H00040423,&H9600
 Style: Working - TS,Avenir LT Std 55 Roman,54,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,2,27,27,27,1
 Style: Working ED - eng,Verlag Bold,68,&H00FFFFFF,&HFFFFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,3,3,2,120,120,50,1
 Style: Working ED - rom,Flora LT Medium,63,&H000285E0,&H00A3ECFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,3,3,8,50,50,40,1
-
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.81,0:00:11.19,Working - TS,,0,0,0,,{\fad(500,500)\bord4.5\3c&HFCF9FD&\c&HD44BDA&\pos(930.667,942.75)}{\fs63}Kazue
-Dialogue: 0,0:00:15.45,0:00:19.95,Working - TS,,0,0,0,,{\fad(500,500)\bord4.5\3c&HFCF9FD&\c&HD44BDA&\pos(514.667,859.5)}{\fs63}Izumi
-Dialogue: 0,0:00:20.91,0:00:24.54,Working - TS,,0,0,0,,{\fad(500,500)\bord4.5\3c&HFCF9FD&\c&HD44BDA&\pos(810.667,947.25)}{\fs63}Kozue
-Dialogue: 0,0:00:34.38,0:00:38.18,Working - TS,,0,0,0,,{\fad(500,500)\bord4.5\3c&HFCF9FD&\pos(882.667,942.75)\c&HEB7918&}{\fs63}Souta
-Dialogue: 0,0:00:38.60,0:00:40.10,Working - TS,,0,0,0,,{\fad(0,540)\bord4.5\3c&HFCF9FD&\c&HD44BDA&\pos(280,837)}{\fs63}Nazuna
-Dialogue: 0,0:00:49.11,0:00:53.44,Working - TS,,0,0,0,,{\fad(600,550)\fs58.5\3c&HFFFFFF&\bord6.75\c&H1B0FB8&\pos(960,564.75)}Item 6
-Dialogue: 0,0:00:49.11,0:00:53.44,Working - TS,,0,0,0,,{\fad(600,550)\fs76.5\3c&HFFFFFF&\bord6.75\c&H1B0FB8&\pos(960,666)}Souta's melancholy, the girls of the Takanashi family.
-Dialogue: 0,0:02:07.39,0:02:08.85,Working - TS,,0,0,0,,{\c&HDF66E2&\pos(626.667,906.75)\bord2.25\3c&HFBFBFB&}March 14th
-Dialogue: 0,0:02:42.30,0:02:44.60,Working - TS,,0,0,0,,{\fad(480,0)\c&HF5F3F3&\3c&H846E5F&\bord4.5\pos(165.333,510.75)}Finding it\Nhard to\Nenter the\Nbreak room
+Dialogue: 1,0:00:05.81,0:00:11.19,Working - TS,,0,0,0,,{\fad(500,470)\bord4.5\3c&HFCF9FD&\c&HD44BDA&\pos(940,936)\fs63}Kazue
+Dialogue: 0,0:00:05.81,0:00:11.19,Working - TS,,0,0,0,,{\fad(500,470)\bord5.2\3c&HFFFFFF&\t(0,500,2,\3c&H000000&)\t(4909,5368,0.5,\3c&HFFFFFF&)\blur4.5\1a&HFF&\c&HD44BDA&\pos(940,936)\fs63}Kazue
+Dialogue: 1,0:00:15.45,0:00:19.95,Working - TS,,0,0,0,,{\fad(500,470)\bord4.5\3c&HFCF9FD&\c&HFF48FF&\pos(530,852)\fs63}Izumi
+Dialogue: 0,0:00:15.45,0:00:19.95,Working - TS,,0,0,0,,{\fad(500,470)\bord5.2\3c&HFFFFFF&\t(0,500,2,\3c&H000000&)\t(4028,4487,0.5,\3c&HFFFFFF&)\blur4.5\1a&HFF&\c&HFF48FF&\pos(530,852)\fs63}Izumi
+Dialogue: 1,0:00:20.91,0:00:24.54,Working - TS,,0,0,0,,{\fad(480,470)\bord4.5\3c&HFCF9FD&\c&HFC46FD&\pos(820,945)\fs63}Kozue
+Dialogue: 0,0:00:20.91,0:00:24.54,Working - TS,,0,0,0,,{\fad(480,470)\bord5.2\3c&HFFFFFF&\t(0,500,2,\3c&H000000&)\t(3156,3615,0.5,\3c&HFFFFFF&)\blur4.5\1a&HFF&\c&HFC46FD&\pos(820,945)\fs63}Kozue
+Dialogue: 1,0:00:34.38,0:00:38.18,Working - TS,,0,0,0,,{\fad(480,470)\bord4.5\3c&HFCF9FD&\pos(882.667,942.75)\c&HEB7918&\fs63}Souta
+Dialogue: 0,0:00:34.38,0:00:38.18,Working - TS,,0,0,0,,{\fad(480,470)\bord5.2\3c&HFFFFFF&\t(0,500,2,\3c&H000000&)\t(3324,3783,0.5,\3c&HFFFFFF&)\blur4.5\1a&HFF&\pos(882.667,942.75)\c&HEB7918&\fs63}Souta
+Dialogue: 1,0:00:38.60,0:00:40.10,Working - TS,,0,0,0,,{\fad(0,480)\bord4.5\3c&HFCF9FD&\c&HFB47FE&\pos(280,837)\fs63}Nazuna
+Dialogue: 0,0:00:38.60,0:00:40.10,Working - TS,,0,0,0,,{\fad(0,480)\bord5.2\3c&H000000&\t(1023,1482,0.5,\3c&HFBFFFF&)\blur4.5\1a&HFF&\pos(280,837)\fs63\c&H8391A7&}Nazuna
+Dialogue: 0,0:00:49.11,0:00:53.44,Working - TS,,0,0,0,,{\fad(600,550)\fs58.5\3c&HFFFFFF&\bord6.75\c&H1706C4&\pos(960,735)}Item 6
+Dialogue: 0,0:00:49.11,0:00:53.44,Working - TS,,0,0,0,,{\fad(600,550)\fs58.5\3c&HFFFFFF&\bord6.75\c&H1706C4&\pos(960,1053)}Souta's melancholy, the girls of the Takanashi family.
+Dialogue: 2,0:02:07.39,0:02:08.85,Working - TS,,0,0,0,,{\c&HDF66E2&\pos(636,900)\bord3\fs60\3c&HFBFBFB&\fnComfortaa}March 14th
+Dialogue: 1,0:02:07.39,0:02:08.85,Working - TS,,0,0,0,,{\c&HDF66E2&\pos(636,900)\bord6\blur5\fs60\3c&HFBFBFB&\fnComfortaa}March 14th
+Dialogue: 0,0:02:07.39,0:02:08.85,Working - TS,,0,0,0,,{\c&H000000&\pos(641,905)\alpha&HA0&\bord3\blur2\fs60\3c&H000000&\fnComfortaa}March 14th
+Dialogue: 0,0:02:42.30,0:02:44.60,Working - TS,,0,0,0,,{\fad(480,0)\c&HF5F3F3&\3c&H90684B&\bord5.5\shad3\blur0.6\4a&HB0&\pos(165.333,510.75)\fnComfortaa}Finding it\Nhard to\Nenter the\Nbreak room
 Dialogue: 0,0:03:47.20,0:03:50.37,Working - TS,,0,0,0,,{\c&H261ED9&\3c&HDBE2F9&\bord4.5\fs85.5\pos(914.667,632.25)}3,980 Yen
 Dialogue: 0,0:03:47.20,0:03:50.37,Working - TS,,0,0,0,,{\bord2.25\fs36\c&HF4E9E0&\pos(1338.67,654.75)\3c&H3D383C&}(tax included)
 Dialogue: 0,0:03:47.20,0:03:50.37,Working - TS,,0,0,0,,{\c&H261ED9&\3c&HDBE2F9&\bord4.5\fs67.5\pos(962.667,1062)}A workman's magic hand
-Dialogue: 0,0:04:44.63,0:04:47.60,Working - TS,,0,0,0,,{\c&HF9FAF9&\bord6.75\3c&H342EAA&\fs81\pos(1637.33,846)}Magic Hand
-Dialogue: 0,0:04:47.60,0:04:50.01,Working - TS,,0,0,0,,{\fs49.5\fax-0.2\frz19.658\pos(1066.67,810)\c&H192B49&}Takanashi
-Dialogue: 0,0:09:51.89,0:09:52.48,Working - TS,,0,0,0,,{\c&H7D7B7B&\bord6.75\3c&H424143&\fs144\frz5.852\pos(696,1046.25)}BANG
-Dialogue: 0,0:10:28.98,0:10:30.69,Working - TS,,0,0,0,,{\fs49.5\frx12\fry334\frz19.658\pos(1066.67,810)\c&H192B49&}Takanashi
-Dialogue: 0,0:22:11.01,0:22:13.93,Working - TS,,0,0,0,,{\3c&HCE6E34&\bord6.75\shad2.25\fs72\pos(442.667,324)}Next episode preview
-Dialogue: 0,0:22:22.56,0:22:28.70,Working - TS,,0,0,0,,{\fad(600,550)\fs58.5\3c&HFFFFFF&\bord6.75\c&H1B0FB8&\pos(949.333,402.75)}Next:         Item 7
-Dialogue: 0,0:22:22.56,0:22:28.70,Working - TS,,0,0,0,,{\fad(600,550)\fs76.5\3c&HFFFFFF&\bord6.75\c&H1B0FB8&\pos(962.667,823.5)}Otoo-san, whom we haven't seen for a while, and a new worker = Yamada(!?)
+Dialogue: 0,0:04:44.63,0:04:47.60,Working - TS,,0,0,0,,{\c&HF9FAF9&\bord6.75\3c&H2425D2&\fs81\fnComfortaa\frz-7\pos(1663,853)}Magic Hand
+Dialogue: 0,0:04:47.60,0:04:50.01,Working - TS,,0,0,0,,{\fs49.5\fax-0.25\frz20.5\c&H192B49&\pos(1075.83,804.905)}Takanashi
+Dialogue: 0,0:09:51.90,0:09:51.94,Working - TS,,0,0,0,,{\pos(250.87,986.44)\c&H7D7B7B&\bord12\3c&H424143&\fs144\frz3.346}BANG
+Dialogue: 0,0:09:51.94,0:09:51.98,Working - TS,,0,0,0,,{\pos(259.88,999.58)\c&H7D7B7B&\bord12\3c&H424143&\fs144\frz3.346}BANG
+Dialogue: 0,0:09:51.98,0:09:52.02,Working - TS,,0,0,0,,{\pos(253.12,926.16)\c&H7D7B7B&\bord12\3c&H424143&\fs144\frz3.346}BANG
+Dialogue: 0,0:09:52.02,0:09:52.07,Working - TS,,0,0,0,,{\pos(257.27,940.73)\c&H7D7B7B&\bord12\3c&H424143&\fs144\frz3.346}BANG
+Dialogue: 0,0:09:52.07,0:09:52.11,Working - TS,,0,0,0,,{\pos(255.81,938.97)\c&H7D7B7B&\bord12\3c&H424143&\fs144\frz3.346}BANG
+Dialogue: 0,0:09:52.11,0:09:52.15,Working - TS,,0,0,0,,{\pos(256.52,940.71)\c&H7D7B7B&\bord12\3c&H424143&\fs144\frz3.346}BANG
+Dialogue: 0,0:09:52.15,0:09:52.19,Working - TS,,0,0,0,,{\pos(256.57,940.69)\c&H7D7B7B&\bord12\3c&H424143&\fs144\frz3.346}BANG
+Dialogue: 0,0:09:52.19,0:09:52.23,Working - TS,,0,0,0,,{\pos(256.88,940.36)\c&H7D7B7B&\bord12\3c&H424143&\fs144\frz3.346}BANG
+Dialogue: 0,0:09:52.23,0:09:52.27,Working - TS,,0,0,0,,{\pos(256.71,940.5)\c&H7D7B7B&\bord12\3c&H424143&\fs144\frz3.346}BANG
+Dialogue: 0,0:09:52.27,0:09:52.32,Working - TS,,0,0,0,,{\pos(256.49,939.57)\c&H7D7B7B&\bord12\3c&H424143&\fs144\frz3.346}BANG
+Dialogue: 0,0:09:52.32,0:09:52.48,Working - TS,,0,0,0,,{\pos(256.74,940.36)\c&H7D7B7B&\bord12\3c&H424143&\fs144\frz3.346}BANG
+Dialogue: 0,0:10:28.98,0:10:30.69,Working - TS,,0,0,0,,{\fs49.5\fax-0.25\frz20.5\c&H3A4A59&\pos(1075.83,804.905)}Takanashi
+Dialogue: 1,0:22:11.01,0:22:13.93,Working - TS,,0,0,0,,{\3c&HCE6E34&\bord6.75\fs72\pos(380,244)\an5}Next episode preview
+Dialogue: 0,0:22:11.01,0:22:13.93,Working - TS,,0,0,0,,{\3c&H000000&\blur5\bord6\fs72\pos(385,249)\alpha&H70&\an5\c&H000000&}Next episode preview
+Dialogue: 0,0:22:22.56,0:22:28.70,Working - TS,,0,0,0,,{\fad(600,550)\fs58.5\3c&HFFFFFF&\bord6.75\c&H1D0BC9&\pos(950,410)}Next:{\fsp120} {\fsp}Item 7
+Dialogue: 0,0:22:22.56,0:22:28.70,Working - TS,,0,0,0,,{\fad(600,550)\fs76.5\3c&HFFFFFF&\bord6.75\c&H1D0BC9&\pos(960,825)}Otoo-san, whom we haven't seen for a\Nwhile, and a new worker = Yamada(!?)
 Dialogue: 0,0:00:07.15,0:00:11.69,Working - Dialogue,,0,0,0,,Hey! I'm studying right now, so don't bother me.
 Dialogue: 0,0:00:20.29,0:00:21.69,Working - Dialogue,,0,0,0,,I'm back!
 Dialogue: 0,0:00:21.69,0:00:24.37,Working - Dialogue,,0,0,0,,Oh! Kozue-oneechan, welcome back!
@@ -426,26 +444,9 @@ Dialogue: 0,0:22:15.38,0:22:16.62,Working - Dialogue,,0,0,0,,Otoo-san is coming 
 Dialogue: 0,0:22:16.62,0:22:18.27,Working - Dialogue,,0,0,0,,Oh, that's all?
 Dialogue: 0,0:22:18.27,0:22:20.75,Working - Dialogue,,0,0,0,,Oh, and this time the "souvenir" seems to be a girl.
 Dialogue: 0,0:22:20.75,0:22:22.43,Working - Dialogue,,0,0,0,,What?! A girl?!
-Dialogue: 0,0:22:22.43,0:22:26.34,Working - Dialogue,,0,0,0,,Next time, "Otoo, whom we haven't seen for a while, and a new worker = Yamada(!?)."
+Dialogue: 0,0:22:22.43,0:22:26.34,Working - Dialogue,,0,0,0,,Next time, "Otoo, whom we haven't seen for a while, and a new worker = Yamada(!?)"
 Dialogue: 0,0:22:26.34,0:22:28.41,Working - Dialogue,,0,0,0,,Another thing to worry about.
-Comment: 0,0:00:00.03,0:00:00.03,Working ED - rom,,0,0,0,template line,{\r\k$kdur\t($start,$mid,\3a&H40&\3c&H0000D3&\bord2.2)\t($mid,!$end+100!,\bord1.5\3a&H00&\3c&H000000&)}
-Comment: 0,0:18:31.29,0:18:33.82,Working ED - rom,,0,0,0,karaoke,{\k19}O{\k18}mo{\k16}i{\k40}doo{\k14}ri {\k12}nya {\k14}su{\k34}su{\k17}ma{\k69}nai
-Comment: 0,0:18:34.26,0:18:36.82,Working ED - rom,,0,0,0,karaoke,{\k23}Ko{\k18}i {\k15}ni {\k38}dai{\k21}ji {\k15}na {\k23}Com{\k18}mu{\k15}ni{\k70}cate
-Comment: 0,0:18:37.28,0:18:39.42,Working ED - rom,,0,0,0,karaoke,{\k25}Do{\k15}n{\k16}na {\k17}ko{\k21}to{\k21}ba {\k17}ga {\k12}me{\k18}i{\k26}chu{\k26}u
-Comment: 0,0:18:39.51,0:18:43.06,Working ED - rom,,0,0,0,karaoke,{\k19}Ko{\k18}ku{\k16}go {\k23}ji{\k37}te{\k36}n {\k38}wo {\k35}me{\k22}ku{\k37}ro{\k74}u
-Comment: 0,0:18:55.07,0:19:00.46,Working ED - rom,,0,0,0,karaoke,{\k13}O{\k17}mo{\k31}mu{\k17}rou {\k52}ni {\k22}to{\k18}wa{\k19}zu{\k20}ga{\k20}ta{\k51}ri {\k40}de {\k16}a{\k22}tsu{\k18}i {\k19}ki{\k15}mo{\k23}chi {\k17}wo {\k19}tsu{\k19}ge{\k12}ma{\k26}sho{\k14}u
-Comment: 0,0:19:00.46,0:19:06.89,Working ED - rom,,0,0,0,karaoke,{\k25}Sa{\k20}re{\k16}do {\k40}in{\k19}gi{\k19}n {\k54}na {\k41}ko{\k17}no {\k18}mu{\k18}ne {\k90}wa {\k42}jou{\k15}ze{\k26}tsu {\k14}ni {\k19}wa {\k37}na{\k19}re{\k39}na{\k61}i
-Comment: 0,0:19:07.08,0:19:12.51,Working ED - rom,,0,0,0,karaoke,{\k20}Mo{\k18}no{\k18}o{\k22}to {\k55}ni {\k18}De{\k18}li{\k40}ca{\k19}te {\k55}de{\k39}su {\k17}ma{\k20}mo{\k18}ru {\k18}mi {\k17}no {\k19}su{\k15}be {\k25}shi{\k19}ri{\k15}ma{\k25}se{\k13}n
-Comment: 0,0:19:12.53,0:19:18.93,Working ED - rom,,0,0,0,karaoke,{\k19}Da{\k21}ke{\k17}do {\k35}tan{\k40}tou {\k52}wa {\k40}yao{\k16}mo{\k21}te {\k15}de{\k95}su {\k22}tsu{\k19}ne {\k16}ni {\k23}ge{\k18}n{\k11}ba {\k148}sho{\k12}bu
-Comment: 0,0:19:19.40,0:19:26.54,Working ED - rom,,0,0,0,karaoke,{\k23}Ko{\k24}ko{\k17}ro{\k15}i{\k21}ki {\k18}wo {\k16}ta{\k24}ka{\k16}ra{\k39}ka {\k53}ni {\k42}ji{\k18}bu{\k19}n {\k36}Mo{\k21}de {\k15}de {\k91}Try {\k24}shi{\k182}you
-Comment: 0,0:19:28.04,0:19:30.69,Working ED - rom,,0,0,0,karaoke,{\k62}Heart {\k19}no {\k56}Edge {\k17}ni {\k19}i{\k19}do{\k21}mo{\k52}u
-Comment: 0,0:19:31.06,0:19:37.02,Working ED - rom,,0,0,0,karaoke,{\k41}O{\k38}mo{\k35}u {\k20}da{\k19}ke {\k15}mi{\k24}tsu{\k15}me{\k115}te {\k17}mo{\k20}shi{\k16}ka{\k20}shi{\k21}ta{\k18}ra {\k18}to {\k56}At {\k36}Ran{\k52}dom
-Comment: 0,0:19:37.24,0:19:39.73,Working ED - rom,,0,0,0,karaoke,{\k61}Chance {\k19}wo {\k18}ma{\k18}t{\k21}te {\k18}mi{\k18}ru{\k17}be{\k59}ki
-Comment: 0,0:19:40.04,0:19:42.70,Working ED - rom,,0,0,0,karaoke,{\k62}Heart {\k13}no {\k57}Ace {\k22}wo {\k17}me{\k22}ku{\k20}ro{\k53}u
-Comment: 0,0:19:43.06,0:19:49.01,Working ED - rom,,0,0,0,karaoke,{\k41}Ne{\k39}n{\k35}ri{\k17}ki {\k21}de {\k16}mi{\k22}tsu{\k19}me{\k111}te {\k20}a{\k18}i {\k16}no {\k20}ka{\k16}ta{\k21}chi {\k17}no {\k41}Sil{\k20}hou{\k85}ette
-Comment: 0,0:19:49.25,0:19:52.03,Working ED - rom,,0,0,0,karaoke,{\k74}Image {\k17}wo {\k25}sa{\k19}gu{\k21}ri {\k30}da{\k92}sou
-Comment: 0,0:19:52.26,0:19:54.50,Working ED - rom,,0,0,0,karaoke,{\k22}Ne{\k20}ra{\k17}i {\k35}doo{\k18}ri {\k15}ni {\k17}su{\k22}su{\k21}mi{\k37}tai
-Comment: 0,0:19:54.53,0:19:58.35,Working ED - rom,,0,0,0,karaoke,{\k19}Ne{\k21}ko {\k17}no {\k20}se{\k36}na{\k38}ka {\k34}wo {\k36}ma{\k23}ne {\k33}shi{\k105}tai
+Comment: 0,0:19:59.01,0:21:28.97,Working ED - rom,,0,0,0,,ED
 Dialogue: 0,0:19:59.23,0:20:01.76,Working ED - rom,,0,0,0,fx,{\fad(250,250)}{\r\k19\t(0,95,\3a&H40&\3c&H0000D3&\bord4.95)\t(95,290,\bord3.375\3a&H00&\3c&H000000&)}O{\r\k18\t(190,280,\3a&H40&\3c&H0000D3&\bord4.95)\t(280,470,\bord3.375\3a&H00&\3c&H000000&)}mo{\r\k16\t(370,450,\3a&H40&\3c&H0000D3&\bord4.95)\t(450,630,\bord3.375\3a&H00&\3c&H000000&)}i{\r\k40\t(530,730,\3a&H40&\3c&H0000D3&\bord4.95)\t(730,1030,\bord3.375\3a&H00&\3c&H000000&)}doo{\r\k14\t(930,1000,\3a&H40&\3c&H0000D3&\bord4.95)\t(1000,1170,\bord3.375\3a&H00&\3c&H000000&)}ri {\r\k12\t(1070,1130,\3a&H40&\3c&H0000D3&\bord4.95)\t(1130,1290,\bord3.375\3a&H00&\3c&H000000&)}nya {\r\k14\t(1190,1260,\3a&H40&\3c&H0000D3&\bord4.95)\t(1260,1430,\bord3.375\3a&H00&\3c&H000000&)}su{\r\k34\t(1330,1500,\3a&H40&\3c&H0000D3&\bord4.95)\t(1500,1770,\bord3.375\3a&H00&\3c&H000000&)}su{\r\k17\t(1670,1755,\3a&H40&\3c&H0000D3&\bord4.95)\t(1755,1940,\bord3.375\3a&H00&\3c&H000000&)}ma{\r\k69\t(1840,2185,\3a&H40&\3c&H0000D3&\bord4.95)\t(2185,2630,\bord3.375\3a&H00&\3c&H000000&)}nai
 Dialogue: 0,0:20:02.20,0:20:04.76,Working ED - rom,,0,0,0,fx,{\fad(250,250)}{\r\k23\t(0,115,\3a&H40&\3c&H0000D3&\bord4.95)\t(115,330,\bord3.375\3a&H00&\3c&H000000&)}Ko{\r\k18\t(230,320,\3a&H40&\3c&H0000D3&\bord4.95)\t(320,510,\bord3.375\3a&H00&\3c&H000000&)}i {\r\k15\t(410,485,\3a&H40&\3c&H0000D3&\bord4.95)\t(485,660,\bord3.375\3a&H00&\3c&H000000&)}ni {\r\k38\t(560,750,\3a&H40&\3c&H0000D3&\bord4.95)\t(750,1040,\bord3.375\3a&H00&\3c&H000000&)}dai{\r\k21\t(940,1045,\3a&H40&\3c&H0000D3&\bord4.95)\t(1045,1250,\bord3.375\3a&H00&\3c&H000000&)}ji {\r\k15\t(1150,1225,\3a&H40&\3c&H0000D3&\bord4.95)\t(1225,1400,\bord3.375\3a&H00&\3c&H000000&)}na {\r\k23\t(1300,1415,\3a&H40&\3c&H0000D3&\bord4.95)\t(1415,1630,\bord3.375\3a&H00&\3c&H000000&)}Com{\r\k18\t(1530,1620,\3a&H40&\3c&H0000D3&\bord4.95)\t(1620,1810,\bord3.375\3a&H00&\3c&H000000&)}mu{\r\k15\t(1710,1785,\3a&H40&\3c&H0000D3&\bord4.95)\t(1785,1960,\bord3.375\3a&H00&\3c&H000000&)}ni{\r\k70\t(1860,2210,\3a&H40&\3c&H0000D3&\bord4.95)\t(2210,2660,\bord3.375\3a&H00&\3c&H000000&)}cate
 Dialogue: 0,0:20:05.22,0:20:07.36,Working ED - rom,,0,0,0,fx,{\fad(250,250)}{\r\k25\t(0,125,\3a&H40&\3c&H0000D3&\bord4.95)\t(125,350,\bord3.375\3a&H00&\3c&H000000&)}Do{\r\k15\t(250,325,\3a&H40&\3c&H0000D3&\bord4.95)\t(325,500,\bord3.375\3a&H00&\3c&H000000&)}n{\r\k16\t(400,480,\3a&H40&\3c&H0000D3&\bord4.95)\t(480,660,\bord3.375\3a&H00&\3c&H000000&)}na {\r\k17\t(560,645,\3a&H40&\3c&H0000D3&\bord4.95)\t(645,830,\bord3.375\3a&H00&\3c&H000000&)}ko{\r\k21\t(730,835,\3a&H40&\3c&H0000D3&\bord4.95)\t(835,1040,\bord3.375\3a&H00&\3c&H000000&)}to{\r\k21\t(940,1045,\3a&H40&\3c&H0000D3&\bord4.95)\t(1045,1250,\bord3.375\3a&H00&\3c&H000000&)}ba {\r\k17\t(1150,1235,\3a&H40&\3c&H0000D3&\bord4.95)\t(1235,1420,\bord3.375\3a&H00&\3c&H000000&)}ga {\r\k12\t(1320,1380,\3a&H40&\3c&H0000D3&\bord4.95)\t(1380,1540,\bord3.375\3a&H00&\3c&H000000&)}me{\r\k18\t(1440,1530,\3a&H40&\3c&H0000D3&\bord4.95)\t(1530,1720,\bord3.375\3a&H00&\3c&H000000&)}i{\r\k26\t(1620,1750,\3a&H40&\3c&H0000D3&\bord4.95)\t(1750,1980,\bord3.375\3a&H00&\3c&H000000&)}chu{\r\k26\t(1880,2010,\3a&H40&\3c&H0000D3&\bord4.95)\t(2010,2240,\bord3.375\3a&H00&\3c&H000000&)}u
