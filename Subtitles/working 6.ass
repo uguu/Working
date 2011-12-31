@@ -11,6 +11,10 @@ Last Style Storage: [uguu~] Working!!
 Video Zoom: 4
 Audio File: ?video
 Video Zoom Percent: 0.500000
+Audio URI: C:\@projects\git\Working\6-720.mkv
+Video File: ..\6-720.mkv
+Video Aspect Ratio: 0
+Video Position: 32336
 Collisions: Normal
 
 [V4+ Styles]
@@ -25,25 +29,25 @@ Style: Working ED - rom,Flora LT Medium,63,&H000285E0,&H00A3ECFF,&H00000000,&H96
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:05.81,0:00:11.24,Working - TS,,0,0,0,,{\fad(500,500)\bord4.5\3c&HFCF9FD&\c&HD44BDA&\pos(930.667,942.75)}{\fs63}Kazue
+Dialogue: 0,0:00:05.81,0:00:11.19,Working - TS,,0,0,0,,{\fad(500,500)\bord4.5\3c&HFCF9FD&\c&HD44BDA&\pos(930.667,942.75)}{\fs63}Kazue
 Dialogue: 0,0:00:15.45,0:00:19.95,Working - TS,,0,0,0,,{\fad(500,500)\bord4.5\3c&HFCF9FD&\c&HD44BDA&\pos(514.667,859.5)}{\fs63}Izumi
-Dialogue: 0,0:00:20.95,0:00:24.54,Working - TS,,0,0,0,,{\fad(500,500)\bord4.5\3c&HFCF9FD&\c&HD44BDA&\pos(810.667,947.25)}{\fs63}Kozue
-Dialogue: 0,0:00:34.30,0:00:38.22,Working - TS,,0,0,0,,{\fad(500,500)\bord4.5\3c&HFCF9FD&\pos(882.667,942.75)\c&HEB7918&}{\fs63}Souta
-Dialogue: 0,0:00:38.60,0:00:40.56,Working - TS,,0,0,0,,{\fad(0,540)\bord4.5\3c&HFCF9FD&\c&HD44BDA&\pos(280,837)}{\fs63}Nazuna
+Dialogue: 0,0:00:20.91,0:00:24.54,Working - TS,,0,0,0,,{\fad(500,500)\bord4.5\3c&HFCF9FD&\c&HD44BDA&\pos(810.667,947.25)}{\fs63}Kozue
+Dialogue: 0,0:00:34.38,0:00:38.18,Working - TS,,0,0,0,,{\fad(500,500)\bord4.5\3c&HFCF9FD&\pos(882.667,942.75)\c&HEB7918&}{\fs63}Souta
+Dialogue: 0,0:00:38.60,0:00:40.10,Working - TS,,0,0,0,,{\fad(0,540)\bord4.5\3c&HFCF9FD&\c&HD44BDA&\pos(280,837)}{\fs63}Nazuna
 Dialogue: 0,0:00:49.11,0:00:53.44,Working - TS,,0,0,0,,{\fad(600,550)\fs58.5\3c&HFFFFFF&\bord6.75\c&H1B0FB8&\pos(960,564.75)}Item 6
 Dialogue: 0,0:00:49.11,0:00:53.44,Working - TS,,0,0,0,,{\fad(600,550)\fs76.5\3c&HFFFFFF&\bord6.75\c&H1B0FB8&\pos(960,666)}Souta's melancholy, the girls of the Takanashi family.
-Dialogue: 0,0:02:07.39,0:02:08.81,Working - TS,,0,0,0,,{\c&HDF66E2&\pos(626.667,906.75)\bord2.25\3c&HFBFBFB&}March 14th
-Dialogue: 0,0:02:42.26,0:02:44.55,Working - TS,,0,0,0,,{\fad(480,0)\c&HF5F3F3&\3c&H846E5F&\bord4.5\pos(165.333,510.75)}Finding it\Nhard to\Nenter the\Nbreak room
+Dialogue: 0,0:02:07.39,0:02:08.85,Working - TS,,0,0,0,,{\c&HDF66E2&\pos(626.667,906.75)\bord2.25\3c&HFBFBFB&}March 14th
+Dialogue: 0,0:02:42.30,0:02:44.60,Working - TS,,0,0,0,,{\fad(480,0)\c&HF5F3F3&\3c&H846E5F&\bord4.5\pos(165.333,510.75)}Finding it\Nhard to\Nenter the\Nbreak room
 Dialogue: 0,0:03:47.20,0:03:50.37,Working - TS,,0,0,0,,{\c&H261ED9&\3c&HDBE2F9&\bord4.5\fs85.5\pos(914.667,632.25)}3,980 Yen
 Dialogue: 0,0:03:47.20,0:03:50.37,Working - TS,,0,0,0,,{\bord2.25\fs36\c&HF4E9E0&\pos(1338.67,654.75)\3c&H3D383C&}(tax included)
 Dialogue: 0,0:03:47.20,0:03:50.37,Working - TS,,0,0,0,,{\c&H261ED9&\3c&HDBE2F9&\bord4.5\fs67.5\pos(962.667,1062)}A workman's magic hand
-Dialogue: 0,0:04:44.63,0:04:47.59,Working - TS,,0,0,0,,{\c&HF9FAF9&\bord6.75\3c&H342EAA&\fs81\pos(1637.33,846)}Magic Hand
-Dialogue: 0,0:04:47.59,0:04:49.97,Working - TS,,0,0,0,,{\fs49.5\frx12\fry334\frz19.658\pos(1066.67,810)\c&H192B49&}Takanashi
+Dialogue: 0,0:04:44.63,0:04:47.60,Working - TS,,0,0,0,,{\c&HF9FAF9&\bord6.75\3c&H342EAA&\fs81\pos(1637.33,846)}Magic Hand
+Dialogue: 0,0:04:47.60,0:04:50.01,Working - TS,,0,0,0,,{\fs49.5\fax-0.2\frz19.658\pos(1066.67,810)\c&H192B49&}Takanashi
 Dialogue: 0,0:09:51.89,0:09:52.48,Working - TS,,0,0,0,,{\c&H7D7B7B&\bord6.75\3c&H424143&\fs144\frz5.852\pos(696,1046.25)}BANG
-Dialogue: 0,0:10:29.01,0:10:30.68,Working - TS,,0,0,0,,{\fs49.5\frx12\fry334\frz19.658\pos(1066.67,810)\c&H192B49&}Takanashi
+Dialogue: 0,0:10:28.98,0:10:30.69,Working - TS,,0,0,0,,{\fs49.5\frx12\fry334\frz19.658\pos(1066.67,810)\c&H192B49&}Takanashi
 Dialogue: 0,0:22:11.01,0:22:13.93,Working - TS,,0,0,0,,{\3c&HCE6E34&\bord6.75\shad2.25\fs72\pos(442.667,324)}Next episode preview
-Dialogue: 0,0:22:22.56,0:22:28.52,Working - TS,,0,0,0,,{\fad(600,550)\fs58.5\3c&HFFFFFF&\bord6.75\c&H1B0FB8&\pos(949.333,402.75)}Next:         Item 7
-Dialogue: 0,0:22:22.56,0:22:28.52,Working - TS,,0,0,0,,{\fad(600,550)\fs76.5\3c&HFFFFFF&\bord6.75\c&H1B0FB8&\pos(962.667,823.5)}Otoo-san, whom we haven't seen for a while, and a new worker = Yamada(!?).
+Dialogue: 0,0:22:22.56,0:22:28.70,Working - TS,,0,0,0,,{\fad(600,550)\fs58.5\3c&HFFFFFF&\bord6.75\c&H1B0FB8&\pos(949.333,402.75)}Next:         Item 7
+Dialogue: 0,0:22:22.56,0:22:28.70,Working - TS,,0,0,0,,{\fad(600,550)\fs76.5\3c&HFFFFFF&\bord6.75\c&H1B0FB8&\pos(962.667,823.5)}Otoo-san, whom we haven't seen for a while, and a new worker = Yamada(!?)
 Dialogue: 0,0:00:07.15,0:00:11.69,Working - Dialogue,,0,0,0,,Hey! I'm studying right now, so don't bother me.
 Dialogue: 0,0:00:20.29,0:00:21.69,Working - Dialogue,,0,0,0,,I'm back!
 Dialogue: 0,0:00:21.69,0:00:24.37,Working - Dialogue,,0,0,0,,Oh! Kozue-oneechan, welcome back!
