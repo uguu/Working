@@ -13,7 +13,8 @@ Collisions: Normal
 Audio URI: C:\@projects\git\Working\8-720.mkv
 Video File: ..\8-720.mkv
 Video Aspect Ratio: 0
-Video Position: 4853
+Video Position: 10001
+Automation Scripts: ~..\..\Aegisub-Motion\Aegisub-Motion.lua
 Audio File: ?video
 
 [V4+ Styles]
@@ -28,26 +29,50 @@ Style: Working ED - rom,Flora LT Medium,63,&H000285E0,&H00A3ECFF,&H00000000,&H96
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:38.08,0:00:39.93,Working - TS,,0,0,0,,{\3c&HFFFFFF&\c&HFFFFFF&\t(0,459,\c&H48494A&\3c&HEDEFF1&)\bord3.375\fs54\pos(290.667,355.5)}Morning
+Comment: 0,0:00:39.89,0:00:40.14,Working - TS,,0,0,0,,{\c&H48494A&\3c&HEDEFF1&\bord3.375\fs54\pos(290.667,355.5)}Morning
+Dialogue: 0,0:00:39.93,0:00:39.97,Working - TS,,0,0,0,,{\pos(290.67,324.33)\c&H48494A&\3c&HEDEFF1&\bord3.375\fs54}Morning
+Dialogue: 0,0:00:39.97,0:00:40.01,Working - TS,,0,0,0,,{\pos(290.67,243.81)\c&H48494A&\3c&HEDEFF1&\bord3.375\fs54}Morning
+Dialogue: 0,0:00:40.01,0:00:40.06,Working - TS,,0,0,0,,{\pos(290.67,124.1)\c&H48494A&\3c&HEDEFF1&\bord3.375\fs54}Morning
+Comment: 0,0:00:40.10,0:00:40.43,Working - TS,,0,0,0,,{\bord3.375\fs54\c&H48494A&\3c&HF2F0F3&\pos(266.666667,344.25)}Afternoon
+Dialogue: 0,0:00:40.10,0:00:40.14,Working - TS,,0,0,0,,{\pos(266.93,1228.3)\bord3.375\fs54\c&H48494A&\3c&HF2F0F3&}Afternoon
+Dialogue: 0,0:00:40.14,0:00:40.18,Working - TS,,0,0,0,,{\pos(266.75,1050.34)\bord3.375\fs54\c&H48494A&\3c&HF2F0F3&}Afternoon
+Dialogue: 0,0:00:40.18,0:00:40.22,Working - TS,,0,0,0,,{\pos(266.94,872.83)\bord3.375\fs54\c&H48494A&\3c&HF2F0F3&}Afternoon
+Dialogue: 0,0:00:40.22,0:00:40.27,Working - TS,,0,0,0,,{\pos(266.82,706.08)\bord3.375\fs54\c&H48494A&\3c&HF2F0F3&}Afternoon
+Dialogue: 0,0:00:40.27,0:00:40.31,Working - TS,,0,0,0,,{\pos(267,559.87)\bord3.375\fs54\c&H48494A&\3c&HF2F0F3&}Afternoon
+Dialogue: 0,0:00:40.31,0:00:40.35,Working - TS,,0,0,0,,{\pos(266.79,444.23)\bord3.375\fs54\c&H48494A&\3c&HF2F0F3&}Afternoon
+Dialogue: 0,0:00:40.35,0:00:40.39,Working - TS,,0,0,0,,{\pos(266.53,369.14)\bord3.375\fs54\c&H48494A&\3c&HF2F0F3&}Afternoon
+Dialogue: 0,0:00:40.39,0:00:40.43,Working - TS,,0,0,0,,{\pos(266.67,344.25)\bord3.375\fs54\c&H48494A&\3c&HF2F0F3&}Afternoon
 Dialogue: 0,0:00:40.39,0:00:41.68,Working - TS,,0,0,0,,{\bord3.375\fs54\c&H48494A&\3c&HF2F0F3&\pos(266.666667,344.25)}Afternoon
-Dialogue: 0,0:00:42.14,0:00:43.66,Working - TS,,0,0,0,,{\fad(0,300)\bord3.375\fs54\c&H48494A&\3c&HF2F0F3&\pos(253.333333,348.75)}Evening
+Dialogue: 0,0:00:41.68,0:00:41.72,Working - TS,,0,0,0,,{\pos(266.67,311.12)\bord3.375\fs54\c&H48494A&\3c&HF2F0F3&}Afternoon
+Dialogue: 0,0:00:41.72,0:00:41.77,Working - TS,,0,0,0,,{\pos(266.67,229.37)\bord3.375\fs54\c&H48494A&\3c&HF2F0F3&}Afternoon
+Dialogue: 0,0:00:41.77,0:00:41.81,Working - TS,,0,0,0,,{\pos(266.66,109.05)\bord3.375\fs54\c&H48494A&\3c&HF2F0F3&}Afternoon
+Dialogue: 0,0:00:41.89,0:00:41.93,Working - TS,,0,0,0,,{\pos(252.34,1043.02)\c&H48494A&\3c&HEDEFF1&\t(1320,1529,1,\3c&HFFFFFF&\c&HFFFFFF&)\bord3.375\fs54}Evening
+Dialogue: 0,0:00:41.93,0:00:41.98,Working - TS,,0,0,0,,{\pos(252.53,867.13)\c&H48494A&\3c&HEDEFF1&\t(1278,1487,1,\3c&HFFFFFF&\c&HFFFFFF&)\bord3.375\fs54}Evening
+Dialogue: 0,0:00:41.98,0:00:42.02,Working - TS,,0,0,0,,{\pos(252.65,701.99)\c&H48494A&\3c&HEDEFF1&\t(1236,1445,1,\3c&HFFFFFF&\c&HFFFFFF&)\bord3.375\fs54}Evening
+Dialogue: 0,0:00:42.02,0:00:42.06,Working - TS,,0,0,0,,{\pos(252.79,557.75)\c&H48494A&\3c&HEDEFF1&\t(1195,1404,1,\3c&HFFFFFF&\c&HFFFFFF&)\bord3.375\fs54}Evening
+Dialogue: 0,0:00:42.06,0:00:42.10,Working - TS,,0,0,0,,{\pos(252.94,444.26)\c&H48494A&\3c&HEDEFF1&\t(1153,1362,1,\3c&HFFFFFF&\c&HFFFFFF&)\bord3.375\fs54}Evening
+Dialogue: 0,0:00:42.10,0:00:42.14,Working - TS,,0,0,0,,{\pos(253.16,371.5)\c&H48494A&\3c&HEDEFF1&\t(1111,1320,1,\3c&HFFFFFF&\c&HFFFFFF&)\bord3.375\fs54}Evening
+Dialogue: 0,0:00:42.14,0:00:42.18,Working - TS,,0,0,0,,{\pos(253.33,348.75)\c&H48494A&\3c&HEDEFF1&\t(1070,1279,1,\3c&HFFFFFF&\c&HFFFFFF&)\bord3.375\fs54}Evening
+Dialogue: 0,0:00:42.14,0:00:43.69,Working - TS,,0,0,0,,{\c&H48494A&\3c&HEDEFF1&\t(1320,1529,\3c&HFFFFFF&\c&HFFFFFF&)\bord3.375\fs54\pos(253.333333,348.75)}Evening
 Dialogue: 0,0:01:07.63,0:01:13.26,Working - TS,,0,0,0,,{\fad(600,550)\fs58.5\3c&HFFFFFF&\bord6.75\c&H1706C4&\pos(960,735)}Item 8
 Dialogue: 0,0:01:07.63,0:01:13.26,Working - TS,,0,0,0,,{\fad(600,550)\fs58.5\3c&HFFFFFF&\bord6.75\c&H1706C4&\pos(960,1053)}Inami’s first time? We’re going out!
-Comment: 0,0:01:43.21,0:01:43.34,Working - TS,,0,0,0,,{\c&H5944BB&\fs31.5\frx24\fry354\frz331.48\pos(424,1019.25)}Trainee
+Comment: 0,0:01:43.21,0:01:43.34,Working - TS,,0,0,0,,{\c&H5944BB&\fs31.5\frx24\fry354\frz331.48\pos(424,1019.25)}Trainee{this looks bad and it's not important enough to :eff, so baleeted}
 Comment: 0,0:01:43.34,0:01:45.42,Working - TS,,0,0,0,,{\c&H5944BB&\fs31.5\frx24\fry354\frz331.48\pos(426.666667,947.25)}Trainee
 Comment: 0,0:03:22.39,0:03:26.22,Working - TS,,0,0,0,,{\c&H5944BB&\fs40.5\frx4\fry336\frz333.386\pos(330.666667,900)}Trainee
-Dialogue: 0,0:06:53.65,0:06:55.02,Working - TS,,0,0,0,,{\fs36\frz17.421\c&H56575A&\move(986.666667,747,986.666667,1152,0,1356)}Yamada
-Dialogue: 0,0:06:53.65,0:06:56.23,Working - TS,,0,0,0,,{\bord4.5\fs54\3c&HE2BD79&\c&HF6F0EB&\shad7\4a&H30&\blur1\fnComfortaa\move(1554.67,141.75,1560,897.75,0,2566)\4c&H545553&}Store phone
-Dialogue: 0,0:07:22.17,0:07:22.30,Working - TS,,0,0,0,,{\c&H0D0C10&\fs76.5\frz216.317\pos(776,639)}Best Milk
-Dialogue: 0,0:07:22.30,0:07:22.42,Working - TS,,0,0,0,,{\c&H0D0C10&\fs76.5\frz216.317\pos(813.333333,632.25)}Best Milk
-Dialogue: 0,0:07:22.42,0:07:22.55,Working - TS,,0,0,0,,{\c&H0D0C10&\fs76.5\frz216.317\pos(850.666667,616.5)}Best Milk
-Dialogue: 0,0:07:22.55,0:07:22.68,Working - TS,,0,0,0,,{\c&H0D0C10&\fs76.5\frz216.317\pos(882.666667,596.25)}Best Milk
-Dialogue: 0,0:07:22.68,0:07:22.80,Working - TS,,0,0,0,,{\c&H0D0C10&\fs76.5\pos(909.333333,582.75)\frz214.003}Best Milk
-Dialogue: 0,0:07:22.80,0:07:22.93,Working - TS,,0,0,0,,{\c&H0D0C10&\fs76.5\frz214.003\pos(904,580.5)}Best Milk
-Dialogue: 0,0:07:22.93,0:07:23.05,Working - TS,,0,0,0,,{\c&H0D0C10&\fs76.5\frz214.003\pos(874.666667,589.5)}Best Milk
-Dialogue: 0,0:07:23.05,0:07:23.13,Working - TS,,0,0,0,,{\c&H0D0C10&\fs76.5\frz214.003\pos(869.333333,591.75)}Best Milk
-Dialogue: 0,0:15:49.84,0:15:52.80,Working - TS,,0,0,0,,{\c&HE5E7E6&\fs50\bord3\3c&H5A5AD1&\fax0.24\frz335\pos(610.654,341.358)}Hot
-Dialogue: 0,0:15:49.84,0:15:52.80,Working - TS,,0,0,0,,{\c&HE5E7E6&\fs50\bord3\3c&H5A5AD1&\fax0.24\frz335\pos(610.654,391.958)}Spring
-Dialogue: 0,0:15:49.84,0:15:52.80,Working - TS,,0,0,0,,{\c&HE5E7E6&\fs50\bord3\3c&H5A5AD1&\fax0.24\frz335\pos(605.914,447.303)}buns
+Dialogue: 0,0:06:53.64,0:06:55.02,Working - TS,,0,0,0,,{\move(990,741,990.015,1132.24,23,1358)\fs36\c&H56575A&\frz14.81}Yamada
+Dialogue: 0,0:06:53.64,0:06:56.27,Working - TS,,0,0,0,,{\move(1554,141,1554.03,898.178,23,2609)\bord4.5\fs54\3c&HE2BD79&\c&HF6F0EB&\shad7\4a&H30&\blur1\fnComfortaa\4c&H545553&}Store phone
+Comment: 0,0:07:22.17,0:07:23.13,Working - TS,,0,0,0,,{\c&H0D0C10&\an5\bord3\fs76.5\frz214\3c&HF4F5F4&\pos(856.593,762.338)}Best Milk
+Dialogue: 0,0:07:22.17,0:07:22.29,Working - TS,,0,0,0,,{\pos(856.59,762.34)\org(856.59,762.34)\frz214\c&H0D0C10&\an5\bord3\fs76.5\3c&HF4F5F4&}Best Milk
+Dialogue: 0,0:07:22.29,0:07:22.42,Working - TS,,0,0,0,,{\pos(885.65,748.09)\org(885.65,748.09)\frz212.21\c&H0D0C10&\an5\bord3\fs76.5\3c&HF4F5F4&}Best Milk
+Dialogue: 0,0:07:22.42,0:07:22.54,Working - TS,,0,0,0,,{\pos(918.75,737.71)\org(918.75,737.71)\frz212.22\c&H0D0C10&\an5\bord3\fs76.5\3c&HF4F5F4&}Best Milk
+Dialogue: 0,0:07:22.54,0:07:22.67,Working - TS,,0,0,0,,{\pos(945.02,723.57)\org(945.02,723.57)\frz210.95\c&H0D0C10&\an5\bord3\fs76.5\3c&HF4F5F4&}Best Milk
+Dialogue: 0,0:07:22.67,0:07:22.79,Working - TS,,0,0,0,,{\pos(968.57,710.91)\org(968.57,710.91)\frz209.36\c&H0D0C10&\an5\bord3\fs76.5\3c&HF4F5F4&}Best Milk
+Dialogue: 0,0:07:22.79,0:07:22.92,Working - TS,,0,0,0,,{\pos(964.57,711.34)\org(964.57,711.34)\frz210.1\c&H0D0C10&\an5\bord3\fs76.5\3c&HF4F5F4&}Best Milk
+Dialogue: 0,0:07:22.92,0:07:23.04,Working - TS,,0,0,0,,{\pos(947.13,717.45)\org(947.13,717.45)\frz212.08\c&H0D0C10&\an5\bord3\fs76.5\3c&HF4F5F4&}Best Milk
+Dialogue: 0,0:07:23.04,0:07:23.13,Working - TS,,0,0,0,,{\pos(938.08,717.44)\org(938.08,717.44)\frz212.24\c&H0D0C10&\an5\bord3\fs76.5\3c&HF4F5F4&}Best Milk
+Dialogue: 0,0:15:49.84,0:15:52.80,Working - TS,,0,0,0,,{\move(625,340,709.644,327.852,26,2945)\fscx100\fscy100\bord3\t(26,2945,\fscx91.75\fscy91.75\bord2.75)\c&HE5E7E6&\an5\fs50\3c&H5A5AD1&\fax0.24\frz335}Hot
+Dialogue: 0,0:15:49.84,0:15:52.80,Working - TS,,0,0,0,,{\move(615,390,700.469,373.726,26,2945)\fscx100\fscy100\bord3\t(26,2945,\fscx91.75\fscy91.75\bord2.75)\c&HE5E7E6&\an5\fs50\3c&H5A5AD1&\fax0.24\frz335}Spring
+Dialogue: 0,0:15:49.84,0:15:52.80,Working - TS,,0,0,0,,{\move(608,447,694.047,426.022,26,2945)\fscx100\fscy100\bord3\t(26,2945,\fscx91.75\fscy91.75\bord2.75)\c&HE5E7E6&\an5\fs50\3c&H5A5AD1&\fax0.24\frz335}buns
 Dialogue: 0,0:16:20.30,0:16:21.59,Working - TS,,0,0,0,,{\c&H6AA2B3&\fs54\pos(960,960)\4a&H00&\yshad-2\xshad1}Kappa Canyon
 Dialogue: 0,0:16:21.59,0:16:21.71,Working - TS,,0,0,0,,{\c&H6AA2B3&\fs54\pos(960,960)\4a&H00&\yshad-2\xshad1\clip(m 872 909 l 877 995 1197 1037 1309 828)}Kappa Canyon
 Dialogue: 0,0:16:21.71,0:16:21.84,Working - TS,,0,0,0,,{\c&H6AA2B3&\fs54\pos(960,960)\4a&H00&\yshad-2\xshad1\clip(m 1037 882 l 1059 990 1197 1037 1309 828)}Kappa Canyon
@@ -74,7 +99,7 @@ Dialogue: 0,0:00:31.34,0:00:32.63,Working - Dialogue,,0,0,0,,What’s wrong Aoi-
 Dialogue: 0,0:00:32.63,0:00:36.01,Working - Dialogue,,0,0,0,,Yamada will be all alone here tomorrow.
 Dialogue: 0,0:00:38.69,0:00:40.46,Working - Dialogue,,0,0,0,,Alone for breakfast.
 Dialogue: 0,0:00:40.46,0:00:42.16,Working - Dialogue,,0,0,0,,Alone for lunch.
-Dialogue: 0,0:00:42.16,0:00:43.69,Working - Dialogue,,0,0,0,,{\fad(0,300)}And alone for dinner.
+Dialogue: 0,0:00:42.16,0:00:43.69,Working - Dialogue,,0,0,0,,{\t(1300,1509,\3c&HFFFFFF&\c&HFFFFFF&\4c&HFFFFFF&)}And alone for dinner.
 Dialogue: 0,0:00:44.25,0:00:46.19,Working - Dialogue,,0,0,0,,Yamada can do whatever she wants!
 Dialogue: 0,0:00:46.19,0:00:47.38,Working - Dialogue,,0,0,0,,Yamada...
 Dialogue: 0,0:00:48.22,0:00:51.12,Working - Dialogue,,0,0,0,,Don’t leave the attic tomorrow.
