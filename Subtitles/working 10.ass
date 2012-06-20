@@ -7,22 +7,17 @@ WrapStyle: 0
 PlayResX: 720
 PlayResY: 480
 ScaledBorderAndShadow: yes
-Video File: ..\..\..\Desktop\10-720-8bit.mkv
 Video Aspect Ratio: 0
-Video Zoom: 2
-Video Position: 32339
+Video Zoom: 4
+Video Position: 32331
 Last Style Storage: work
 Collisions: Normal
-Audio File: ?video
 Video Zoom Percent: 1.000000
+Audio File: ?video
+Video File: ..\..\..\Desktop\10-720-8bit.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: WK-Main,Myriad Web Pro Condensed,50,&H00E3EBFF,&HFFFFFFFF,&H002D3036,&H96000000,-1,0,0,0,100,97,0,0,1,2.7,1,2,50,50,30,1
-Style: WK-Alt,Myriad Web Pro Condensed,50,&H00E9E9FF,&HFFFFFFFF,&H003D3D60,&H96000000,-1,0,0,0,100,97,0,0,1,2.7,1,2,50,50,30,1
-Style: WK-Past,Myriad Web Pro Condensed,50,&H00D5E3FF,&HFFFFFFFF,&H002D3036,&H96000000,-1,-1,0,0,100,97,0,0,1,2.7,1,2,50,50,30,1
-Style: WK-Thoughts,Myriad Web Pro Condensed,50,&H00F1E0F2,&HFFFFFFFF,&H00352D36,&H96000000,-1,-1,0,0,100,97,0,0,1,2.7,1,2,50,50,30,1
-Style: WK-Announce,Myriad Web Pro Condensed,50,&H00E3EBFF,&HFFFFFFFF,&H002D3036,&H96000000,-1,0,0,0,100,97,0,0,1,2.7,1,8,50,50,30,1
 Style: Working - Dialogue,Verlag Bold,36,&H00FFFFFF,&HFFFFFFFF,&H00040423,&H96000000,0,0,0,0,85,100,0,0,1,1.7,1.6,2,30,30,25,1
 Style: Working - Alt,Verlag Bold,36,&H00FFFFFF,&HFFFFFFFF,&H00031706,&H96000000,0,0,0,0,85,100,0,0,1,1.7,1.6,2,30,30,25,1
 Style: Working - Internal,Verlag Bold,36,&H00FFFFFF,&HFFFFFFFF,&H00040423,&H96000000,0,-1,0,0,85,100,0,0,1,1.7,1.6,2,30,30,25,1
@@ -421,8 +416,22 @@ Dialogue: 0,0:19:47.03,0:19:48.18,Working - Dialogue,,0000,0000,0000,,Just make 
 Dialogue: 0,0:19:49.20,0:19:50.90,Working - Dialogue,,0000,0000,0000,,I-I'll do my best!
 Dialogue: 0,0:19:51.90,0:19:53.87,Working - Dialogue,,0000,0000,0000,,Okay, let's get back to work.
 Dialogue: 0,0:19:57.93,0:20:00.39,Working - Dialogue,,0000,0000,0000,,So you can just act like you always have.
-Comment: 0,0:00:00.00,0:00:00.00,Working - Dialogue,,0000,0000,0000,,ED
-Comment: 0,0:00:00.00,0:21:46.40,Working - Dialogue,,0000,0000,0000,,missing section here
+Comment: 0,0:21:46.36,0:21:46.40,Working - Dialogue,,0000,0000,0000,,ED
+Dialogue: 0,0:21:47.08,0:21:49.33,Working - Dialogue,,0000,0000,0000,,Although my androphobia is an issue,
+Dialogue: 0,0:21:50.25,0:21:53.33,Working - Dialogue,,0000,0000,0000,,we also need to cure your disorder, don't you think?
+Dialogue: 0,0:21:54.27,0:21:56.10,Working - Dialogue,,0000,0000,0000,,I'm not crazy or anything.
+Dialogue: 0,0:21:56.95,0:21:59.13,Working - Dialogue,,0000,0000,0000,,Between an idol and a water flea, which one do you think is cuter?
+Dialogue: 0,0:21:59.78,0:22:00.47,Working - Dialogue,,0000,0000,0000,,A water flea.
+Dialogue: 0,0:22:01.13,0:22:01.73,Working - Internal,,0000,0000,0000,,He's crazy.
+Dialogue: 0,0:22:03.21,0:22:06.17,Working - Dialogue,,0000,0000,0000,,Even comparing the two is an insult to water fleas!
+Dialogue: 0,0:22:08.83,0:22:10.11,Working - Dialogue,,0000,0000,0000,,This is what he's like.
+Dialogue: 0,0:22:10.84,0:22:14.12,Working - Dialogue,,0000,0000,0000,,I like this weirdo who looks like he'll never be loved.
+Dialogue: 0,0:22:14.25,0:22:16.50,Working - Dialogue,,0000,0000,0000,,Am I going to be okay?
+Dialogue: 0,0:22:17.62,0:22:18.00,Working - Dialogue,,0000,0000,0000,,Wait a second.
+Dialogue: 0,0:22:18.67,0:22:19.59,Working - Dialogue,,0000,0000,0000,,That means...
+Dialogue: 0,0:22:20.20,0:22:23.33,Working - Dialogue,,0000,0000,0000,,not many others will be interested in him, so I should be relieved?
+Dialogue: 0,0:22:24.57,0:22:26.12,Working - Dialogue,,0000,0000,0000,,You weirdo!
+Comment: 0,0:22:28.78,0:22:29.48,Working - TS,,0000,0000,0000,,TS Sign
 Dialogue: 0,0:22:28.78,0:22:29.48,Working - Dialogue,,0000,0000,0000,,Next episode preview:
 Dialogue: 0,0:22:29.61,0:22:31.18,Working - Dialogue,,0000,0000,0000,,Good work, Takanashi-kun.
 Dialogue: 0,0:22:31.19,0:22:32.02,Working - Dialogue,,0000,0000,0000,,Good work to you too.
