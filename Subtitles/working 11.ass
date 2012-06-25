@@ -9,7 +9,7 @@ PlayResY: 720
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 0
 Video Zoom: 4
-Video Position: 21008
+Video Position: 32466
 Video Zoom Percent: 6
 Last Style Storage: [uguu~] Working!!
 Video File: Z:\Downloads\11-720-8bit.mkv
@@ -28,504 +28,504 @@ Style: Working ED - rom,Flora LT Medium,28,&H000285E0,&H00A3ECFF,&H00000000,&H96
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.77,0:00:12.53,Working - Dialogue,,0000,0000,0000,,Good morning, Yamada here.
-Dialogue: 0,0:00:13.00,0:00:16.28,Working - Dialogue,,0000,0000,0000,,Due to certain circumstances, I am currently residing in Wagnaria's attic.
-Dialogue: 0,0:00:17.47,0:00:19.65,Working - Dialogue,,0000,0000,0000,,But my true identity is a super waitress!
-Dialogue: 0,0:00:20.71,0:00:24.88,Working - Dialogue,,0000,0000,0000,,And Yamada's perfect and glamorous day is just beginning.
-Dialogue: 0,0:00:26.97,0:00:28.82,Working - Dialogue,,0000,0000,0000,,Perfect was a lie. I'm sorry!
-Dialogue: 0,0:00:29.29,0:00:31.21,Working - Dialogue,,0000,0000,0000,,Hey, Yamada! Hurry and get up.
-Dialogue: 0,0:00:31.56,0:00:32.69,Working - Dialogue,,0000,0000,0000,,Aoi-chan.
-Dialogue: 0,0:00:36.74,0:00:39.00,Working - Dialogue,,0000,0000,0000,,Manager, Yachiyo-san, good morning.
-Dialogue: 0,0:00:39.35,0:00:41.52,Working - Dialogue,,0000,0000,0000,,If you're going to use the water to get ready,
-Dialogue: 0,0:00:41.80,0:00:44.28,Working - Dialogue,,0000,0000,0000,,please do so before the rest of the staff get here.
-Dialogue: 0,0:00:44.82,0:00:45.53,Working - Dialogue,,0000,0000,0000,,Hurry up.
-Dialogue: 0,0:00:45.97,0:00:46.74,Working - Dialogue,,0000,0000,0000,,Okay.
-Dialogue: 0,0:00:48.46,0:00:50.60,Working - Dialogue,,0000,0000,0000,,This is how Yamada's day starts.
-Dialogue: 0,0:00:51.06,0:00:54.93,Working - Dialogue,,0000,0000,0000,,When evening comes, the usual part-timers arrive.
-Dialogue: 0,0:00:58.72,0:01:00.68,Working - Dialogue,,0000,0000,0000,,What's wrong, Taneshima-san?
-Dialogue: 0,0:01:01.24,0:01:02.86,Working - Dialogue,,0000,0000,0000,,You're like a maiden in love.
-Dialogue: 0,0:01:04.30,0:01:06.82,Working - Dialogue,,0000,0000,0000,,I hope Katanashi-kun comes soon.
-Dialogue: 0,0:01:08.90,0:01:09.96,Working - Dialogue,,0000,0000,0000,,Good morning.
-Dialogue: 0,0:01:10.17,0:01:11.08,Working - Dialogue,,0000,0000,0000,,Katanashi-kun!
-Dialogue: 0,0:01:12.14,0:01:14.34,Working - Dialogue,,0000,0000,0000,,Ah, you look cute as usual today, Senpai.
-Dialogue: 0,0:01:15.42,0:01:17.91,Working - Dialogue,,0000,0000,0000,,It makes me so happy when you compliment me.
-Dialogue: 0,0:01:19.28,0:01:20.74,Working - Dialogue,,0000,0000,0000,,Let's work hard today.
-Dialogue: 0,0:01:22.61,0:01:23.91,Working - Dialogue,,0000,0000,0000,,Oh, he's so dreamy!
-Dialogue: 0,0:01:25.66,0:01:26.15,Working - Dialogue,,0000,0000,0000,,What is it?
-Dialogue: 0,0:01:26.58,0:01:26.97,Working - Dialogue,,0000,0000,0000,,Nothing.
-Dialogue: 0,0:01:27.36,0:01:28.89,Working - Dialogue,,0000,0000,0000,,I was just wondering if you had a fever.
-Dialogue: 0,0:01:29.41,0:01:29.63,Working - Dialogue,,0000,0000,0000,,Hm?
-Dialogue: 0,0:01:33.76,0:01:37.76,Working - Internal,,0000,0000,0000,,I knew that Taneshima-san was quite fond of the cross-dressed Takanashi-san,
-Dialogue: 0,0:01:38.39,0:01:40.86,Working - Internal,,0000,0000,0000,,but have those feelings transferred to the normal Takanashi-san?
-Dialogue: 0,0:01:41.43,0:01:43.46,Working - Internal,,0000,0000,0000,,But Inami-san also likes Takanashi-san.
-Dialogue: 0,0:01:44.11,0:01:46.47,Working - Internal,,0000,0000,0000,,Could this be a love triangle?
-Dialogue: 0,0:01:47.31,0:01:49.59,Working - Internal,,0000,0000,0000,,But Takanashi-san likes small things,
-Dialogue: 0,0:01:49.86,0:01:51.01,Working - Internal,,0000,0000,0000,,so would he choose Taneshima-san?
-Dialogue: 0,0:01:51.62,0:01:54.95,Working - Internal,,0000,0000,0000,,Then, that would mean that Takanashi-san and Taneshima-san would start dating!
-Dialogue: 0,0:01:57.35,0:01:58.93,Working - Dialogue,,0000,0000,0000,,They wouldn't look good together at all!
-Dialogue: 0,0:01:59.32,0:02:01.02,Working - Dialogue,,0000,0000,0000,,Yamada-san, watch out for your fingers!
-Dialogue: 0,0:02:05.55,0:02:07.71,Working - Dialogue,,0000,0000,0000,,Thank goodness, it didn't cut your skin.
-Dialogue: 0,0:02:09.18,0:02:11.23,Working - Dialogue,,0000,0000,0000,,What? You don't have to cry.
-Dialogue: 0,0:02:11.67,0:02:12.57,Working - Dialogue,,0000,0000,0000,,You're not hurt.
-Dialogue: 0,0:02:13.51,0:02:15.90,Working - Dialogue,,0000,0000,0000,,But Inami-san is so nice and pretty...
-Dialogue: 0,0:02:16.71,0:02:18.28,Working - Dialogue,,0000,0000,0000,,Wh-What is this all of a sudden?
+Dialogue: 0,0:00:10.61,0:00:13.00,Working - Dialogue,,0000,0000,0000,,Good morning, Yamada here.
+Dialogue: 0,0:00:13.00,0:00:17.16,Working - Dialogue,,0000,0000,0000,,Due to certain circumstances, I am currently residing in Wagnaria's attic.
+Dialogue: 0,0:00:17.16,0:00:20.08,Working - Dialogue,,0000,0000,0000,,But my true identity is a super waitress!
+Dialogue: 0,0:00:20.55,0:00:25.38,Working - Dialogue,,0000,0000,0000,,And Yamada's perfect and glamorous day is just beginning.
+Dialogue: 0,0:00:26.81,0:00:28.96,Working - Dialogue,,0000,0000,0000,,Perfect was a lie. I'm sorry!
+Dialogue: 0,0:00:29.29,0:00:31.56,Working - Dialogue,,0000,0000,0000,,Hey, Yamada! Hurry and get up.
+Dialogue: 0,0:00:31.56,0:00:32.92,Working - Dialogue,,0000,0000,0000,,Aoi-chan.
+Dialogue: 0,0:00:36.58,0:00:39.35,Working - Dialogue,,0000,0000,0000,,Manager, Yachiyo-san, good morning.
+Dialogue: 0,0:00:39.35,0:00:41.80,Working - Dialogue,,0000,0000,0000,,If you're going to use the water to get ready,
+Dialogue: 0,0:00:41.80,0:00:44.78,Working - Dialogue,,0000,0000,0000,,please do so before the rest of the staff get here.
+Dialogue: 0,0:00:44.78,0:00:45.97,Working - Dialogue,,0000,0000,0000,,Hurry up.
+Dialogue: 0,0:00:45.97,0:00:47.02,Working - Dialogue,,0000,0000,0000,,Okay.
+Dialogue: 0,0:00:48.30,0:00:51.06,Working - Dialogue,,0000,0000,0000,,This is how Yamada's day starts.
+Dialogue: 0,0:00:51.06,0:00:55.07,Working - Dialogue,,0000,0000,0000,,When evening comes, the usual part-timers arrive.
+Dialogue: 0,0:00:58.56,0:01:01.18,Working - Dialogue,,0000,0000,0000,,What's wrong, Taneshima-san?
+Dialogue: 0,0:01:01.18,0:01:03.36,Working - Dialogue,,0000,0000,0000,,You're like a maiden in love.
+Dialogue: 0,0:01:04.14,0:01:07.32,Working - Dialogue,,0000,0000,0000,,I hope Katanashi-kun comes soon.
+Dialogue: 0,0:01:08.50,0:01:10.00,Working - Dialogue,,0000,0000,0000,,Good morning.
+Dialogue: 0,0:01:10.00,0:01:11.58,Working - Dialogue,,0000,0000,0000,,Katanashi-kun!
+Dialogue: 0,0:01:11.98,0:01:14.97,Working - Dialogue,,0000,0000,0000,,Ah, you look cute as usual today, Senpai.
+Dialogue: 0,0:01:15.26,0:01:18.41,Working - Dialogue,,0000,0000,0000,,It makes me so happy when you compliment me.
+Dialogue: 0,0:01:19.12,0:01:21.24,Working - Dialogue,,0000,0000,0000,,Let's work hard today.
+Dialogue: 0,0:01:22.45,0:01:24.81,Working - Dialogue,,0000,0000,0000,,Oh, he's so dreamy!
+Dialogue: 0,0:01:25.50,0:01:26.58,Working - Dialogue,,0000,0000,0000,,What is it?
+Dialogue: 0,0:01:26.58,0:01:27.36,Working - Dialogue,,0000,0000,0000,,Nothing.
+Dialogue: 0,0:01:27.36,0:01:29.39,Working - Dialogue,,0000,0000,0000,,I was just wondering if you had a fever.
+Dialogue: 0,0:01:29.39,0:01:30.13,Working - Dialogue,,0000,0000,0000,,Hm?
+Dialogue: 0,0:01:33.36,0:01:37.82,Working - Internal,,0000,0000,0000,,I knew that Taneshima-san was quite fond of the cross-dressed Takanashi-san,
+Dialogue: 0,0:01:38.26,0:01:41.36,Working - Internal,,0000,0000,0000,,but have those feelings transferred to the normal Takanashi-san?
+Dialogue: 0,0:01:41.36,0:01:43.96,Working - Internal,,0000,0000,0000,,But Inami-san also likes Takanashi-san.
+Dialogue: 0,0:01:43.96,0:01:46.79,Working - Internal,,0000,0000,0000,,Could this be a love triangle?
+Dialogue: 0,0:01:47.15,0:01:49.86,Working - Internal,,0000,0000,0000,,But Takanashi-san likes small things,
+Dialogue: 0,0:01:49.86,0:01:51.51,Working - Internal,,0000,0000,0000,,so would he choose Taneshima-san?
+Dialogue: 0,0:01:51.51,0:01:55.45,Working - Internal,,0000,0000,0000,,Then, that would mean that Takanashi-san and Taneshima-san would start dating!
+Dialogue: 0,0:01:57.09,0:01:58.97,Working - Dialogue,,0000,0000,0000,,They wouldn't look good together at all!
+Dialogue: 0,0:01:59.32,0:02:01.52,Working - Dialogue,,0000,0000,0000,,Yamada-san, watch out for your fingers!
+Dialogue: 0,0:02:05.35,0:02:08.21,Working - Dialogue,,0000,0000,0000,,Thank goodness, it didn't cut your skin.
+Dialogue: 0,0:02:09.02,0:02:11.67,Working - Dialogue,,0000,0000,0000,,What? You don't have to cry.
+Dialogue: 0,0:02:11.67,0:02:13.35,Working - Dialogue,,0000,0000,0000,,You're not hurt.
+Dialogue: 0,0:02:13.35,0:02:16.55,Working - Dialogue,,0000,0000,0000,,But Inami-san is so nice and pretty...
+Dialogue: 0,0:02:16.55,0:02:18.30,Working - Dialogue,,0000,0000,0000,,Wh-What is this all of a sudden?
 Dialogue: 0,0:02:18.30,0:02:19.72,Working - Dialogue,,0000,0000,0000,,and her breasts are so small.
-Dialogue: 0,0:02:19.72,0:02:20.20,Working - Dialogue,,0000,0000,0000,,What?!
-Dialogue: 0,0:02:20.56,0:02:23.27,Working - Dialogue,,0000,0000,0000,,Um, should I be angry now?
-Dialogue: 0,0:02:23.70,0:02:26.33,Working - Internal,,0000,0000,0000,,If things got messy, I wonder if they would fight each other?
-Dialogue: 0,0:02:26.61,0:02:28.69,Working - Internal,,0000,0000,0000,,But Yamada likes both of them.
+Dialogue: 0,0:02:19.72,0:02:20.56,Working - Dialogue,,0000,0000,0000,,What?!
+Dialogue: 0,0:02:20.56,0:02:23.70,Working - Dialogue,,0000,0000,0000,,Um, should I be angry now?
+Dialogue: 0,0:02:23.70,0:02:26.61,Working - Internal,,0000,0000,0000,,If things got messy, I wonder if they would fight each other?
+Dialogue: 0,0:02:26.61,0:02:28.83,Working - Internal,,0000,0000,0000,,But Yamada likes both of them.
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Yamada's Imagination
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,~Wagnarai News~
 Comment: 0,0:02:28.91,0:02:42.85,Names,,0000,0000,0000,,~Wagnaria Update~
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,The muddy love triangle that occurred in a family restaurant!!
 Comment: 0,0:02:28.91,0:02:42.85,Names,,0000,0000,0000,,Love triangle mudslinging occurring within a local restaurant
 Comment: 0,0:02:28.89,0:02:42.87,Sign - Wagnaria News,,0000,0000,0000,,{\an7\fs25\fad(250,250)\pos(333,324)}A love triangle has arisen within\Nthe family restaurant!!
-Dialogue: 0,0:02:29.41,0:02:30.66,Working - Dialogue,,0000,0000,0000,,You're horrible, Taneshima-san!
-Dialogue: 0,0:02:31.02,0:02:33.23,Working - Dialogue,,0000,0000,0000,,I was the first to fall in love with him!
-Dialogue: 0,0:02:33.65,0:02:35.05,Working - Dialogue,,0000,0000,0000,,Don't be so naive, Inami-chan.
-Dialogue: 0,0:02:35.47,0:02:38.09,Working - Dialogue,,0000,0000,0000,,Love isn't about fairness; it's about making your move first!
-Dialogue: 0,0:02:38.68,0:02:39.33,Working - Dialogue,,0000,0000,0000,,I've lost.
-Dialogue: 0,0:02:39.88,0:02:41.79,Working - Dialogue,,0000,0000,0000,,As expected, bigger breasts are...
-Dialogue: 0,0:02:43.20,0:02:44.34,Working - Dialogue,,0000,0000,0000,,I don't like this.
-Dialogue: 0,0:02:44.53,0:02:45.02,Working - Dialogue,,0000,0000,0000,,Huh?
-Dialogue: 0,0:02:45.76,0:02:46.32,Working - Dialogue,,0000,0000,0000,,Um...
-Dialogue: 0,0:02:46.62,0:02:47.33,Working - Dialogue,,0000,0000,0000,,What's going on?
-Dialogue: 0,0:02:47.56,0:02:48.68,Working - Dialogue,,0000,0000,0000,,You're acting weird, Yamada-san.
-Dialogue: 0,0:02:49.45,0:02:50.85,Working - Dialogue,,0000,0000,0000,,The truth is that Taneshima-san...
-Dialogue: 0,0:02:50.85,0:02:51.72,Working - Dialogue,,0000,0000,0000,,Inami-chan!
-Dialogue: 0,0:02:52.29,0:02:53.11,Working - Dialogue,,0000,0000,0000,,Taneshima-san!
-Dialogue: 0,0:02:53.49,0:02:56.19,Working - Dialogue,,0000,0000,0000,,This might make you angry, but I can't hold it in anymore.
-Dialogue: 0,0:02:56.53,0:02:57.95,Working - Dialogue,,0000,0000,0000,,I'm going to confess my love!
-Dialogue: 0,0:02:58.39,0:03:00.86,Working - Dialogue,,0000,0000,0000,,I-I don't really understand what's going on, but good luck!
-Dialogue: 0,0:03:01.28,0:03:03.14,Working - Dialogue,,0000,0000,0000,,You can't cheer for her if you don't know what's happening!
+Dialogue: 0,0:02:29.25,0:02:31.02,Working - Dialogue,,0000,0000,0000,,You're horrible, Taneshima-san!
+Dialogue: 0,0:02:31.02,0:02:33.65,Working - Dialogue,,0000,0000,0000,,I was the first to fall in love with him!
+Dialogue: 0,0:02:33.65,0:02:35.47,Working - Dialogue,,0000,0000,0000,,Don't be so naive, Inami-chan.
+Dialogue: 0,0:02:35.47,0:02:38.59,Working - Dialogue,,0000,0000,0000,,Love isn't about fairness; it's about making your move first!
+Dialogue: 0,0:02:38.59,0:02:39.83,Working - Dialogue,,0000,0000,0000,,I've lost.
+Dialogue: 0,0:02:39.83,0:02:42.29,Working - Dialogue,,0000,0000,0000,,As expected, bigger breasts are...
+Dialogue: 0,0:02:42.85,0:02:44.53,Working - Dialogue,,0000,0000,0000,,I don't like this.
+Dialogue: 0,0:02:44.53,0:02:45.60,Working - Dialogue,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:45.60,0:02:46.62,Working - Dialogue,,0000,0000,0000,,Um...
+Dialogue: 0,0:02:46.62,0:02:47.56,Working - Dialogue,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:02:47.56,0:02:49.29,Working - Dialogue,,0000,0000,0000,,You're acting weird, Yamada-san.
+Dialogue: 0,0:02:49.29,0:02:50.85,Working - Dialogue,,0000,0000,0000,,The truth is that Taneshima-san...
+Dialogue: 0,0:02:50.85,0:02:52.22,Working - Dialogue,,0000,0000,0000,,Inami-chan!
+Dialogue: 0,0:02:52.22,0:02:53.27,Working - Dialogue,,0000,0000,0000,,Taneshima-san!
+Dialogue: 0,0:02:53.27,0:02:56.07,Working - Dialogue,,0000,0000,0000,,This might make you angry, but I can't hold it in anymore.
+Dialogue: 0,0:02:56.53,0:02:58.39,Working - Dialogue,,0000,0000,0000,,I'm going to confess my love!
+Dialogue: 0,0:02:58.39,0:03:01.28,Working - Dialogue,,0000,0000,0000,,I-I don't really understand what's going on, but good luck!
+Dialogue: 0,0:03:01.28,0:03:03.95,Working - Dialogue,,0000,0000,0000,,You can't cheer for her if you don't know what's happening!
 Comment: 0,0:00:00.00,0:00:00.00,Working - Dialogue,,0000,0000,0000,,OP
 Comment: 0,0:00:00.00,0:00:00.00,Working - Dialogue,,0000,0000,0000,,Item 11
 Comment: 0,0:00:00.00,0:00:00.00,Working - Dialogue,,0000,0000,0000,,Yachiyo and Satou Back Then. And, Welcome to the Takanashi Household.
-Dialogue: 0,0:03:06.54,0:03:07.39,Working - Dialogue,,0000,0000,0000,,Katanashi-kun.
-Dialogue: 0,0:03:07.89,0:03:08.42,Working - Dialogue,,0000,0000,0000,,Um...
-Dialogue: 0,0:03:09.23,0:03:10.30,Working - Dialogue,,0000,0000,0000,,{\an8}What's the matter, Senpai?
-Dialogue: 0,0:03:10.79,0:03:13.16,Working - Dialogue,,0000,0000,0000,,{\an8}I-I have a present for you.
-Dialogue: 0,0:03:14.05,0:03:15.22,Working - Dialogue,,0000,0000,0000,,Will you accept it?
-Dialogue: 0,0:03:15.54,0:03:16.36,Working - Dialogue,,0000,0000,0000,,Huh? Sure.
-Dialogue: 0,0:03:17.65,0:03:18.27,Working - Dialogue,,0000,0000,0000,,Present?
-Dialogue: 0,0:03:19.36,0:03:21.69,Working - Dialogue,,0000,0000,0000,,I can't reach up there so squat down, squat down.
-Dialogue: 0,0:03:22.10,0:03:22.93,Working - Dialogue,,0000,0000,0000,,Huh? What?!
-Dialogue: 0,0:03:26.01,0:03:26.94,Working - Dialogue,,0000,0000,0000,,Katanashi-kun, I...
-Dialogue: 0,0:03:27.21,0:03:27.41,Working - Dialogue,,0000,0000,0000,,Yes?
-Dialogue: 0,0:03:28.42,0:03:31.00,Working - Dialogue,,0000,0000,0000,,This is... how I feel!
-Dialogue: 0,0:03:36.02,0:03:38.33,Working - Dialogue,,0000,0000,0000,,What is this, Senpai?
-Dialogue: 0,0:03:39.43,0:03:41.06,Working - Dialogue,,0000,0000,0000,,I thought you might look good with black hair...
-Dialogue: 0,0:03:41.23,0:03:42.30,Working - Dialogue,,0000,0000,0000,,Not that!
-Dialogue: 0,0:03:42.48,0:03:44.13,Working - Dialogue,,0000,0000,0000,,What did you plan on doing with this wig?!
-Dialogue: 0,0:03:45.00,0:03:45.62,Working - Dialogue,,0000,0000,0000,,It's just that...
-Dialogue: 0,0:03:46.19,0:03:47.56,Working - Dialogue,,0000,0000,0000,,the cross-dressed Katanashi-kun is so...
-Dialogue: 0,0:03:48.21,0:03:52.17,Working - Dialogue,,0000,0000,0000,,{\fad(0,250)}Pretty, cute, cool, and tall.
-Dialogue: 0,0:03:52.87,0:03:55.58,Working - Dialogue,,0000,0000,0000,,You're precisely my ideal woman!
-Dialogue: 0,0:03:56.14,0:03:57.12,Working - Dialogue,,0000,0000,0000,,That's a man.
-Dialogue: 0,0:03:58.00,0:04:02.64,Working - Dialogue,,0000,0000,0000,,I've been trying to hold it in for days now, but I can't any longer.
-Dialogue: 0,0:04:03.21,0:04:04.75,Working - Dialogue,,0000,0000,0000,,It's okay if it's just once in a while,
-Dialogue: 0,0:04:04.91,0:04:06.89,Working - Dialogue,,0000,0000,0000,,but I wish you would dress up as a woman.
-Dialogue: 0,0:04:07.50,0:04:10.32,Working - Dialogue,,0000,0000,0000,,I can work harder if I can see my goal.
-Dialogue: 0,0:04:10.78,0:04:11.72,Working - Dialogue,,0000,0000,0000,,I refuse.
-Dialogue: 0,0:04:13.13,0:04:14.66,Working - Dialogue,,0000,0000,0000,,Inami-chan, I got rejected.
-Dialogue: 0,0:04:15.00,0:04:17.15,Working - Dialogue,,0000,0000,0000,,I was punished for getting ahead of myself.
-Dialogue: 0,0:04:17.36,0:04:19.68,Working - Dialogue,,0000,0000,0000,,I-I don't know what to say...
-Dialogue: 0,0:04:20.35,0:04:26.42,Working - Dialogue,,0000,0000,0000,,Taneshima-san, I don't know if it's my place to say, but cross-dressing is not something that boys enjoy doing.
-Dialogue: 0,0:04:27.96,0:04:28.89,Working - Dialogue,,0000,0000,0000,,Katanashi-kun.
-Dialogue: 0,0:04:31.39,0:04:32.16,Working - Dialogue,,0000,0000,0000,,I'm sorry.
-Dialogue: 0,0:04:35.00,0:04:36.20,Working - Dialogue,,0000,0000,0000,,I'll forgive you because you're so cute.
+Dialogue: 0,0:03:06.38,0:03:07.70,Working - Dialogue,,0000,0000,0000,,Katanashi-kun.
+Dialogue: 0,0:03:07.70,0:03:09.07,Working - Dialogue,,0000,0000,0000,,Um...
+Dialogue: 0,0:03:09.07,0:03:10.79,Working - Dialogue,,0000,0000,0000,,{\an8}What's the matter, Senpai?
+Dialogue: 0,0:03:10.79,0:03:13.89,Working - Dialogue,,0000,0000,0000,,{\an8}I-I have a present for you.
+Dialogue: 0,0:03:13.89,0:03:15.09,Working - Dialogue,,0000,0000,0000,,Will you accept it?
+Dialogue: 0,0:03:15.54,0:03:16.86,Working - Dialogue,,0000,0000,0000,,Huh? Sure.
+Dialogue: 0,0:03:17.49,0:03:18.77,Working - Dialogue,,0000,0000,0000,,Present?
+Dialogue: 0,0:03:19.20,0:03:22.10,Working - Dialogue,,0000,0000,0000,,I can't reach up there so squat down, squat down.
+Dialogue: 0,0:03:22.10,0:03:23.43,Working - Dialogue,,0000,0000,0000,,Huh? What?!
+Dialogue: 0,0:03:25.85,0:03:27.21,Working - Dialogue,,0000,0000,0000,,Katanashi-kun, I...
+Dialogue: 0,0:03:27.21,0:03:28.26,Working - Dialogue,,0000,0000,0000,,Yes?
+Dialogue: 0,0:03:28.26,0:03:31.50,Working - Dialogue,,0000,0000,0000,,This is... how I feel!
+Dialogue: 0,0:03:35.86,0:03:38.83,Working - Dialogue,,0000,0000,0000,,What is this, Senpai?
+Dialogue: 0,0:03:39.27,0:03:41.23,Working - Dialogue,,0000,0000,0000,,I thought you might look good with black hair...
+Dialogue: 0,0:03:41.23,0:03:42.15,Working - Dialogue,,0000,0000,0000,,Not that!
+Dialogue: 0,0:03:42.48,0:03:44.84,Working - Dialogue,,0000,0000,0000,,What did you plan on doing with this wig?!
+Dialogue: 0,0:03:44.84,0:03:46.12,Working - Dialogue,,0000,0000,0000,,It's just that...
+Dialogue: 0,0:03:46.12,0:03:47.58,Working - Dialogue,,0000,0000,0000,,the cross-dressed Katanashi-kun is so...
+Dialogue: 0,0:03:48.06,0:03:52.42,Working - Dialogue,,0000,0000,0000,,{\fad(0,250)}Pretty, cute, cool, and tall.
+Dialogue: 0,0:03:52.71,0:03:56.08,Working - Dialogue,,0000,0000,0000,,You're precisely my ideal woman!
+Dialogue: 0,0:03:56.08,0:03:57.63,Working - Dialogue,,0000,0000,0000,,That's a man.
+Dialogue: 0,0:03:57.63,0:04:02.76,Working - Dialogue,,0000,0000,0000,,I've been trying to hold it in for days now, but I can't any longer.
+Dialogue: 0,0:04:03.14,0:04:04.91,Working - Dialogue,,0000,0000,0000,,It's okay if it's just once in a while,
+Dialogue: 0,0:04:04.91,0:04:07.39,Working - Dialogue,,0000,0000,0000,,but I wish you would dress up as a woman.
+Dialogue: 0,0:04:07.39,0:04:10.27,Working - Dialogue,,0000,0000,0000,,I can work harder if I can see my goal.
+Dialogue: 0,0:04:10.78,0:04:12.22,Working - Dialogue,,0000,0000,0000,,I refuse.
+Dialogue: 0,0:04:12.81,0:04:14.48,Working - Dialogue,,0000,0000,0000,,Inami-chan, I got rejected.
+Dialogue: 0,0:04:15.00,0:04:17.36,Working - Dialogue,,0000,0000,0000,,I was punished for getting ahead of myself.
+Dialogue: 0,0:04:17.36,0:04:20.19,Working - Dialogue,,0000,0000,0000,,I-I don't know what to say...
+Dialogue: 0,0:04:20.19,0:04:26.92,Working - Dialogue,,0000,0000,0000,,Taneshima-san, I don't know if it's my place to say, but cross-dressing is not something that boys enjoy doing.
+Dialogue: 0,0:04:27.70,0:04:29.39,Working - Dialogue,,0000,0000,0000,,Katanashi-kun.
+Dialogue: 0,0:04:31.23,0:04:32.46,Working - Dialogue,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:04:34.84,0:04:36.33,Working - Dialogue,,0000,0000,0000,,I'll forgive you because you're so cute.
 Dialogue: 0,0:04:36.66,0:04:38.71,Working - Dialogue,,0000,0000,0000,,Then will you dress up as a girl?
-Dialogue: 0,0:04:39.19,0:04:40.54,Working - Dialogue,,0000,0000,0000,,I told you I won't!
-Dialogue: 0,0:04:40.59,0:04:40.99,Working - Dialogue,,0000,0000,0000,,Darn.
-Dialogue: 0,0:04:45.25,0:04:46.66,Working - Dialogue,,0000,0000,0000,,So that's what it was.
-Dialogue: 0,0:04:47.26,0:04:51.20,Working - Dialogue,,0000,0000,0000,,Yamada totally thought that Taneshima-san fell in love with Takanashi-san.
-Dialogue: 0,0:04:52.65,0:04:55.76,Working - Dialogue,,0000,0000,0000,,I was both excited and worried that a love triangle was going to form.
-Dialogue: 0,0:04:56.05,0:04:57.11,Working - Dialogue,,0000,0000,0000,,So you were excited?
-Dialogue: 0,0:04:57.68,0:04:59.05,Working - Dialogue,,0000,0000,0000,,Katanashi-kun, huh?
-Dialogue: 0,0:05:00.87,0:05:02.86,Working - Dialogue,,0000,0000,0000,,Well, Katanashi-kun is younger than me.
+Dialogue: 0,0:04:39.19,0:04:40.59,Working - Dialogue,,0000,0000,0000,,I told you I won't!
+Dialogue: 0,0:04:40.59,0:04:41.76,Working - Dialogue,,0000,0000,0000,,Darn.
+Dialogue: 0,0:04:45.09,0:04:46.97,Working - Dialogue,,0000,0000,0000,,So that's what it was.
+Dialogue: 0,0:04:46.97,0:04:51.70,Working - Dialogue,,0000,0000,0000,,Yamada totally thought that Taneshima-san fell in love with Takanashi-san.
+Dialogue: 0,0:04:52.49,0:04:56.05,Working - Dialogue,,0000,0000,0000,,I was both excited and worried that a love triangle was going to form.
+Dialogue: 0,0:04:56.05,0:04:57.40,Working - Dialogue,,0000,0000,0000,,So you were excited?
+Dialogue: 0,0:04:57.40,0:04:59.65,Working - Dialogue,,0000,0000,0000,,Katanashi-kun, huh?
+Dialogue: 0,0:05:00.71,0:05:03.26,Working - Dialogue,,0000,0000,0000,,Well, Katanashi-kun is younger than me.
 Dialogue: 0,0:05:03.26,0:05:05.65,Working - Dialogue,,0000,0000,0000,,In a relationship, younger is a bit…
-Dialogue: 0,0:05:07.32,0:05:11.44,Working - Dialogue,,0000,0000,0000,,What?! Yeah, yeah. I look like the younger one, right?!
+Dialogue: 0,0:05:07.16,0:05:11.74,Working - Dialogue,,0000,0000,0000,,What?! Yeah, yeah. I look like the younger one, right?!
 Comment: 0,0:05:13.16,0:05:13.20,Working - Dialogue,,0000,0000,0000,,ts
-Dialogue: 0,0:05:16.75,0:05:18.44,Working - Dialogue,,0000,0000,0000,,Katanashi-kun! Look, look!
-Dialogue: 0,0:05:18.77,0:05:19.42,Working - Dialogue,,0000,0000,0000,,What is it?
-Dialogue: 0,0:05:19.61,0:05:21.18,Working - Dialogue,,0000,0000,0000,,If it's about cross-dressing, I'm not interested.
-Dialogue: 0,0:05:21.39,0:05:23.66,Working - Dialogue,,0000,0000,0000,,No! Souma-san brought it in.
-Dialogue: 0,0:05:23.91,0:05:26.14,Working - Dialogue,,0000,0000,0000,,He said they're old pictures of Kyouko-san and everyone from years ago.
-Dialogue: 0,0:05:28.10,0:05:28.83,Working - Dialogue,,0000,0000,0000,,Wow.
-Dialogue: 0,0:05:29.82,0:05:31.96,Working - Dialogue,,0000,0000,0000,,They're so young.
-Dialogue: 0,0:05:32.14,0:05:32.90,Working - Dialogue,,0000,0000,0000,,Right?
-Dialogue: 0,0:05:33.38,0:05:34.73,Working - Dialogue,,0000,0000,0000,,How nostalgic.
-Dialogue: 0,0:05:35.20,0:05:35.62,Working - Dialogue,,0000,0000,0000,,Yeah.
-Dialogue: 0,0:05:36.10,0:05:38.78,Working - Dialogue,,0000,0000,0000,,Souma sure brought in something strange.
-Dialogue: 0,0:05:41.14,0:05:42.75,Working - Internal,,0000,0000,0000,,Did we even take these photos?
-Dialogue: 0,0:05:47.81,0:05:49.93,Working - Internal,,0000,0000,0000,,Souma wasn't even working with us at the time.
-Dialogue: 0,0:05:50.56,0:05:51.33,Working - Internal,,0000,0000,0000,,Just what is he?
-Dialogue: 0,0:05:52.34,0:05:53.62,Working - Dialogue,,0000,0000,0000,,So young!
-Dialogue: 0,0:05:53.98,0:05:56.98,Working - Dialogue,,0000,0000,0000,,Looking back, Satou-kun looks so cute.
-Dialogue: 0,0:05:57.36,0:05:58.01,Working - Internal,,0000,0000,0000,,Cute?
-Dialogue: 0,0:05:58.40,0:05:59.05,Working - Internal,,0000,0000,0000,,How?
-Dialogue: 0,0:05:59.68,0:06:01.10,Working - Dialogue,,0000,0000,0000,,Oh, it's so nostalgic.
-Dialogue: 0,0:06:01.59,0:06:02.89,Working - Dialogue,,0000,0000,0000,,When we first met, Satou-kun was like...
-Dialogue: 0,0:06:03.90,0:06:04.44,Working - Dialogue,,0000,0000,0000,,{\fad(0,250)}Nice to meet you.
-Dialogue: 0,0:06:05.55,0:06:07.22,Working - Dialogue,,0000,0000,0000,,a delinquent and so scary.
+Dialogue: 0,0:05:16.46,0:05:18.77,Working - Dialogue,,0000,0000,0000,,Katanashi-kun! Look, look!
+Dialogue: 0,0:05:18.77,0:05:19.61,Working - Dialogue,,0000,0000,0000,,What is it?
+Dialogue: 0,0:05:19.61,0:05:21.25,Working - Dialogue,,0000,0000,0000,,If it's about cross-dressing, I'm not interested.
+Dialogue: 0,0:05:21.25,0:05:23.91,Working - Dialogue,,0000,0000,0000,,No! Souma-san brought it in.
+Dialogue: 0,0:05:23.91,0:05:26.64,Working - Dialogue,,0000,0000,0000,,He said they're old pictures of Kyouko-san and everyone from years ago.
+Dialogue: 0,0:05:27.94,0:05:29.22,Working - Dialogue,,0000,0000,0000,,Wow.
+Dialogue: 0,0:05:29.66,0:05:32.14,Working - Dialogue,,0000,0000,0000,,They're so young.
+Dialogue: 0,0:05:32.14,0:05:33.02,Working - Dialogue,,0000,0000,0000,,Right?
+Dialogue: 0,0:05:33.38,0:05:35.20,Working - Dialogue,,0000,0000,0000,,How nostalgic.
+Dialogue: 0,0:05:35.20,0:05:36.10,Working - Dialogue,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:05:36.10,0:05:39.28,Working - Dialogue,,0000,0000,0000,,Souma sure brought in something strange.
+Dialogue: 0,0:05:40.98,0:05:43.25,Working - Internal,,0000,0000,0000,,Did we even take these photos?
+Dialogue: 0,0:05:47.65,0:05:50.43,Working - Internal,,0000,0000,0000,,Souma wasn't even working with us at the time.
+Dialogue: 0,0:05:50.43,0:05:52.18,Working - Internal,,0000,0000,0000,,Just what is he?
+Dialogue: 0,0:05:52.18,0:05:53.98,Working - Dialogue,,0000,0000,0000,,So young!
+Dialogue: 0,0:05:53.98,0:05:57.36,Working - Dialogue,,0000,0000,0000,,Looking back, Satou-kun looks so cute.
+Dialogue: 0,0:05:57.36,0:05:58.40,Working - Internal,,0000,0000,0000,,Cute?
+Dialogue: 0,0:05:58.40,0:05:59.55,Working - Internal,,0000,0000,0000,,How?
+Dialogue: 0,0:05:59.55,0:06:01.59,Working - Dialogue,,0000,0000,0000,,Oh, it's so nostalgic.
+Dialogue: 0,0:06:01.59,0:06:03.74,Working - Dialogue,,0000,0000,0000,,When we first met, Satou-kun was like...
+Dialogue: 0,0:06:03.74,0:06:05.01,Working - Dialogue,,0000,0000,0000,,{\fad(0,250)}Nice to meet you.
+Dialogue: 0,0:06:05.39,0:06:07.97,Working - Dialogue,,0000,0000,0000,,a delinquent and so scary.
 Comment: 0,0:06:07.66,0:06:07.66,Working - TS,,0000,0000,0000,,Ex-delinquent
-Dialogue: 0,0:06:08.13,0:06:09.49,Working - Dialogue,,0000,0000,0000,,Th-That's discrimination.
-Dialogue: 0,0:06:11.51,0:06:13.20,Working - Dialogue,,0000,0000,0000,,Speaking of which, you were also...
-Dialogue: 0,0:06:13.40,0:06:14.02,Working - Dialogue,,0000,0000,0000,,Me?
-Dialogue: 0,0:06:15.17,0:06:17.27,Working - Dialogue,,0000,0000,0000,,I-I'm Todoroki Yachiyo.
-Dialogue: 0,0:06:22.77,0:06:23.79,Working - Dialogue,,0000,0000,0000,,kinda scary.
-Dialogue: 0,0:06:24.18,0:06:25.22,Working - Dialogue,,0000,0000,0000,,And really weird.
-Dialogue: 0,0:06:25.83,0:06:26.40,Working - Dialogue,,0000,0000,0000,,How?!
-Dialogue: 0,0:06:26.76,0:06:28.30,Working - Dialogue,,0000,0000,0000,,How was I scary?!
-Dialogue: 0,0:06:28.53,0:06:29.07,Working - Dialogue,,0000,0000,0000,,{\fad(0,500)}I forgot.
-Dialogue: 0,0:06:33.50,0:06:36.42,Working - Dialogue,,0000,0000,0000,,I don't really care, but I feel like I'm being avoided.
-Dialogue: 0,0:06:37.06,0:06:39.71,Working - Dialogue,,0000,0000,0000,,She's fine with the rest of the older staff but...
-Dialogue: 0,0:06:40.34,0:06:40.70,Working - Dialogue,,0000,0000,0000,,Oh.
-Dialogue: 0,0:06:41.50,0:06:44.99,Working - Dialogue,,0000,0000,0000,,Yachiyo used to get bullied a lot by kids her age.
-Dialogue: 0,0:06:46.19,0:06:47.72,Working - Dialogue,,0000,0000,0000,,She probably thinks you're a bully.
-Dialogue: 0,0:06:48.57,0:06:50.70,Working - Dialogue,,0000,0000,0000,,I can't believe I'm being hated for something I didn't do.
+Dialogue: 0,0:06:07.97,0:06:09.99,Working - Dialogue,,0000,0000,0000,,Th-That's discrimination.
+Dialogue: 0,0:06:11.35,0:06:13.40,Working - Dialogue,,0000,0000,0000,,Speaking of which, you were also...
+Dialogue: 0,0:06:13.40,0:06:14.47,Working - Dialogue,,0000,0000,0000,,Me?
+Dialogue: 0,0:06:15.01,0:06:17.77,Working - Dialogue,,0000,0000,0000,,I-I'm Todoroki Yachiyo.
+Dialogue: 0,0:06:22.61,0:06:24.18,Working - Dialogue,,0000,0000,0000,,kinda scary.
+Dialogue: 0,0:06:24.18,0:06:25.72,Working - Dialogue,,0000,0000,0000,,And really weird.
+Dialogue: 0,0:06:25.72,0:06:26.76,Working - Dialogue,,0000,0000,0000,,How?!
+Dialogue: 0,0:06:26.76,0:06:28.53,Working - Dialogue,,0000,0000,0000,,How was I scary?!
+Dialogue: 0,0:06:28.53,0:06:29.57,Working - Dialogue,,0000,0000,0000,,{\fad(0,500)}I forgot.
+Dialogue: 0,0:06:33.34,0:06:36.92,Working - Dialogue,,0000,0000,0000,,I don't really care, but I feel like I'm being avoided.
+Dialogue: 0,0:06:36.92,0:06:39.75,Working - Dialogue,,0000,0000,0000,,She's fine with the rest of the older staff but...
+Dialogue: 0,0:06:40.21,0:06:41.34,Working - Dialogue,,0000,0000,0000,,Oh.
+Dialogue: 0,0:06:41.34,0:06:45.09,Working - Dialogue,,0000,0000,0000,,Yachiyo used to get bullied a lot by kids her age.
+Dialogue: 0,0:06:46.03,0:06:48.41,Working - Dialogue,,0000,0000,0000,,She probably thinks you're a bully.
+Dialogue: 0,0:06:48.41,0:06:51.20,Working - Dialogue,,0000,0000,0000,,I can't believe I'm being hated for something I didn't do.
 Comment: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Cooking Manual
-Dialogue: 0,0:06:58.33,0:06:59.29,Working - Dialogue,,0000,0000,0000,,You need something?
-Dialogue: 0,0:06:59.89,0:07:00.42,Working - Dialogue,,0000,0000,0000,,Um...
-Dialogue: 0,0:07:01.04,0:07:03.05,Working - Dialogue,,0000,0000,0000,,Kyouko-san wants us to get along.
-Dialogue: 0,0:07:03.38,0:07:05.24,Working - Dialogue,,0000,0000,0000,,Kyouko-san is the manager, right?
-Dialogue: 0,0:07:08.74,0:07:12.39,Working - Dialogue,,0000,0000,0000,,I'm the type of person who can't get along with others unless instructed to do so.
-Dialogue: 0,0:07:15.13,0:07:16.06,Working - Dialogue,,0000,0000,0000,,I was kidding! {Keeper: orig line "It's just a joke."}
-Dialogue: 0,0:07:16.37,0:07:16.87,Working - Dialogue,,0000,0000,0000,,Don't cry.
-Dialogue: 0,0:07:17.64,0:07:18.52,Working - Dialogue,,0000,0000,0000,,Really?
-Dialogue: 0,0:07:19.53,0:07:21.80,Working - Dialogue,,0000,0000,0000,,Um, this is just something that Kyouko-san said,
-Dialogue: 0,0:07:22.02,0:07:23.92,Working - Dialogue,,0000,0000,0000,,but she told me we're were the same age.
-Dialogue: 0,0:07:24.23,0:07:27.27,Working - Dialogue,,0000,0000,0000,,This is the first time I've worked with someone my own age.
-Dialogue: 0,0:07:27.97,0:07:29.30,Working - Dialogue,,0000,0000,0000,,Please be nice.
+Dialogue: 0,0:06:58.17,0:06:59.35,Working - Dialogue,,0000,0000,0000,,You need something?
+Dialogue: 0,0:06:59.79,0:07:00.92,Working - Dialogue,,0000,0000,0000,,Um...
+Dialogue: 0,0:07:00.92,0:07:02.94,Working - Dialogue,,0000,0000,0000,,Kyouko-san wants us to get along.
+Dialogue: 0,0:07:03.38,0:07:05.74,Working - Dialogue,,0000,0000,0000,,Kyouko-san is the manager, right?
+Dialogue: 0,0:07:08.58,0:07:12.89,Working - Dialogue,,0000,0000,0000,,I'm the type of person who can't get along with others unless instructed to do so.
+Dialogue: 0,0:07:14.97,0:07:16.16,Working - Dialogue,,0000,0000,0000,,I was kidding! {Keeper: orig line "It's just a joke."}
+Dialogue: 0,0:07:16.16,0:07:17.48,Working - Dialogue,,0000,0000,0000,,Don't cry.
+Dialogue: 0,0:07:17.48,0:07:19.37,Working - Dialogue,,0000,0000,0000,,Really?
+Dialogue: 0,0:07:19.37,0:07:22.02,Working - Dialogue,,0000,0000,0000,,Um, this is just something that Kyouko-san said,
+Dialogue: 0,0:07:22.02,0:07:24.23,Working - Dialogue,,0000,0000,0000,,but she told me we're were the same age.
+Dialogue: 0,0:07:24.23,0:07:27.81,Working - Dialogue,,0000,0000,0000,,This is the first time I've worked with someone my own age.
+Dialogue: 0,0:07:27.81,0:07:29.80,Working - Dialogue,,0000,0000,0000,,Please be nice.
 Comment: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Love struck
-Dialogue: 0,0:07:33.53,0:07:34.90,Working - Dialogue,,0000,0000,0000,,Such good memories.
-Dialogue: 0,0:07:36.40,0:07:38.10,Working - Internal,,0000,0000,0000,,The old me was too shallow.
-Dialogue: 0,0:07:39.08,0:07:44.60,Working - Dialogue,,0000,0000,0000,,A lot of people have come and gone since then, but we basically haven't changed, have we?
-Dialogue: 0,0:07:45.00,0:07:45.70,Working - Dialogue,,0000,0000,0000,,That's true.
-Dialogue: 0,0:07:46.32,0:07:48.82,Working - Dialogue,,0000,0000,0000,,I wish we could stay like this forever.
+Dialogue: 0,0:07:33.37,0:07:35.40,Working - Dialogue,,0000,0000,0000,,Such good memories.
+Dialogue: 0,0:07:36.24,0:07:38.77,Working - Internal,,0000,0000,0000,,The old me was too shallow.
+Dialogue: 0,0:07:38.77,0:07:45.00,Working - Dialogue,,0000,0000,0000,,A lot of people have come and gone since then, but we basically haven't changed, have we?
+Dialogue: 0,0:07:45.00,0:07:46.15,Working - Dialogue,,0000,0000,0000,,That's true.
+Dialogue: 0,0:07:46.15,0:07:49.32,Working - Dialogue,,0000,0000,0000,,I wish we could stay like this forever.
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Like this forever
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Unrequited love forever
-Dialogue: 0,0:07:54.74,0:07:55.69,Working - Dialogue,,0000,0000,0000,,A sigh?!
-Dialogue: 0,0:07:56.43,0:07:58.86,Working - Dialogue,,0000,0000,0000,,Wouldn't it be great to spend our time like this forever?
-Dialogue: 0,0:07:58.98,0:07:59.50,Working - Dialogue,,0000,0000,0000,,Right?
-Dialogue: 0,0:07:59.98,0:08:01.28,Working - Dialogue,,0000,0000,0000,,Of course not.
-Dialogue: 0,0:08:02.02,0:08:06.24,Working - Dialogue,,0000,0000,0000,,You might be here forever, but the rest of us will all move on someday.
-Dialogue: 0,0:08:07.71,0:08:08.70,Working - Dialogue,,0000,0000,0000,,You too?
-Dialogue: 0,0:08:09.57,0:08:10.64,Working - Dialogue,,0000,0000,0000,,Of course.
-Dialogue: 0,0:08:11.83,0:08:12.92,Working - Dialogue,,0000,0000,0000,,I'm going to get back to work.
-Dialogue: 0,0:08:15.35,0:08:17.82,Working - Dialogue,,0000,0000,0000,,Won't you become a "freeter" and work part-time here with me?
+Dialogue: 0,0:07:54.58,0:07:56.12,Working - Dialogue,,0000,0000,0000,,A sigh?!
+Dialogue: 0,0:07:56.12,0:07:58.98,Working - Dialogue,,0000,0000,0000,,Wouldn't it be great to spend our time like this forever?
+Dialogue: 0,0:07:58.98,0:07:59.98,Working - Dialogue,,0000,0000,0000,,Right?
+Dialogue: 0,0:07:59.98,0:08:01.86,Working - Dialogue,,0000,0000,0000,,Of course not.
+Dialogue: 0,0:08:01.86,0:08:07.17,Working - Dialogue,,0000,0000,0000,,You might be here forever, but the rest of us will all move on someday.
+Dialogue: 0,0:08:07.55,0:08:09.41,Working - Dialogue,,0000,0000,0000,,You too?
+Dialogue: 0,0:08:09.41,0:08:11.14,Working - Dialogue,,0000,0000,0000,,Of course.
+Dialogue: 0,0:08:11.67,0:08:13.42,Working - Dialogue,,0000,0000,0000,,I'm going to get back to work.
+Dialogue: 0,0:08:15.19,0:08:18.11,Working - Dialogue,,0000,0000,0000,,Won't you become a "freeter" and work part-time here with me?
 Comment: 0,0:08:17.82,0:08:18.11,Working - Dialogue,,0000,0000,0000,,freeter?
-Dialogue: 0,0:08:18.11,0:08:18.57,Working - Dialogue,,0000,0000,0000,,No way.
-Dialogue: 0,0:08:25.82,0:08:26.82,Working - Dialogue,,0000,0000,0000,,What's wrong, Yachiyo?
-Dialogue: 0,0:08:27.32,0:08:28.08,Working - Dialogue,,0000,0000,0000,,Kyouko-san.
-Dialogue: 0,0:08:29.03,0:08:35.89,Working - Dialogue,,0000,0000,0000,,Well, Satou-kun said he'll quit working here eventually, and I kind of got depressed.
-Dialogue: 0,0:08:36.57,0:08:38.98,Working - Dialogue,,0000,0000,0000,,A lot of part-timers have quit already.
-Dialogue: 0,0:08:39.72,0:08:41.42,Working - Dialogue,,0000,0000,0000,,Though our current members have been around a while.
-Dialogue: 0,0:08:42.81,0:08:44.18,Working - Dialogue,,0000,0000,0000,,Oh, you're right.
-Dialogue: 0,0:08:44.72,0:08:47.79,Working - Dialogue,,0000,0000,0000,,Of course I was sad when the others quit, but...
-Dialogue: 0,0:08:49.61,0:08:49.80,Working - Dialogue,,0000,0000,0000,,Huh?
-Dialogue: 0,0:08:50.73,0:08:53.87,Working - Dialogue,,0000,0000,0000,,K-Kyouko-san will always be with me, right?
-Dialogue: 0,0:08:54.13,0:08:54.49,Working - Dialogue,,0000,0000,0000,,Yeah.
-Dialogue: 0,0:08:55.20,0:08:58.51,Working - Dialogue,,0000,0000,0000,,But it's not like Satou is going to leave this instant or anything.
-Dialogue: 0,0:08:59.21,0:09:00.74,Working - Dialogue,,0000,0000,0000,,It'll be all right, so get back to work.
-Dialogue: 0,0:09:01.47,0:09:02.66,Working - Dialogue,,0000,0000,0000,,Y-You're absolutely right.
-Dialogue: 0,0:09:02.76,0:09:04.14,Working - Dialogue,,0000,0000,0000,,I've got to get back to work.
-Dialogue: 0,0:09:04.19,0:09:05.28,Working - Dialogue,,0000,0000,0000,,Silly me!
-Dialogue: 0,0:09:08.48,0:09:09.95,Working - Dialogue,,0000,0000,0000,,Hey! Don't spill!
-Dialogue: 0,0:09:10.43,0:09:10.72,Working - Dialogue,,0000,0000,0000,,Hm?
-Dialogue: 0,0:09:11.61,0:09:12.63,Working - Dialogue,,0000,0000,0000,,Do you have something on your mind?
-Dialogue: 0,0:09:12.96,0:09:16.20,Working - Dialogue,,0000,0000,0000,,Yeah, it's like I've got something caught in my throat.
-Dialogue: 0,0:09:16.60,0:09:16.96,Working - Dialogue,,0000,0000,0000,,Huh?
-Dialogue: 0,0:09:17.73,0:09:19.97,Working - Dialogue,,0000,0000,0000,,Maybe you ate too many hard-boiled eggs.
-Dialogue: 0,0:09:20.76,0:09:21.16,Working - Dialogue,,0000,0000,0000,,Oh...
-Dialogue: 0,0:09:22.23,0:09:23.75,Working - Dialogue,,0000,0000,0000,,Now I want some hard-boiled eggs.
-Dialogue: 0,0:09:24.77,0:09:25.87,Working - Dialogue,,0000,0000,0000,,What happened to your contemplation?
-Dialogue: 0,0:09:30.91,0:09:31.84,Working - Dialogue,,0000,0000,0000,,Good morning.
-Dialogue: 0,0:09:35.34,0:09:36.33,Working - Dialogue,,0000,0000,0000,,Oh yeah, Takanashi.
-Dialogue: 0,0:09:36.56,0:09:36.91,Working - Dialogue,,0000,0000,0000,,Yes?
-Dialogue: 0,0:09:37.77,0:09:39.18,Working - Dialogue,,0000,0000,0000,,An acquaintance of yours is here.
-Dialogue: 0,0:09:39.86,0:09:40.50,Working - Dialogue,,0000,0000,0000,,An acquaintance?
-Dialogue: 0,0:09:41.34,0:09:42.55,Working - Dialogue,,0000,0000,0000,,You know, the one who was here before.
-Dialogue: 0,0:09:43.31,0:09:44.60,Working - Dialogue,,0000,0000,0000,,The one from your area.
-Dialogue: 0,0:09:45.46,0:09:48.13,Working - Dialogue,,0000,0000,0000,,Huh? From my area?
-Dialogue: 0,0:09:49.75,0:09:50.82,Working - Dialogue,,0000,0000,0000,,Souta!
-Dialogue: 0,0:09:51.74,0:09:52.99,Working - Dialogue,,0000,0000,0000,,Oh, Katanashi-kun!
-Dialogue: 0,0:09:54.94,0:09:57.58,Working - Dialogue,,0000,0000,0000,,Why didn't you tell me?
-Dialogue: 0,0:09:58.48,0:09:59.21,Working - Dialogue,,0000,0000,0000,,A-About what?
-Dialogue: 0,0:09:59.54,0:10:01.22,Working - Dialogue,,0000,0000,0000,,You said she was a lady from your neighborhood.
-Dialogue: 0,0:10:04.52,0:10:06.79,Working - Dialogue,,0000,0000,0000,,But you guys have the same last name.
-Dialogue: 0,0:10:07.08,0:10:08.37,Working - Dialogue,,0000,0000,0000,,It's such a uncommon name too.
-Dialogue: 0,0:10:08.52,0:10:09.83,Working - Dialogue,,0000,0000,0000,,This is such a coincidence!
-Dialogue: 0,0:10:10.27,0:10:11.57,Working - Dialogue,,0000,0000,0000,,Right! It's quite a coincidence!
-Dialogue: 0,0:10:11.60,0:10:12.77,Working - Dialogue,,0000,0000,0000,,As expected of Senpai!
-Dialogue: 0,0:10:12.78,0:10:15.26,Working - Dialogue,,0000,0000,0000,,I-I'll do the rest, so leave it to me.
-Dialogue: 0,0:10:15.63,0:10:16.13,Working - Dialogue,,0000,0000,0000,,Okay.
-Dialogue: 0,0:10:16.52,0:10:17.80,Working - Dialogue,,0000,0000,0000,,Then I'll leave the rest to you.
-Dialogue: 0,0:10:20.19,0:10:23.31,Working - Dialogue,,0000,0000,0000,,Jeez, why did you have to interrupt?
-Dialogue: 0,0:10:23.73,0:10:24.92,Working - Dialogue,,0000,0000,0000,,What do you mean "Why"?!
-Dialogue: 0,0:10:25.14,0:10:25.86,Working - Dialogue,,0000,0000,0000,,What are you doing here?!
-Dialogue: 0,0:10:26.22,0:10:26.94,Working - Dialogue,,0000,0000,0000,,Hurry up and leave!
-Dialogue: 0,0:10:26.93,0:10:27.58,Working - Dialogue,,0000,0000,0000,,Leave now!
-Dialogue: 0,0:10:28.80,0:10:29.73,Working - Dialogue,,0000,0000,0000,,Well fine then.
-Dialogue: 0,0:10:30.31,0:10:34.13,Working - Dialogue,,0000,0000,0000,,I'll just shout childhood stories about you as I leave.
-Dialogue: 0,0:10:36.36,0:10:37.42,Working - Dialogue,,0000,0000,0000,,Please stay.
-Dialogue: 0,0:10:45.78,0:10:47.08,Working - Dialogue,,0000,0000,0000,,Really, why did you come here?
-Dialogue: 0,0:10:47.31,0:10:48.18,Working - Dialogue,,0000,0000,0000,,All you're doing is drinking beer.
-Dialogue: 0,0:10:48.86,0:10:50.64,Working - Dialogue,,0000,0000,0000,,If you just want to drink, go do it somewhere else.
-Dialogue: 0,0:10:50.64,0:10:53.10,Working - Dialogue,,0000,0000,0000,,I came here to watch you work.
-Dialogue: 0,0:10:54.35,0:10:56.35,Working - Dialogue,,0000,0000,0000,,You're after that teeny girl, aren't you?
-Dialogue: 0,0:10:56.84,0:10:57.38,Working - Dialogue,,0000,0000,0000,,What of it?
-Dialogue: 0,0:10:58.15,0:11:00.00,Working - Dialogue,,0000,0000,0000,,If you're bored, go to your boyfriend's house or something.
-Dialogue: 0,0:11:00.22,0:11:02.41,Working - Dialogue,,0000,0000,0000,,You sure got lucky with such a fun workplace.
-Dialogue: 0,0:11:03.53,0:11:04.93,Working - Dialogue,,0000,0000,0000,,Oh, I see, you got dumped.
-Dialogue: 0,0:11:05.57,0:11:06.30,Working - Dialogue,,0000,0000,0000,,That was fast.
-Dialogue: 0,0:11:07.33,0:11:10.99,Working - Dialogue,,0000,0000,0000,,He should have told me beforehand if he doesn't like the German suplex!
-Dialogue: 0,0:11:12.42,0:11:13.73,Working - Dialogue,,0000,0000,0000,,That'll be 3,500 yen.
-Dialogue: 0,0:11:14.22,0:11:14.63,Working - Dialogue,,0000,0000,0000,,Put it on my tab.
-Dialogue: 0,0:11:14.90,0:11:16.25,Working - Dialogue,,0000,0000,0000,,Family restaurants don't have tabs.
-Dialogue: 0,0:11:16.42,0:11:17.46,Working - Dialogue,,0000,0000,0000,,I'll come again!
-Dialogue: 0,0:11:18.06,0:11:20.52,Working - Dialogue,,0000,0000,0000,,Fine, I'll pay for it, so don't ever come back.
-Dialogue: 0,0:11:21.03,0:11:22.06,Working - Dialogue,,0000,0000,0000,,I'll come again!
-Dialogue: 0,0:11:22.09,0:11:23.05,Working - Dialogue,,0000,0000,0000,,Don't ever come here again!
-Dialogue: 0,0:11:28.18,0:11:29.39,Working - Dialogue,,0000,0000,0000,,Just how much did she drink?
+Dialogue: 0,0:08:18.11,0:08:19.07,Working - Dialogue,,0000,0000,0000,,No way.
+Dialogue: 0,0:08:25.66,0:08:27.32,Working - Dialogue,,0000,0000,0000,,What's wrong, Yachiyo?
+Dialogue: 0,0:08:27.32,0:08:28.73,Working - Dialogue,,0000,0000,0000,,Kyouko-san.
+Dialogue: 0,0:08:28.73,0:08:36.20,Working - Dialogue,,0000,0000,0000,,Well, Satou-kun said he'll quit working here eventually, and I kind of got depressed.
+Dialogue: 0,0:08:36.20,0:08:39.56,Working - Dialogue,,0000,0000,0000,,A lot of part-timers have quit already.
+Dialogue: 0,0:08:39.56,0:08:41.45,Working - Dialogue,,0000,0000,0000,,Though our current members have been around a while.
+Dialogue: 0,0:08:42.65,0:08:44.68,Working - Dialogue,,0000,0000,0000,,Oh, you're right.
+Dialogue: 0,0:08:44.68,0:08:48.46,Working - Dialogue,,0000,0000,0000,,Of course I was sad when the others quit, but...
+Dialogue: 0,0:08:49.45,0:08:50.38,Working - Dialogue,,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:50.38,0:08:54.13,Working - Dialogue,,0000,0000,0000,,K-Kyouko-san will always be with me, right?
+Dialogue: 0,0:08:54.13,0:08:55.04,Working - Dialogue,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:08:55.04,0:08:59.05,Working - Dialogue,,0000,0000,0000,,But it's not like Satou is going to leave this instant or anything.
+Dialogue: 0,0:08:59.05,0:09:00.81,Working - Dialogue,,0000,0000,0000,,It'll be all right, so get back to work.
+Dialogue: 0,0:09:01.31,0:09:02.76,Working - Dialogue,,0000,0000,0000,,Y-You're absolutely right.
+Dialogue: 0,0:09:02.76,0:09:04.19,Working - Dialogue,,0000,0000,0000,,I've got to get back to work.
+Dialogue: 0,0:09:04.19,0:09:05.78,Working - Dialogue,,0000,0000,0000,,Silly me!
+Dialogue: 0,0:09:08.32,0:09:10.43,Working - Dialogue,,0000,0000,0000,,Hey! Don't spill!
+Dialogue: 0,0:09:10.43,0:09:11.19,Working - Dialogue,,0000,0000,0000,,Hm?
+Dialogue: 0,0:09:11.19,0:09:12.96,Working - Dialogue,,0000,0000,0000,,Do you have something on your mind?
+Dialogue: 0,0:09:12.96,0:09:16.60,Working - Dialogue,,0000,0000,0000,,Yeah, it's like I've got something caught in my throat.
+Dialogue: 0,0:09:16.60,0:09:17.57,Working - Dialogue,,0000,0000,0000,,Huh?
+Dialogue: 0,0:09:17.57,0:09:20.60,Working - Dialogue,,0000,0000,0000,,Maybe you ate too many hard-boiled eggs.
+Dialogue: 0,0:09:20.60,0:09:21.66,Working - Dialogue,,0000,0000,0000,,Oh...
+Dialogue: 0,0:09:22.07,0:09:24.61,Working - Dialogue,,0000,0000,0000,,Now I want some hard-boiled eggs.
+Dialogue: 0,0:09:24.61,0:09:26.37,Working - Dialogue,,0000,0000,0000,,What happened to your contemplation?
+Dialogue: 0,0:09:30.75,0:09:32.34,Working - Dialogue,,0000,0000,0000,,Good morning.
+Dialogue: 0,0:09:35.18,0:09:36.13,Working - Dialogue,,0000,0000,0000,,Oh yeah, Takanashi.
+Dialogue: 0,0:09:36.56,0:09:37.61,Working - Dialogue,,0000,0000,0000,,Yes?
+Dialogue: 0,0:09:37.61,0:09:39.70,Working - Dialogue,,0000,0000,0000,,An acquaintance of yours is here.
+Dialogue: 0,0:09:39.70,0:09:40.85,Working - Dialogue,,0000,0000,0000,,An acquaintance?
+Dialogue: 0,0:09:41.18,0:09:43.15,Working - Dialogue,,0000,0000,0000,,You know, the one who was here before.
+Dialogue: 0,0:09:43.15,0:09:45.30,Working - Dialogue,,0000,0000,0000,,The one from your area.
+Dialogue: 0,0:09:45.30,0:09:48.63,Working - Dialogue,,0000,0000,0000,,Huh? From my area?
+Dialogue: 0,0:09:49.59,0:09:51.58,Working - Dialogue,,0000,0000,0000,,Souta!
+Dialogue: 0,0:09:51.58,0:09:53.28,Working - Dialogue,,0000,0000,0000,,Oh, Katanashi-kun!
+Dialogue: 0,0:09:54.78,0:09:58.32,Working - Dialogue,,0000,0000,0000,,Why didn't you tell me?
+Dialogue: 0,0:09:58.32,0:09:59.54,Working - Dialogue,,0000,0000,0000,,A-About what?
+Dialogue: 0,0:09:59.54,0:10:01.24,Working - Dialogue,,0000,0000,0000,,You said she was a lady from your neighborhood.
+Dialogue: 0,0:10:04.36,0:10:07.08,Working - Dialogue,,0000,0000,0000,,But you guys have the same last name.
+Dialogue: 0,0:10:07.08,0:10:08.52,Working - Dialogue,,0000,0000,0000,,It's such a uncommon name too.
+Dialogue: 0,0:10:08.52,0:10:09.92,Working - Dialogue,,0000,0000,0000,,This is such a coincidence!
+Dialogue: 0,0:10:10.27,0:10:11.60,Working - Dialogue,,0000,0000,0000,,Right! It's quite a coincidence!
+Dialogue: 0,0:10:11.60,0:10:12.78,Working - Dialogue,,0000,0000,0000,,As expected of Senpai!
+Dialogue: 0,0:10:12.78,0:10:15.63,Working - Dialogue,,0000,0000,0000,,I-I'll do the rest, so leave it to me.
+Dialogue: 0,0:10:15.63,0:10:16.52,Working - Dialogue,,0000,0000,0000,,Okay.
+Dialogue: 0,0:10:16.52,0:10:18.30,Working - Dialogue,,0000,0000,0000,,Then I'll leave the rest to you.
+Dialogue: 0,0:10:20.05,0:10:23.43,Working - Dialogue,,0000,0000,0000,,Jeez, why did you have to interrupt?
+Dialogue: 0,0:10:23.73,0:10:25.14,Working - Dialogue,,0000,0000,0000,,What do you mean "Why"?!
+Dialogue: 0,0:10:25.14,0:10:26.22,Working - Dialogue,,0000,0000,0000,,What are you doing here?!
+Dialogue: 0,0:10:26.22,0:10:26.77,Working - Dialogue,,0000,0000,0000,,Hurry up and leave!
+Dialogue: 0,0:10:26.77,0:10:28.08,Working - Dialogue,,0000,0000,0000,,Leave now!
+Dialogue: 0,0:10:28.64,0:10:30.23,Working - Dialogue,,0000,0000,0000,,Well fine then.
+Dialogue: 0,0:10:30.23,0:10:34.63,Working - Dialogue,,0000,0000,0000,,I'll just shout childhood stories about you as I leave.
+Dialogue: 0,0:10:36.20,0:10:37.92,Working - Dialogue,,0000,0000,0000,,Please stay.
+Dialogue: 0,0:10:45.62,0:10:47.31,Working - Dialogue,,0000,0000,0000,,Really, why did you come here?
+Dialogue: 0,0:10:47.31,0:10:48.70,Working - Dialogue,,0000,0000,0000,,All you're doing is drinking beer.
+Dialogue: 0,0:10:48.70,0:10:50.64,Working - Dialogue,,0000,0000,0000,,If you just want to drink, go do it somewhere else.
+Dialogue: 0,0:10:50.64,0:10:53.54,Working - Dialogue,,0000,0000,0000,,I came here to watch you work.
+Dialogue: 0,0:10:54.19,0:10:56.84,Working - Dialogue,,0000,0000,0000,,You're after that teeny girl, aren't you?
+Dialogue: 0,0:10:56.84,0:10:57.99,Working - Dialogue,,0000,0000,0000,,What of it?
+Dialogue: 0,0:10:57.99,0:11:00.22,Working - Dialogue,,0000,0000,0000,,If you're bored, go to your boyfriend's house or something.
+Dialogue: 0,0:11:00.22,0:11:02.91,Working - Dialogue,,0000,0000,0000,,You sure got lucky with such a fun workplace.
+Dialogue: 0,0:11:03.37,0:11:05.43,Working - Dialogue,,0000,0000,0000,,Oh, I see, you got dumped.
+Dialogue: 0,0:11:05.43,0:11:07.17,Working - Dialogue,,0000,0000,0000,,That was fast.
+Dialogue: 0,0:11:07.17,0:11:11.49,Working - Dialogue,,0000,0000,0000,,He should have told me beforehand if he doesn't like the German suplex!
+Dialogue: 0,0:11:12.26,0:11:14.22,Working - Dialogue,,0000,0000,0000,,That'll be 3,500 yen.
+Dialogue: 0,0:11:14.22,0:11:14.90,Working - Dialogue,,0000,0000,0000,,Put it on my tab.
+Dialogue: 0,0:11:14.90,0:11:16.42,Working - Dialogue,,0000,0000,0000,,Family restaurants don't have tabs.
+Dialogue: 0,0:11:16.42,0:11:17.96,Working - Dialogue,,0000,0000,0000,,I'll come again!
+Dialogue: 0,0:11:17.96,0:11:20.53,Working - Dialogue,,0000,0000,0000,,Fine, I'll pay for it, so don't ever come back.
+Dialogue: 0,0:11:21.02,0:11:22.09,Working - Dialogue,,0000,0000,0000,,I'll come again!
+Dialogue: 0,0:11:22.09,0:11:23.55,Working - Dialogue,,0000,0000,0000,,Don't ever come here again!
+Dialogue: 0,0:11:28.02,0:11:29.89,Working - Dialogue,,0000,0000,0000,,Just how much did she drink?
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,A few days later
-Dialogue: 0,0:11:31.85,0:11:33.83,Working - Dialogue,,0000,0000,0000,,{\pos(640,710)}There are no other complaints!
-Dialogue: 0,0:11:34.43,0:11:35.18,Working - Dialogue,,0000,0000,0000,,Right...
-Dialogue: 0,0:11:35.93,0:11:39.28,Working - Dialogue,,0000,0000,0000,,Orders are served quickly and the girls are cute!
-Dialogue: 0,0:11:39.40,0:11:40.62,Working - Dialogue,,0000,0000,0000,,Thank you very much...
-Dialogue: 0,0:11:40.82,0:11:42.94,Working - Dialogue,,0000,0000,0000,,But I just can't let this slide.
-Dialogue: 0,0:11:43.67,0:11:46.11,Working - Dialogue,,0000,0000,0000,,There aren't enough varieties of alcohol!
-Dialogue: 0,0:11:45.64,0:11:47.50,Working - Internal,,0000,0000,0000,,We're a family restaurant...
-Dialogue: 0,0:11:48.24,0:11:50.79,Working - Dialogue,,0000,0000,0000,,Why don't you have any Japanese wine or liqueur?
-Dialogue: 0,0:11:51.25,0:11:53.11,Working - Dialogue,,0000,0000,0000,,Looks like she's here again.
-Dialogue: 0,0:11:54.11,0:11:54.53,Working - Internal,,0000,0000,0000,,Damn her!
-Dialogue: 0,0:11:59.65,0:12:01.31,Working - Dialogue,,0000,0000,0000,,I'm sorry, Takanashi-kun.
-Dialogue: 0,0:12:01.69,0:12:02.57,Working - Dialogue,,0000,0000,0000,,Takanashi-kun?
-Dialogue: 0,0:12:03.00,0:12:03.94,Working - Dialogue,,0000,0000,0000,,{\fad(0,1000)}Takanashi-kun!
-Dialogue: 0,0:12:06.43,0:12:12.37,Working - Internal,,0000,0000,0000,,I, who hit Takanashi-kun once again today, have decided to reflect on my recent actions.
-Dialogue: 0,0:12:13.06,0:12:14.71,Working - Internal,,0000,0000,0000,,If it meant that Takanashi-kun would continue to care about me,
-Dialogue: 0,0:12:15.02,0:12:17.72,Working - Internal,,0000,0000,0000,,I thought it would be okay to continue hitting guys.
+Dialogue: 0,0:11:31.69,0:11:33.96,Working - Dialogue,,0000,0000,0000,,{\pos(640,710)}There are no other complaints!
+Dialogue: 0,0:11:34.33,0:11:35.71,Working - Dialogue,,0000,0000,0000,,Right...
+Dialogue: 0,0:11:35.71,0:11:39.40,Working - Dialogue,,0000,0000,0000,,Orders are served quickly and the girls are cute!
+Dialogue: 0,0:11:39.40,0:11:40.42,Working - Dialogue,,0000,0000,0000,,Thank you very much...
+Dialogue: 0,0:11:40.82,0:11:43.51,Working - Dialogue,,0000,0000,0000,,But I just can't let this slide.
+Dialogue: 0,0:11:43.51,0:11:45.26,Working - Dialogue,,0000,0000,0000,,There aren't enough varieties of alcohol!
+Dialogue: 0,0:11:45.26,0:11:47.93,Working - Internal,,0000,0000,0000,,We're a family restaurant...
+Dialogue: 0,0:11:47.93,0:11:50.89,Working - Dialogue,,0000,0000,0000,,Why don't you have any Japanese wine or liqueur?
+Dialogue: 0,0:11:51.25,0:11:53.95,Working - Dialogue,,0000,0000,0000,,Looks like she's here again.
+Dialogue: 0,0:11:53.95,0:11:55.40,Working - Internal,,0000,0000,0000,,Damn her!
+Dialogue: 0,0:11:59.49,0:12:01.69,Working - Dialogue,,0000,0000,0000,,I'm sorry, Takanashi-kun.
+Dialogue: 0,0:12:01.69,0:12:03.00,Working - Dialogue,,0000,0000,0000,,Takanashi-kun?
+Dialogue: 0,0:12:03.00,0:12:04.44,Working - Dialogue,,0000,0000,0000,,{\fad(0,1000)}Takanashi-kun!
+Dialogue: 0,0:12:06.27,0:12:12.62,Working - Internal,,0000,0000,0000,,I, who hit Takanashi-kun once again today, have decided to reflect on my recent actions.
+Dialogue: 0,0:12:12.90,0:12:15.02,Working - Internal,,0000,0000,0000,,If it meant that Takanashi-kun would continue to care about me,
+Dialogue: 0,0:12:15.02,0:12:18.04,Working - Internal,,0000,0000,0000,,I thought it would be okay to continue hitting guys.
 Dialogue: 0,0:12:18.04,0:12:20.07,Working - Internal,,0000,0000,0000,,But I'm causing too much trouble for everyone,
-Dialogue: 0,0:12:20.07,0:12:22.46,Working - Internal,,0000,0000,0000,,and I've already hit him three other times today.
-Dialogue: 0,0:12:22.62,0:12:23.99,Working - Internal,,0000,0000,0000,,I know that I need to fix this.
-Dialogue: 0,0:12:24.42,0:12:28.33,Working - Internal,,0000,0000,0000,,But I'm still only thinking about what's convenient for me.
-Dialogue: 0,0:12:28.34,0:12:32.68,Working - Internal,,0000,0000,0000,,When I started running, after leaving everybody behind, my legs suddenly got heavy and...
-Dialogue: 0,0:12:32.95,0:12:33.24,Working - Internal,,0000,0000,0000,,Huh?
-Dialogue: 0,0:12:33.76,0:12:36.10,Working - Dialogue,,0000,0000,0000,,when I looked at my leg, there was a bloody hand.
+Dialogue: 0,0:12:20.07,0:12:22.62,Working - Internal,,0000,0000,0000,,and I've already hit him three other times today.
+Dialogue: 0,0:12:22.62,0:12:24.42,Working - Internal,,0000,0000,0000,,I know that I need to fix this.
+Dialogue: 0,0:12:24.42,0:12:28.34,Working - Internal,,0000,0000,0000,,But I'm still only thinking about what's convenient for me.
+Dialogue: 0,0:12:28.34,0:12:32.95,Working - Internal,,0000,0000,0000,,When I started running, after leaving everybody behind, my legs suddenly got heavy and...
+Dialogue: 0,0:12:32.95,0:12:33.48,Working - Internal,,0000,0000,0000,,Huh?
+Dialogue: 0,0:12:33.48,0:12:36.60,Working - Dialogue,,0000,0000,0000,,when I looked at my leg, there was a bloody hand.
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Scary Stories That Actually Happened
-Dialogue: 0,0:12:39.12,0:12:40.65,Working - Dialogue,,0000,0000,0000,,What are you doing with the lights off?
-Dialogue: 0,0:12:41.47,0:12:42.44,Working - Dialogue,,0000,0000,0000,,We're closing up.
-Dialogue: 0,0:12:42.82,0:12:44.63,Working - Dialogue,,0000,0000,0000,,One of the customers left this book behind.
-Dialogue: 0,0:12:45.06,0:12:46.74,Working - Dialogue,,0000,0000,0000,,We're having a ghost story competition in the break room!
-Dialogue: 0,0:12:47.71,0:12:48.25,Working - Dialogue,,0000,0000,0000,,Taneshima.
-Dialogue: 0,0:12:48.54,0:12:48.85,Working - Dialogue,,0000,0000,0000,,Y-Yes?!
-Dialogue: 0,0:12:49.73,0:12:52.81,Working - Dialogue,,0000,0000,0000,,When looking in the rear-view mirror, a woman without a head appeared in the back.
-Dialogue: 0,0:12:54.45,0:12:57.11,Working - Dialogue,,0000,0000,0000,,Every night while sleeping, you grow shorter and shorter.
-Dialogue: 0,0:12:58.57,0:12:59.98,Working - Dialogue,,0000,0000,0000,,One day, a bear...
-Dialogue: 0,0:13:01.57,0:13:03.41,Working - Dialogue,,0000,0000,0000,,You're just getting scared by reflex.
-Dialogue: 0,0:13:03.74,0:13:05.18,Working - Dialogue,,0000,0000,0000,,Satou-san, you idiot.
-Dialogue: 0,0:13:05.95,0:13:07.71,Working - Dialogue,,0000,0000,0000,,Now I'm too scared to go home.
-Dialogue: 0,0:13:07.83,0:13:09.50,Working - Dialogue,,0000,0000,0000,,Please don't scare Senpai.
-Dialogue: 0,0:13:10.11,0:13:11.28,Working - Dialogue,,0000,0000,0000,,It's my fault?
-Dialogue: 0,0:13:12.33,0:13:13.17,Working - Dialogue,,0000,0000,0000,,I guess it can't be helped.
-Dialogue: 0,0:13:13.71,0:13:16.29,Working - Dialogue,,0000,0000,0000,,Since it's late, I'll give you a ride home.
-Dialogue: 0,0:13:17.00,0:13:18.28,Working - Dialogue,,0000,0000,0000,,I'm going to change, so wait here.
-Dialogue: 0,0:13:18.99,0:13:20.76,Working - Dialogue,,0000,0000,0000,,Thank you, Satou-san.
-Dialogue: 0,0:13:21.35,0:13:23.73,Working - Dialogue,,0000,0000,0000,,Now then, we should get going too, Inami-san.
-Dialogue: 0,0:13:24.27,0:13:24.55,Working - Dialogue,,0000,0000,0000,,Right.
-Dialogue: 0,0:13:27.52,0:13:28.11,Working - Dialogue,,0000,0000,0000,,Manager.
-Dialogue: 0,0:13:29.07,0:13:30.41,Working - Dialogue,,0000,0000,0000,,Please walk Yamada home.
-Dialogue: 0,0:13:31.48,0:13:32.48,Working - Dialogue,,0000,0000,0000,,You live here.
-Dialogue: 0,0:13:32.84,0:13:33.56,Working - Dialogue,,0000,0000,0000,,Oh, right.
-Dialogue: 0,0:13:35.50,0:13:37.65,Working - Dialogue,,0000,0000,0000,,I'm sorry for making you stay out so late with me.
-Dialogue: 0,0:13:38.25,0:13:41.04,Working - Dialogue,,0000,0000,0000,,Taneshima-san wouldn't let go of my hand.
-Dialogue: 0,0:13:41.92,0:13:42.93,Working - Dialogue,,0000,0000,0000,,I don't mind.
-Dialogue: 0,0:13:43.23,0:13:44.16,Working - Dialogue,,0000,0000,0000,,I have tomorrow off, anyway.
-Dialogue: 0,0:13:44.85,0:13:49.62,Working - Dialogue,,0000,0000,0000,,But really, Senpai is the only one who would get scared by such a simple ghost story.
-Dialogue: 0,0:13:50.82,0:13:52.82,Working - Dialogue,,0000,0000,0000,,O-Of... course.
-Dialogue: 0,0:13:55.65,0:13:56.55,Working - Dialogue,,0000,0000,0000,,Y-You're wrong!
-Dialogue: 0,0:13:57.49,0:13:58.76,Working - Dialogue,,0000,0000,0000,,I'm not scared at all.
-Dialogue: 0,0:13:59.12,0:14:00.31,Working - Dialogue,,0000,0000,0000,,I'm totally fine.
-Dialogue: 0,0:14:01.83,0:14:03.14,Working - Dialogue,,0000,0000,0000,,I'm sorry! I'm scared!
-Dialogue: 0,0:14:03.15,0:14:03.92,Working - Dialogue,,0000,0000,0000,,I'm sorry!
-Dialogue: 0,0:14:04.23,0:14:08.49,Working - Dialogue,,0000,0000,0000,,Even though my existence is scarier than that of a ghost, I'm sorry for being scared!
-Dialogue: 0,0:14:08.84,0:14:10.38,Working - Dialogue,,0000,0000,0000,,You don't have to torture yourself like that.
-Dialogue: 0,0:14:10.95,0:14:11.85,Working - Dialogue,,0000,0000,0000,,I'm sorry.
-Dialogue: 0,0:14:12.18,0:14:14.21,Working - Dialogue,,0000,0000,0000,,I'm scared of ghosts regardless of their gender.
-Dialogue: 0,0:14:14.55,0:14:17.29,Working - Dialogue,,0000,0000,0000,,The same goes for Senpai, but if you're scared you shouldn't keep listening.
-Dialogue: 0,0:14:18.51,0:14:20.21,Working - Dialogue,,0000,0000,0000,,I'll walk you all the way home today then.
-Dialogue: 0,0:14:21.15,0:14:22.45,Working - Dialogue,,0000,0000,0000,,I usually just walk with you halfway.
-Dialogue: 0,0:14:22.56,0:14:24.31,Working - Dialogue,,0000,0000,0000,,N-No it's fine. I'd feel bad.
-Dialogue: 0,0:14:24.68,0:14:28.60,Working - Dialogue,,0000,0000,0000,,Besides, my mom isn't home today, so eventually I'll be home... alone...
-Dialogue: 0,0:14:32.08,0:14:33.28,Working - Dialogue,,0000,0000,0000,,I-It'll be fine.
-Dialogue: 0,0:14:33.72,0:14:34.17,Working - Dialogue,,0000,0000,0000,,What will be?
-Dialogue: 0,0:14:35.68,0:14:37.01,Working - Dialogue,,0000,0000,0000,,Want to come to my house then?
-Dialogue: 0,0:14:37.37,0:14:38.94,Working - Dialogue,,0000,0000,0000,,I didn't mean it like that.
-Dialogue: 0,0:14:39.32,0:14:42.80,Working - Dialogue,,0000,0000,0000,,I understand, but I'm still worried.
-Dialogue: 0,0:14:44.22,0:14:45.03,Working - Dialogue,,0000,0000,0000,,About your house...
-Dialogue: 0,0:14:45.95,0:14:49.22,Working - Dialogue,,0000,0000,0000,,I appreciate the thought, but I'd rather not.
-Dialogue: 0,0:14:49.94,0:14:52.41,Working - Dialogue,,0000,0000,0000,,Well, I won't force you.
-Dialogue: 0,0:14:53.34,0:14:54.72,Working - Dialogue,,0000,0000,0000,,Wh-Why are you stopping?
-Dialogue: 0,0:14:55.82,0:14:57.55,Working - Dialogue,,0000,0000,0000,,It seems like someone's following us.
-Dialogue: 0,0:14:58.39,0:15:00.18,Working - Dialogue,,0000,0000,0000,,You're just trying to scare me by lying.
-Dialogue: 0,0:15:00.35,0:15:01.30,Working - Dialogue,,0000,0000,0000,,Stupid!
-Dialogue: 0,0:15:01.80,0:15:02.87,Working - Dialogue,,0000,0000,0000,,I'm not lying.
-Dialogue: 0,0:15:03.30,0:15:04.55,Working - Dialogue,,0000,0000,0000,,Listen! You can hear it.
-Dialogue: 0,0:15:05.30,0:15:06.70,Working - Dialogue,,0000,0000,0000,,Please tell me you're lying!
-Dialogue: 0,0:15:08.38,0:15:09.47,Working - Dialogue,,0000,0000,0000,,I-I'm sorry.
-Dialogue: 0,0:15:10.11,0:15:11.63,Working - Dialogue,,0000,0000,0000,,I could be imagining it.
-Dialogue: 0,0:15:16.13,0:15:17.37,Working - Dialogue,,0000,0000,0000,,I-I'm scared.
-Dialogue: 0,0:15:17.45,0:15:18.33,Working - Dialogue,,0000,0000,0000,,What should we do?
-Dialogue: 0,0:15:18.51,0:15:20.37,Working - Dialogue,,0000,0000,0000,,I'm scared too... of you.
-Dialogue: 0,0:15:21.70,0:15:24.15,Working - Dialogue,,0000,0000,0000,,But wait, we just have to turn around and confirm it for ourselves.
-Dialogue: 0,0:15:24.37,0:15:25.36,Working - Dialogue,,0000,0000,0000,,Just like that?
-Dialogue: 0,0:15:26.64,0:15:27.07,Working - Dialogue,,0000,0000,0000,,I see it.
-Dialogue: 0,0:15:27.38,0:15:28.80,Working - Dialogue,,0000,0000,0000,,Really? No!
-Dialogue: 0,0:15:29.21,0:15:29.74,Working - Dialogue,,0000,0000,0000,,I see Yamada.
-Dialogue: 0,0:15:31.73,0:15:34.04,Working - Dialogue,,0000,0000,0000,,I was too scared to be in the attic all alone.
-Dialogue: 0,0:15:35.12,0:15:36.41,Working - Dialogue,,0000,0000,0000,,You were scared too?
-Dialogue: 0,0:15:37.12,0:15:38.48,Working - Dialogue,,0000,0000,0000,,So that's why you followed us?
-Dialogue: 0,0:15:39.00,0:15:41.77,Working - Dialogue,,0000,0000,0000,,Satou-san and the manager all left by car so...
-Dialogue: 0,0:15:41.85,0:15:43.87,Working - Dialogue,,0000,0000,0000,,You don't have to cry anymore, Yamada-san.
-Dialogue: 0,0:15:44.07,0:15:45.92,Working - Dialogue,,0000,0000,0000,,I'm sorry, Inami-san.
-Dialogue: 0,0:15:47.03,0:15:48.68,Working - Dialogue,,0000,0000,0000,,I'm sorry for interrupting!
-Dialogue: 0,0:15:48.73,0:15:49.25,Working - Dialogue,,0000,0000,0000,,Hey wa—!
-Dialogue: 0,0:15:51.03,0:15:53.77,Working - Dialogue,,0000,0000,0000,,Okay, I'll have Yamada-san stay at my house tonight then, okay?
-Dialogue: 0,0:15:54.83,0:15:56.04,Working - Dialogue,,0000,0000,0000,,Will you really be all right?
-Dialogue: 0,0:15:56.56,0:15:57.82,Working - Dialogue,,0000,0000,0000,,We'll be fine.
-Dialogue: 0,0:15:58.49,0:16:00.73,Working - Dialogue,,0000,0000,0000,,Even if we're scared when we're alone, it'll be fine if there are two of us.
-Dialogue: 0,0:16:04.67,0:16:04.88,Working - Dialogue,,0000,0000,0000,,Boo!
+Dialogue: 0,0:12:38.69,0:12:41.31,Working - Dialogue,,0000,0000,0000,,What are you doing with the lights off?
+Dialogue: 0,0:12:41.31,0:12:42.82,Working - Dialogue,,0000,0000,0000,,We're closing up.
+Dialogue: 0,0:12:42.82,0:12:45.06,Working - Dialogue,,0000,0000,0000,,One of the customers left this book behind.
+Dialogue: 0,0:12:45.06,0:12:47.55,Working - Dialogue,,0000,0000,0000,,We're having a ghost story competition in the break room!
+Dialogue: 0,0:12:47.55,0:12:48.54,Working - Dialogue,,0000,0000,0000,,Taneshima.
+Dialogue: 0,0:12:48.54,0:12:49.57,Working - Dialogue,,0000,0000,0000,,Y-Yes?!
+Dialogue: 0,0:12:49.57,0:12:52.87,Working - Dialogue,,0000,0000,0000,,When looking in the rear-view mirror, a woman without a head appeared in the back.
+Dialogue: 0,0:12:54.29,0:12:57.61,Working - Dialogue,,0000,0000,0000,,Every night while sleeping, you grow shorter and shorter.
+Dialogue: 0,0:12:58.41,0:13:00.84,Working - Dialogue,,0000,0000,0000,,One day, a bear...
+Dialogue: 0,0:13:01.41,0:13:03.55,Working - Dialogue,,0000,0000,0000,,You're just getting scared by reflex.
+Dialogue: 0,0:13:03.55,0:13:05.79,Working - Dialogue,,0000,0000,0000,,Satou-san, you idiot.
+Dialogue: 0,0:13:05.79,0:13:07.43,Working - Dialogue,,0000,0000,0000,,Now I'm too scared to go home.
+Dialogue: 0,0:13:07.83,0:13:10.00,Working - Dialogue,,0000,0000,0000,,Please don't scare Senpai.
+Dialogue: 0,0:13:10.00,0:13:12.17,Working - Dialogue,,0000,0000,0000,,It's my fault?
+Dialogue: 0,0:13:12.17,0:13:13.67,Working - Dialogue,,0000,0000,0000,,I guess it can't be helped.
+Dialogue: 0,0:13:13.67,0:13:16.84,Working - Dialogue,,0000,0000,0000,,Since it's late, I'll give you a ride home.
+Dialogue: 0,0:13:16.84,0:13:18.83,Working - Dialogue,,0000,0000,0000,,I'm going to change, so wait here.
+Dialogue: 0,0:13:18.83,0:13:21.26,Working - Dialogue,,0000,0000,0000,,Thank you, Satou-san.
+Dialogue: 0,0:13:21.26,0:13:24.23,Working - Dialogue,,0000,0000,0000,,Now then, we should get going too, Inami-san.
+Dialogue: 0,0:13:24.23,0:13:24.99,Working - Dialogue,,0000,0000,0000,,Right.
+Dialogue: 0,0:13:27.36,0:13:28.91,Working - Dialogue,,0000,0000,0000,,Manager.
+Dialogue: 0,0:13:28.91,0:13:30.91,Working - Dialogue,,0000,0000,0000,,Please walk Yamada home.
+Dialogue: 0,0:13:31.32,0:13:32.84,Working - Dialogue,,0000,0000,0000,,You live here.
+Dialogue: 0,0:13:32.84,0:13:34.06,Working - Dialogue,,0000,0000,0000,,Oh, right.
+Dialogue: 0,0:13:35.34,0:13:38.15,Working - Dialogue,,0000,0000,0000,,I'm sorry for making you stay out so late with me.
+Dialogue: 0,0:13:38.15,0:13:41.76,Working - Dialogue,,0000,0000,0000,,Taneshima-san wouldn't let go of my hand.
+Dialogue: 0,0:13:41.76,0:13:43.23,Working - Dialogue,,0000,0000,0000,,I don't mind.
+Dialogue: 0,0:13:43.23,0:13:44.55,Working - Dialogue,,0000,0000,0000,,I have tomorrow off, anyway.
+Dialogue: 0,0:13:44.55,0:13:49.72,Working - Dialogue,,0000,0000,0000,,But really, Senpai is the only one who would get scared by such a simple ghost story.
+Dialogue: 0,0:13:50.66,0:13:52.89,Working - Dialogue,,0000,0000,0000,,O-Of... course.
+Dialogue: 0,0:13:55.49,0:13:57.33,Working - Dialogue,,0000,0000,0000,,Y-You're wrong!
+Dialogue: 0,0:13:57.33,0:13:59.12,Working - Dialogue,,0000,0000,0000,,I'm not scared at all.
+Dialogue: 0,0:13:59.12,0:14:00.73,Working - Dialogue,,0000,0000,0000,,I'm totally fine.
+Dialogue: 0,0:14:01.67,0:14:03.15,Working - Dialogue,,0000,0000,0000,,I'm sorry! I'm scared!
+Dialogue: 0,0:14:03.15,0:14:03.98,Working - Dialogue,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:14:03.98,0:14:08.84,Working - Dialogue,,0000,0000,0000,,Even though my existence is scarier than that of a ghost, I'm sorry for being scared!
+Dialogue: 0,0:14:08.84,0:14:10.49,Working - Dialogue,,0000,0000,0000,,You don't have to torture yourself like that.
+Dialogue: 0,0:14:10.88,0:14:11.87,Working - Dialogue,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:14:12.18,0:14:14.55,Working - Dialogue,,0000,0000,0000,,I'm scared of ghosts regardless of their gender.
+Dialogue: 0,0:14:14.55,0:14:17.79,Working - Dialogue,,0000,0000,0000,,The same goes for Senpai, but if you're scared you shouldn't keep listening.
+Dialogue: 0,0:14:18.35,0:14:20.99,Working - Dialogue,,0000,0000,0000,,I'll walk you all the way home today then.
+Dialogue: 0,0:14:20.99,0:14:22.29,Working - Dialogue,,0000,0000,0000,,I usually just walk with you halfway.
+Dialogue: 0,0:14:22.29,0:14:24.42,Working - Dialogue,,0000,0000,0000,,N-No it's fine. I'd feel bad.
+Dialogue: 0,0:14:24.42,0:14:29.10,Working - Dialogue,,0000,0000,0000,,Besides, my mom isn't home today, so eventually I'll be home... alone...
+Dialogue: 0,0:14:31.92,0:14:33.72,Working - Dialogue,,0000,0000,0000,,I-It'll be fine.
+Dialogue: 0,0:14:33.72,0:14:34.67,Working - Dialogue,,0000,0000,0000,,What will be?
+Dialogue: 0,0:14:35.52,0:14:37.37,Working - Dialogue,,0000,0000,0000,,Want to come to my house then?
+Dialogue: 0,0:14:37.37,0:14:38.98,Working - Dialogue,,0000,0000,0000,,I didn't mean it like that.
+Dialogue: 0,0:14:39.32,0:14:42.81,Working - Dialogue,,0000,0000,0000,,I understand, but I'm still worried.
+Dialogue: 0,0:14:44.06,0:14:45.48,Working - Dialogue,,0000,0000,0000,,About your house...
+Dialogue: 0,0:14:45.79,0:14:49.78,Working - Dialogue,,0000,0000,0000,,I appreciate the thought, but I'd rather not.
+Dialogue: 0,0:14:49.78,0:14:53.18,Working - Dialogue,,0000,0000,0000,,Well, I won't force you.
+Dialogue: 0,0:14:53.18,0:14:55.22,Working - Dialogue,,0000,0000,0000,,Wh-Why are you stopping?
+Dialogue: 0,0:14:55.66,0:14:58.29,Working - Dialogue,,0000,0000,0000,,It seems like someone's following us.
+Dialogue: 0,0:14:58.29,0:15:00.35,Working - Dialogue,,0000,0000,0000,,You're just trying to scare me by lying.
+Dialogue: 0,0:15:00.35,0:15:01.80,Working - Dialogue,,0000,0000,0000,,Stupid!
+Dialogue: 0,0:15:01.80,0:15:03.30,Working - Dialogue,,0000,0000,0000,,I'm not lying.
+Dialogue: 0,0:15:03.30,0:15:05.14,Working - Dialogue,,0000,0000,0000,,Listen! You can hear it.
+Dialogue: 0,0:15:05.14,0:15:07.20,Working - Dialogue,,0000,0000,0000,,Please tell me you're lying!
+Dialogue: 0,0:15:08.22,0:15:09.97,Working - Dialogue,,0000,0000,0000,,I-I'm sorry.
+Dialogue: 0,0:15:09.97,0:15:12.51,Working - Dialogue,,0000,0000,0000,,I could be imagining it.
+Dialogue: 0,0:15:15.85,0:15:17.45,Working - Dialogue,,0000,0000,0000,,I-I'm scared.
+Dialogue: 0,0:15:17.45,0:15:18.51,Working - Dialogue,,0000,0000,0000,,What should we do?
+Dialogue: 0,0:15:18.51,0:15:20.87,Working - Dialogue,,0000,0000,0000,,I'm scared too... of you.
+Dialogue: 0,0:15:21.54,0:15:24.37,Working - Dialogue,,0000,0000,0000,,But wait, we just have to turn around and confirm it for ourselves.
+Dialogue: 0,0:15:24.37,0:15:25.44,Working - Dialogue,,0000,0000,0000,,Just like that?
+Dialogue: 0,0:15:26.48,0:15:27.38,Working - Dialogue,,0000,0000,0000,,I see it.
+Dialogue: 0,0:15:27.38,0:15:29.21,Working - Dialogue,,0000,0000,0000,,Really? No!
+Dialogue: 0,0:15:29.21,0:15:30.24,Working - Dialogue,,0000,0000,0000,,I see Yamada.
+Dialogue: 0,0:15:31.49,0:15:34.54,Working - Dialogue,,0000,0000,0000,,I was too scared to be in the attic all alone.
+Dialogue: 0,0:15:34.96,0:15:36.70,Working - Dialogue,,0000,0000,0000,,You were scared too?
+Dialogue: 0,0:15:36.70,0:15:38.98,Working - Dialogue,,0000,0000,0000,,So that's why you followed us?
+Dialogue: 0,0:15:38.98,0:15:41.85,Working - Dialogue,,0000,0000,0000,,Satou-san and the manager all left by car so...
+Dialogue: 0,0:15:41.85,0:15:43.92,Working - Dialogue,,0000,0000,0000,,You don't have to cry anymore, Yamada-san.
+Dialogue: 0,0:15:43.92,0:15:46.67,Working - Dialogue,,0000,0000,0000,,I'm sorry, Inami-san.
+Dialogue: 0,0:15:46.67,0:15:48.73,Working - Dialogue,,0000,0000,0000,,I'm sorry for interrupting!
+Dialogue: 0,0:15:48.73,0:15:49.75,Working - Dialogue,,0000,0000,0000,,Hey wa—!
+Dialogue: 0,0:15:50.87,0:15:54.47,Working - Dialogue,,0000,0000,0000,,Okay, I'll have Yamada-san stay at my house tonight then, okay?
+Dialogue: 0,0:15:54.47,0:15:56.10,Working - Dialogue,,0000,0000,0000,,Will you really be all right?
+Dialogue: 0,0:15:56.54,0:15:58.33,Working - Dialogue,,0000,0000,0000,,We'll be fine.
+Dialogue: 0,0:15:58.33,0:16:00.85,Working - Dialogue,,0000,0000,0000,,Even if we're scared when we're alone, it'll be fine if there are two of us.
+Dialogue: 0,0:16:04.65,0:16:05.38,Working - Dialogue,,0000,0000,0000,,Boo!
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Tremble
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Tremble
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Tremble
-Dialogue: 0,0:16:07.45,0:16:09.40,Working - Dialogue,,0000,0000,0000,,You two aren't okay.
-Dialogue: 0,0:16:10.53,0:16:12.23,Working - Dialogue,,0000,0000,0000,,My oldest sister is away on a business trip,
+Dialogue: 0,0:16:07.29,0:16:09.86,Working - Dialogue,,0000,0000,0000,,You two aren't okay.
+Dialogue: 0,0:16:10.37,0:16:12.60,Working - Dialogue,,0000,0000,0000,,My oldest sister is away on a business trip,
 Dialogue: 0,0:16:12.60,0:16:14.24,Working - Dialogue,,0000,0000,0000,,and the next eldest is locked up in her room,
-Dialogue: 0,0:16:14.24,0:16:15.20,Working - Dialogue,,0000,0000,0000,,so you don't need to feel uncomfortable.
-Dialogue: 0,0:16:15.40,0:16:16.89,Working - Dialogue,,0000,0000,0000,,Yay, it's a sleepover!
-Dialogue: 0,0:16:17.20,0:16:19.23,Working - Dialogue,,0000,0000,0000,,You're awfully nice today.
-Dialogue: 0,0:16:20.06,0:16:20.63,Working - Dialogue,,0000,0000,0000,,Why?
-Dialogue: 0,0:16:20.85,0:16:22.03,Working - Dialogue,,0000,0000,0000,,Even though Yamada-san's here.
-Dialogue: 0,0:16:22.56,0:16:23.59,Working - Dialogue,,0000,0000,0000,,It can't be helped.
-Dialogue: 0,0:16:23.75,0:16:25.32,Working - Dialogue,,0000,0000,0000,,Besides, Inami-san and Yamada will...
-Dialogue: 0,0:16:25.71,0:16:28.05,Working - Dialogue,,0000,0000,0000,,Yay, Inami-chan and Yamada-chan.
-Dialogue: 0,0:16:28.46,0:16:30.18,Working - Dialogue,,0000,0000,0000,,Oh, the regular customer.
-Dialogue: 0,0:16:30.26,0:16:31.27,Working - Dialogue,,0000,0000,0000,,What, what?
-Dialogue: 0,0:16:31.25,0:16:32.76,Working - Dialogue,,0000,0000,0000,,You're scared of ghosts so you're staying here?
-Dialogue: 0,0:16:32.98,0:16:34.91,Working - Dialogue,,0000,0000,0000,,That's fine, stay over, stay over!
-Dialogue: 0,0:16:35.02,0:16:36.30,Working - Dialogue,,0000,0000,0000,,I was so bored!
-Dialogue: 0,0:16:36.87,0:16:40.47,Working - Internal,,0000,0000,0000,,I just thought that I could get a lot of housework done if you two keep Kozue-neesan company.
-Dialogue: 0,0:16:41.26,0:16:42.80,Working - Internal,,0000,0000,0000,,So that's how it was.
-Dialogue: 0,0:16:44.83,0:16:47.16,Working - Dialogue,,0000,0000,0000,,I see, it's a sleepover.
-Dialogue: 0,0:16:47.98,0:16:50.16,Working - Dialogue,,0000,0000,0000,,Please make yourselves at home, okay?
-Dialogue: 0,0:16:50.41,0:16:51.89,Working - Dialogue,,0000,0000,0000,,Oh, just a second.
-Dialogue: 0,0:16:53.10,0:16:53.94,Working - Dialogue,,0000,0000,0000,,Here are some pajamas.
-Dialogue: 0,0:16:54.31,0:16:58.02,Working - Dialogue,,0000,0000,0000,,My sisters' are probably too big, so please use mine.
-Dialogue: 0,0:16:58.50,0:17:01.74,Working - Internal,,0000,0000,0000,,Nazuna-chan is so mature for a grade-schooler.
-Dialogue: 0,0:17:02.23,0:17:06.42,Working - Dialogue,,0000,0000,0000,,Mom and dad's room are open...
-Dialogue: 0,0:17:06.43,0:17:08.04,Working - Dialogue,,0000,0000,0000,,I'm sorry for waking you, Nazuna.
-Dialogue: 0,0:17:08.32,0:17:09.32,Working - Dialogue,,0000,0000,0000,,Let's go to sleep.
-Dialogue: 0,0:17:09.34,0:17:10.74,Working - Dialogue,,0000,0000,0000,,O-Okay...
-Dialogue: 0,0:17:11.05,0:17:12.73,Working - Internal,,0000,0000,0000,,So she is in elementary school after all...
-Dialogue: 0,0:17:13.62,0:17:16.49,Working - Dialogue,,0000,0000,0000,,All right! So how about we take a bath.
-Dialogue: 0,0:17:17.16,0:17:18.12,Working - Dialogue,,0000,0000,0000,,Let's go in together.
-Dialogue: 0,0:17:18.31,0:17:18.76,Working - Dialogue,,0000,0000,0000,,That's impossible!
-Dialogue: 0,0:17:19.55,0:17:20.98,Working - Dialogue,,0000,0000,0000,,Yamada wants to!
-Dialogue: 0,0:17:21.30,0:17:23.54,Working - Dialogue,,0000,0000,0000,,Don't worry! Our bath is huge.
-Dialogue: 0,0:17:23.73,0:17:24.74,Working - Dialogue,,0000,0000,0000,,It's small!
-Dialogue: 0,0:17:25.06,0:17:26.10,Working - Dialogue,,0000,0000,0000,,I said it was big...
-Dialogue: 0,0:17:32.39,0:17:33.42,Working - Internal,,0000,0000,0000,,I sure am making progress.
-Dialogue: 0,0:17:34.51,0:17:35.33,Working - Dialogue,,0000,0000,0000,,Takanashi-kun.
-Dialogue: 0,0:17:35.88,0:17:36.21,Working - Dialogue,,0000,0000,0000,,Yes?
-Dialogue: 0,0:17:36.97,0:17:38.60,Working - Dialogue,,0000,0000,0000,,Thanks for the bath.
-Dialogue: 0,0:17:39.82,0:17:40.88,Working - Dialogue,,0000,0000,0000,,Is something wrong?
-Dialogue: 0,0:17:41.25,0:17:41.97,Working - Dialogue,,0000,0000,0000,,Nothing.
-Dialogue: 0,0:17:42.44,0:17:43.34,Working - Dialogue,,0000,0000,0000,,It's so big.
-Dialogue: 0,0:17:44.23,0:17:44.41,Working - Dialogue,,0000,0000,0000,,Huh?
-Dialogue: 0,0:17:45.02,0:17:45.88,Working - Dialogue,,0000,0000,0000,,Oh, the bath?
-Dialogue: 0,0:17:46.58,0:17:47.82,Working - Dialogue,,0000,0000,0000,,So small.
-Dialogue: 0,0:17:47.82,0:17:49.35,Working - Dialogue,,0000,0000,0000,,P-Putting that aside,
-Dialogue: 0,0:17:49.36,0:17:50.64,Working - Dialogue,,0000,0000,0000,,Is there anything I can help you with?
-Dialogue: 0,0:17:51.03,0:17:51.46,Working - Dialogue,,0000,0000,0000,,Nope.
-Dialogue: 0,0:17:51.99,0:17:53.24,Working - Dialogue,,0000,0000,0000,,I'm pretty much finished.
-Dialogue: 0,0:17:53.83,0:17:56.72,Working - Dialogue,,0000,0000,0000,,You've already helped out a lot by keeping Kozue-neesan occupied.
-Dialogue: 0,0:17:57.25,0:17:58.47,Working - Dialogue,,0000,0000,0000,,Please make yourself comfortable.
-Dialogue: 0,0:17:59.70,0:18:02.57,Working - Dialogue,,0000,0000,0000,,Although, you don't have to get that comfortable.
-Dialogue: 0,0:18:03.42,0:18:04.44,Working - Dialogue,,0000,0000,0000,,Does she think this is her own house?
-Dialogue: 0,0:18:04.90,0:18:07.07,Working - Dialogue,,0000,0000,0000,,Yamada will live here!
-Dialogue: 0,0:18:07.26,0:18:07.90,Working - Dialogue,,0000,0000,0000,,Will you?
-Dialogue: 0,0:18:08.25,0:18:08.91,Working - Dialogue,,0000,0000,0000,,Yamada-san...
-Dialogue: 0,0:18:11.99,0:18:14.20,Working - Dialogue,,0000,0000,0000,,I'll be going to my room then. Have a nice night.
-Dialogue: 0,0:18:14.65,0:18:15.47,Working - Dialogue,,0000,0000,0000,,Good night.
-Dialogue: 0,0:18:17.98,0:18:22.30,Working - Dialogue,,0000,0000,0000,,This is the first time I've seen Souta get along so well with a girl his own age.
-Dialogue: 0,0:18:24.06,0:18:26.55,Working - Internal,,0000,0000,0000,,Think carefully before letting out other people's secrets, okay?
+Dialogue: 0,0:16:14.24,0:16:15.40,Working - Dialogue,,0000,0000,0000,,so you don't need to feel uncomfortable.
+Dialogue: 0,0:16:15.40,0:16:17.20,Working - Dialogue,,0000,0000,0000,,Yay, it's a sleepover!
+Dialogue: 0,0:16:17.20,0:16:19.90,Working - Dialogue,,0000,0000,0000,,You're awfully nice today.
+Dialogue: 0,0:16:19.90,0:16:20.85,Working - Dialogue,,0000,0000,0000,,Why?
+Dialogue: 0,0:16:20.85,0:16:22.53,Working - Dialogue,,0000,0000,0000,,Even though Yamada-san's here.
+Dialogue: 0,0:16:22.53,0:16:23.75,Working - Dialogue,,0000,0000,0000,,It can't be helped.
+Dialogue: 0,0:16:23.75,0:16:25.38,Working - Dialogue,,0000,0000,0000,,Besides, Inami-san and Yamada will...
+Dialogue: 0,0:16:25.71,0:16:28.13,Working - Dialogue,,0000,0000,0000,,Yay, Inami-chan and Yamada-chan.
+Dialogue: 0,0:16:28.46,0:16:30.26,Working - Dialogue,,0000,0000,0000,,Oh, the regular customer.
+Dialogue: 0,0:16:30.26,0:16:31.09,Working - Dialogue,,0000,0000,0000,,What, what?
+Dialogue: 0,0:16:31.09,0:16:32.80,Working - Dialogue,,0000,0000,0000,,You're scared of ghosts so you're staying here?
+Dialogue: 0,0:16:32.80,0:16:35.02,Working - Dialogue,,0000,0000,0000,,That's fine, stay over, stay over!
+Dialogue: 0,0:16:35.02,0:16:36.80,Working - Dialogue,,0000,0000,0000,,I was so bored!
+Dialogue: 0,0:16:36.80,0:16:41.10,Working - Internal,,0000,0000,0000,,I just thought that I could get a lot of housework done if you two keep Kozue-neesan company.
+Dialogue: 0,0:16:41.10,0:16:43.30,Working - Internal,,0000,0000,0000,,So that's how it was.
+Dialogue: 0,0:16:44.67,0:16:47.82,Working - Dialogue,,0000,0000,0000,,I see, it's a sleepover.
+Dialogue: 0,0:16:47.82,0:16:50.15,Working - Dialogue,,0000,0000,0000,,Please make yourselves at home, okay?
+Dialogue: 0,0:16:50.15,0:16:52.39,Working - Dialogue,,0000,0000,0000,,Oh, just a second.
+Dialogue: 0,0:16:52.90,0:16:54.31,Working - Dialogue,,0000,0000,0000,,Here are some pajamas.
+Dialogue: 0,0:16:54.31,0:16:58.07,Working - Dialogue,,0000,0000,0000,,My sisters' are probably too big, so please use mine.
+Dialogue: 0,0:16:58.50,0:17:02.08,Working - Internal,,0000,0000,0000,,Nazuna-chan is so mature for a grade-schooler.
+Dialogue: 0,0:17:02.08,0:17:06.43,Working - Dialogue,,0000,0000,0000,,Mom and dad's room are open...
+Dialogue: 0,0:17:06.43,0:17:08.32,Working - Dialogue,,0000,0000,0000,,I'm sorry for waking you, Nazuna.
+Dialogue: 0,0:17:08.32,0:17:09.34,Working - Dialogue,,0000,0000,0000,,Let's go to sleep.
+Dialogue: 0,0:17:09.34,0:17:11.05,Working - Dialogue,,0000,0000,0000,,O-Okay...
+Dialogue: 0,0:17:11.05,0:17:13.34,Working - Internal,,0000,0000,0000,,So she is in elementary school after all...
+Dialogue: 0,0:17:13.34,0:17:17.00,Working - Dialogue,,0000,0000,0000,,All right! So how about we take a bath.
+Dialogue: 0,0:17:17.00,0:17:18.31,Working - Dialogue,,0000,0000,0000,,Let's go in together.
+Dialogue: 0,0:17:18.31,0:17:19.39,Working - Dialogue,,0000,0000,0000,,That's impossible!
+Dialogue: 0,0:17:19.39,0:17:21.30,Working - Dialogue,,0000,0000,0000,,Yamada wants to!
+Dialogue: 0,0:17:21.30,0:17:23.48,Working - Dialogue,,0000,0000,0000,,Don't worry! Our bath is huge.
+Dialogue: 0,0:17:23.48,0:17:25.06,Working - Dialogue,,0000,0000,0000,,It's small!
+Dialogue: 0,0:17:25.06,0:17:26.60,Working - Dialogue,,0000,0000,0000,,I said it was big...
+Dialogue: 0,0:17:32.23,0:17:33.92,Working - Internal,,0000,0000,0000,,I sure am making progress.
+Dialogue: 0,0:17:34.35,0:17:35.83,Working - Dialogue,,0000,0000,0000,,Takanashi-kun.
+Dialogue: 0,0:17:35.83,0:17:36.45,Working - Dialogue,,0000,0000,0000,,Yes?
+Dialogue: 0,0:17:36.81,0:17:38.78,Working - Dialogue,,0000,0000,0000,,Thanks for the bath.
+Dialogue: 0,0:17:39.66,0:17:41.25,Working - Dialogue,,0000,0000,0000,,Is something wrong?
+Dialogue: 0,0:17:41.25,0:17:42.20,Working - Dialogue,,0000,0000,0000,,Nothing.
+Dialogue: 0,0:17:42.20,0:17:44.07,Working - Dialogue,,0000,0000,0000,,It's so big.
+Dialogue: 0,0:17:44.07,0:17:44.91,Working - Dialogue,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:44.91,0:17:46.42,Working - Dialogue,,0000,0000,0000,,Oh, the bath?
+Dialogue: 0,0:17:46.42,0:17:47.67,Working - Dialogue,,0000,0000,0000,,So small.
+Dialogue: 0,0:17:47.67,0:17:49.36,Working - Dialogue,,0000,0000,0000,,P-Putting that aside,
+Dialogue: 0,0:17:49.36,0:17:51.03,Working - Dialogue,,0000,0000,0000,,Is there anything I can help you with?
+Dialogue: 0,0:17:51.03,0:17:51.96,Working - Dialogue,,0000,0000,0000,,Nope.
+Dialogue: 0,0:17:51.96,0:17:53.74,Working - Dialogue,,0000,0000,0000,,I'm pretty much finished.
+Dialogue: 0,0:17:53.74,0:17:57.22,Working - Dialogue,,0000,0000,0000,,You've already helped out a lot by keeping Kozue-neesan occupied.
+Dialogue: 0,0:17:57.22,0:17:58.97,Working - Dialogue,,0000,0000,0000,,Please make yourself comfortable.
+Dialogue: 0,0:17:59.64,0:18:03.26,Working - Dialogue,,0000,0000,0000,,Although, you don't have to get that comfortable.
+Dialogue: 0,0:18:03.26,0:18:04.90,Working - Dialogue,,0000,0000,0000,,Does she think this is her own house?
+Dialogue: 0,0:18:04.90,0:18:07.26,Working - Dialogue,,0000,0000,0000,,Yamada will live here!
+Dialogue: 0,0:18:07.26,0:18:08.25,Working - Dialogue,,0000,0000,0000,,Will you?
+Dialogue: 0,0:18:08.25,0:18:09.65,Working - Dialogue,,0000,0000,0000,,Yamada-san...
+Dialogue: 0,0:18:11.83,0:18:14.57,Working - Dialogue,,0000,0000,0000,,I'll be going to my room then. Have a nice night.
+Dialogue: 0,0:18:14.57,0:18:15.97,Working - Dialogue,,0000,0000,0000,,Good night.
+Dialogue: 0,0:18:17.82,0:18:22.80,Working - Dialogue,,0000,0000,0000,,This is the first time I've seen Souta get along so well with a girl his own age.
+Dialogue: 0,0:18:23.90,0:18:27.29,Working - Internal,,0000,0000,0000,,Think carefully before letting out other people's secrets, okay?
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Thinking
-Dialogue: 0,0:18:30.66,0:18:33.21,Working - Dialogue,,0000,0000,0000,,Inami-san likes Takanashi-kun.
-Dialogue: 0,0:18:34.01,0:18:35.12,Working - Dialogue,,0000,0000,0000,,Seriously?!
-Dialogue: 0,0:18:35.17,0:18:35.71,Working - Dialogue,,0000,0000,0000,,Seriously.
-Dialogue: 0,0:18:36.19,0:18:38.38,Working - Dialogue,,0000,0000,0000,,I've always thought that.
-Dialogue: 0,0:18:39.01,0:18:40.03,Working - Internal,,0000,0000,0000,,What are they talking about?
-Dialogue: 0,0:18:41.27,0:18:42.04,Working - Dialogue,,0000,0000,0000,,All right!
-Dialogue: 0,0:18:42.29,0:18:46.39,Working - Dialogue,,0000,0000,0000,,Then I, Kozue-oneesan, will subtly and artfully assist Inami-chan!
-Dialogue: 0,0:18:54.28,0:18:57.99,Working - Dialogue,,0000,0000,0000,,Jeez, Kozue-neesan and Yamada are sure doing as they please.
-Dialogue: 0,0:18:58.58,0:19:00.06,Working - Dialogue,,0000,0000,0000,,Do they want me to get hit?
-Dialogue: 0,0:19:01.29,0:19:05.57,Working - Dialogue,,0000,0000,0000,,Well, I'll allow it since you always listen to my complaints about my family and stuff.
-Dialogue: 0,0:19:07.71,0:19:08.54,Working - Dialogue,,0000,0000,0000,,Wh-What?!
-Dialogue: 0,0:19:08.98,0:19:09.45,Working - Dialogue,,0000,0000,0000,,Me too!
-Dialogue: 0,0:19:09.58,0:19:11.63,Working - Dialogue,,0000,0000,0000,,You're always willing to help me fix my androphobia,
-Dialogue: 0,0:19:11.74,0:19:13.55,Working - Dialogue,,0000,0000,0000,,and you've helped me out with my father,
-Dialogue: 0,0:19:13.68,0:19:14.90,Working - Dialogue,,0000,0000,0000,,but I'm always causing trouble,
-Dialogue: 0,0:19:15.10,0:19:16.00,Working - Dialogue,,0000,0000,0000,,and today's the same too!
-Dialogue: 0,0:19:15.99,0:19:17.46,Working - Dialogue,,0000,0000,0000,,Everything's always my fault!
-Dialogue: 0,0:19:18.64,0:19:20.50,Working - Dialogue,,0000,0000,0000,,They didn't make you drink, did they?
-Dialogue: 0,0:19:21.33,0:19:22.57,Working - Dialogue,,0000,0000,0000,,You don't have to be so disheartened.
-Dialogue: 0,0:19:22.99,0:19:25.26,Working - Dialogue,,0000,0000,0000,,U-Um, Takanashi-kun.
-Dialogue: 0,0:19:25.25,0:19:25.56,Working - Dialogue,,0000,0000,0000,,Yes?
-Dialogue: 0,0:19:25.79,0:19:27.49,Working - Dialogue,,0000,0000,0000,,Can I ask you something?
-Dialogue: 0,0:19:27.79,0:19:28.30,Working - Dialogue,,0000,0000,0000,,Go ahead.
-Dialogue: 0,0:19:28.96,0:19:29.63,Working - Dialogue,,0000,0000,0000,,Is it about classic literature?
-Dialogue: 0,0:19:30.41,0:19:32.24,Working - Dialogue,,0000,0000,0000,,Taneshima-senpai is better with science and math.
-Dialogue: 0,0:19:32.44,0:19:33.25,Working - Dialogue,,0000,0000,0000,,That's not it.
-Dialogue: 0,0:19:33.55,0:19:36.60,Working - Dialogue,,0000,0000,0000,,U-Um...
-Dialogue: 0,0:19:36.95,0:19:38.04,Working - Dialogue,,0000,0000,0000,,Yes? What is it?
-Dialogue: 0,0:19:38.27,0:19:42.37,Working - Dialogue,,0000,0000,0000,,Even after my androphobia is cured, will you still ca-
-Dialogue: 0,0:19:42.90,0:19:44.82,Working - Dialogue,,0000,0000,0000,,talk with me?
-Dialogue: 0,0:19:46.20,0:19:50.36,Working - Dialogue,,0000,0000,0000,,Well, if you stop hitting me, I'm certain we'll get along even better.
-Dialogue: 0,0:19:53.34,0:19:53.99,Working - Dialogue,,0000,0000,0000,,I know, right?
-Dialogue: 0,0:19:54.59,0:19:55.05,Working - Dialogue,,0000,0000,0000,,Hm?
-Dialogue: 0,0:19:55.42,0:19:56.05,Working - Internal,,0000,0000,0000,,Huh?
-Dialogue: 0,0:19:56.23,0:19:58.90,Working - Internal,,0000,0000,0000,,Was I over-thinking it?
-Dialogue: 0,0:19:59.69,0:20:02.91,Working - Dialogue,,0000,0000,0000,,I don't really understand, but it looks like you're scared of ghosts anymore.
-Dialogue: 0,0:20:03.16,0:20:04.94,Working - Dialogue,,0000,0000,0000,,Oh, I forgot about that.
-Dialogue: 0,0:20:06.42,0:20:08.85,Working - Dialogue,,0000,0000,0000,,I'm not sleepy yet, so do you want to do this?
-Dialogue: 0,0:20:09.20,0:20:11.53,Working - Dialogue,,0000,0000,0000,,B-But will I be able to do it?
-Dialogue: 0,0:20:12.09,0:20:12.92,Working - Dialogue,,0000,0000,0000,,It'll be fine.
-Dialogue: 0,0:20:13.51,0:20:15.37,Working - Dialogue,,0000,0000,0000,,But this is my first time.
-Dialogue: 0,0:20:16.34,0:20:18.81,Working - Dialogue,,0000,0000,0000,,This is getting good.
-Dialogue: 0,0:20:19.07,0:20:20.52,Working - Dialogue,,0000,0000,0000,,What are they doing?
-Dialogue: 0,0:20:20.54,0:20:24.24,Working - Dialogue,,0000,0000,0000,,There's only one thing a boy and a girl do behind closed doors.
-Dialogue: 0,0:20:24.39,0:20:25.64,Working - Dialogue,,0000,0000,0000,,Oh! I know!
-Dialogue: 0,0:20:26.07,0:20:27.07,Working - Dialogue,,0000,0000,0000,,Card games?
-Dialogue: 0,0:20:27.33,0:20:31.52,Working - Dialogue,,0000,0000,0000,,Yamada wants to play too!
-Dialogue: 0,0:20:29.29,0:20:31.52,Working - Dialogue,,0000,0000,0000,,Jeez, Yamada-chan.
-Dialogue: 0,0:20:35.18,0:20:36.39,Working - Dialogue,,0000,0000,0000,,Kozue-neesan, you're too noisy.
-Dialogue: 0,0:20:36.89,0:20:38.30,Working - Dialogue,,0000,0000,0000,,The Old Maid...
-Dialogue: 0,0:20:38.53,0:20:39.89,Working - Dialogue,,0000,0000,0000,,So you really were doing that?!
-Dialogue: 0,0:20:40.92,0:20:42.36,Working - Dialogue,,0000,0000,0000,,What a boring guy.
+Dialogue: 0,0:18:30.33,0:18:33.85,Working - Dialogue,,0000,0000,0000,,Inami-san likes Takanashi-kun.
+Dialogue: 0,0:18:33.85,0:18:35.17,Working - Dialogue,,0000,0000,0000,,Seriously?!
+Dialogue: 0,0:18:35.17,0:18:35.76,Working - Dialogue,,0000,0000,0000,,Seriously.
+Dialogue: 0,0:18:36.19,0:18:38.88,Working - Dialogue,,0000,0000,0000,,I've always thought that.
+Dialogue: 0,0:18:38.88,0:18:40.53,Working - Internal,,0000,0000,0000,,What are they talking about?
+Dialogue: 0,0:18:41.01,0:18:42.29,Working - Dialogue,,0000,0000,0000,,All right!
+Dialogue: 0,0:18:42.29,0:18:46.43,Working - Dialogue,,0000,0000,0000,,Then I, Kozue-oneesan, will subtly and artfully assist Inami-chan!
+Dialogue: 0,0:18:53.86,0:18:58.49,Working - Dialogue,,0000,0000,0000,,Jeez, Kozue-neesan and Yamada are sure doing as they please.
+Dialogue: 0,0:18:58.49,0:19:00.56,Working - Dialogue,,0000,0000,0000,,Do they want me to get hit?
+Dialogue: 0,0:19:01.13,0:19:06.07,Working - Dialogue,,0000,0000,0000,,Well, I'll allow it since you always listen to my complaints about my family and stuff.
+Dialogue: 0,0:19:07.55,0:19:08.98,Working - Dialogue,,0000,0000,0000,,Wh-What?!
+Dialogue: 0,0:19:08.98,0:19:09.58,Working - Dialogue,,0000,0000,0000,,Me too!
+Dialogue: 0,0:19:09.58,0:19:11.74,Working - Dialogue,,0000,0000,0000,,You're always willing to help me fix my androphobia,
+Dialogue: 0,0:19:11.74,0:19:13.68,Working - Dialogue,,0000,0000,0000,,and you've helped me out with my father,
+Dialogue: 0,0:19:13.68,0:19:15.10,Working - Dialogue,,0000,0000,0000,,but I'm always causing trouble,
+Dialogue: 0,0:19:15.10,0:19:15.83,Working - Dialogue,,0000,0000,0000,,and today's the same too!
+Dialogue: 0,0:19:15.83,0:19:17.96,Working - Dialogue,,0000,0000,0000,,Everything's always my fault!
+Dialogue: 0,0:19:18.48,0:19:21.17,Working - Dialogue,,0000,0000,0000,,They didn't make you drink, did they?
+Dialogue: 0,0:19:21.17,0:19:22.59,Working - Dialogue,,0000,0000,0000,,You don't have to be so disheartened.
+Dialogue: 0,0:19:22.99,0:19:25.09,Working - Dialogue,,0000,0000,0000,,U-Um, Takanashi-kun.
+Dialogue: 0,0:19:25.09,0:19:25.79,Working - Dialogue,,0000,0000,0000,,Yes?
+Dialogue: 0,0:19:25.79,0:19:27.56,Working - Dialogue,,0000,0000,0000,,Can I ask you something?
+Dialogue: 0,0:19:27.56,0:19:28.80,Working - Dialogue,,0000,0000,0000,,Go ahead.
+Dialogue: 0,0:19:28.80,0:19:30.25,Working - Dialogue,,0000,0000,0000,,Is it about classic literature?
+Dialogue: 0,0:19:30.25,0:19:32.44,Working - Dialogue,,0000,0000,0000,,Taneshima-senpai is better with science and math.
+Dialogue: 0,0:19:32.44,0:19:33.06,Working - Dialogue,,0000,0000,0000,,That's not it.
+Dialogue: 0,0:19:33.55,0:19:36.95,Working - Dialogue,,0000,0000,0000,,U-Um...
+Dialogue: 0,0:19:36.95,0:19:38.03,Working - Dialogue,,0000,0000,0000,,Yes? What is it?
+Dialogue: 0,0:19:38.03,0:19:42.87,Working - Dialogue,,0000,0000,0000,,Even after my androphobia is cured, will you still ca-
+Dialogue: 0,0:19:42.87,0:19:44.99,Working - Dialogue,,0000,0000,0000,,talk with me?
+Dialogue: 0,0:19:46.04,0:19:50.46,Working - Dialogue,,0000,0000,0000,,Well, if you stop hitting me, I'm certain we'll get along even better.
+Dialogue: 0,0:19:53.18,0:19:54.49,Working - Dialogue,,0000,0000,0000,,I know, right?
+Dialogue: 0,0:19:54.49,0:19:55.21,Working - Dialogue,,0000,0000,0000,,Hm?
+Dialogue: 0,0:19:55.21,0:19:56.23,Working - Internal,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:56.23,0:19:59.17,Working - Internal,,0000,0000,0000,,Was I over-thinking it?
+Dialogue: 0,0:19:59.53,0:20:02.80,Working - Dialogue,,0000,0000,0000,,I don't really understand, but it looks like you're scared of ghosts anymore.
+Dialogue: 0,0:20:03.16,0:20:05.44,Working - Dialogue,,0000,0000,0000,,Oh, I forgot about that.
+Dialogue: 0,0:20:06.26,0:20:09.20,Working - Dialogue,,0000,0000,0000,,I'm not sleepy yet, so do you want to do this?
+Dialogue: 0,0:20:09.20,0:20:12.03,Working - Dialogue,,0000,0000,0000,,B-But will I be able to do it?
+Dialogue: 0,0:20:12.03,0:20:13.42,Working - Dialogue,,0000,0000,0000,,It'll be fine.
+Dialogue: 0,0:20:13.42,0:20:16.11,Working - Dialogue,,0000,0000,0000,,But this is my first time.
+Dialogue: 0,0:20:16.11,0:20:19.07,Working - Dialogue,,0000,0000,0000,,This is getting good.
+Dialogue: 0,0:20:19.07,0:20:20.61,Working - Dialogue,,0000,0000,0000,,What are they doing?
+Dialogue: 0,0:20:20.61,0:20:24.39,Working - Dialogue,,0000,0000,0000,,There's only one thing a boy and a girl do behind closed doors.
+Dialogue: 0,0:20:24.39,0:20:25.70,Working - Dialogue,,0000,0000,0000,,Oh! I know!
+Dialogue: 0,0:20:26.07,0:20:27.33,Working - Dialogue,,0000,0000,0000,,Card games?
+Dialogue: 0,0:20:27.33,0:20:29.13,Working - Dialogue,,0000,0000,0000,,Yamada wants to play too!
+Dialogue: 0,0:20:29.13,0:20:32.02,Working - Dialogue,,0000,0000,0000,,Jeez, Yamada-chan.
+Dialogue: 0,0:20:35.02,0:20:36.89,Working - Dialogue,,0000,0000,0000,,Kozue-neesan, you're too noisy.
+Dialogue: 0,0:20:36.89,0:20:38.29,Working - Dialogue,,0000,0000,0000,,The Old Maid...
+Dialogue: 0,0:20:38.29,0:20:40.76,Working - Dialogue,,0000,0000,0000,,So you really were doing that?!
+Dialogue: 0,0:20:40.76,0:20:42.86,Working - Dialogue,,0000,0000,0000,,What a boring guy.
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Old Maid
-Dialogue: 0,0:20:46.47,0:20:46.51,Working - Dialogue,,0000,0000,0000,,ED
+Comment: 0,0:20:46.31,0:20:47.01,Working - Dialogue,,0000,0000,0000,,ED
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Next Episode
-Dialogue: 0,0:22:17.02,0:22:18.05,Working - Dialogue,,0000,0000,0000,,Next episode preview:
-Dialogue: 0,0:22:18.02,0:22:18.52,Working - Dialogue,,0000,0000,0000,,Senpai?!
-Dialogue: 0,0:22:18.55,0:22:21.42,Working - Dialogue,,0000,0000,0000,,Katanashi-kun! Don't you think that I haven't been getting much screen time lately?
-Dialogue: 0,0:22:21.46,0:22:22.58,Working - Dialogue,,0000,0000,0000,,What? Th-That's not true.
-Dialogue: 0,0:22:22.58,0:22:23.89,Working - Dialogue,,0000,0000,0000,,It's true!
+Dialogue: 0,0:22:16.86,0:22:17.86,Working - Dialogue,,0000,0000,0000,,Next episode preview:
+Dialogue: 0,0:22:17.86,0:22:18.55,Working - Dialogue,,0000,0000,0000,,Senpai?!
+Dialogue: 0,0:22:18.55,0:22:21.46,Working - Dialogue,,0000,0000,0000,,Katanashi-kun! Don't you think that I haven't been getting much screen time lately?
+Dialogue: 0,0:22:21.46,0:22:22.48,Working - Dialogue,,0000,0000,0000,,What? Th-That's not true.
+Dialogue: 0,0:22:22.48,0:22:24.09,Working - Dialogue,,0000,0000,0000,,It's true!
 Comment: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Rage
-Dialogue: 0,0:22:24.09,0:22:26.31,Working - Dialogue,,0000,0000,0000,,Cross-dress for poor little me!
+Dialogue: 0,0:22:24.09,0:22:26.32,Working - Dialogue,,0000,0000,0000,,Cross-dress for poor little me!
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Poke
-Dialogue: 0,0:22:26.32,0:22:27.29,Working - Dialogue,,0000,0000,0000,,That's totally unrelated!
-Dialogue: 0,0:22:27.54,0:22:30.41,Working - Dialogue,,0000,0000,0000,,Next time, An unexpected night before the match. Taneshima's repayment.
+Dialogue: 0,0:22:26.32,0:22:27.54,Working - Dialogue,,0000,0000,0000,,That's totally unrelated!
+Dialogue: 0,0:22:27.54,0:22:30.45,Working - Dialogue,,0000,0000,0000,,Next time, An unexpected night before the match. Taneshima's repayment.
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,Item 12
 Dialogue: 0,0:00:00.00,0:00:00.00,Working - TS,,0000,0000,0000,,An unexpected night before the match. Taneshima's Repayment.
-Dialogue: 0,0:22:30.45,0:22:32.51,Working - Dialogue,,0000,0000,0000,,Kotori-chan, come back!
-Dialogue: 0,0:22:32.51,0:22:34.51,Working - Dialogue,,0000,0000,0000,,
+Dialogue: 0,0:22:30.45,0:22:32.91,Working - Dialogue,,0000,0000,0000,,Kotori-chan, come back!
+Dialogue: 0,0:22:32.51,0:22:35.01,Working - Dialogue,,0000,0000,0000,,
