@@ -9,13 +9,13 @@ PlayResY: 1080
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: c1.77778
 Video Zoom: 4
-Video Position: 32319
+Video Position: 27224
 Last Style Storage: Default
 Collisions: Normal
 Video Zoom Percent: 1.000000
 Audio File: ?video
-Scroll Position: 81
-Active Line: 94
+Scroll Position: 222
+Active Line: 250
 YCbCr Matrix: TV.709
 Video File: ..\Raw\10-720-8bit.mkv
 
@@ -31,11 +31,11 @@ Style: Working ED - rom,Flora LT Medium,63,&H000285E0,&H00A3ECFF,&H00000000,&H96
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:21.16,0:00:22.54,Working - TS,,0,0,0,,[Goosebumps]
+Dialogue: 0,0:00:21.16,0:00:22.54,Working - TS,,0,0,0,,{\an5}Goosebumps
 Dialogue: 0,0:01:15.30,0:01:19.93,Working - TS,,0,0,0,,{\fad(600,0)\fs58.5\3c&HFFFFFF&\bord6.75\c&H1706C4&\pos(960,735)}Item 10
 Dialogue: 0,0:01:15.30,0:01:19.93,Working - TS,,0,0,0,,{\fad(600,0)\fs58.5\3c&HFFFFFF&\bord6.75\c&H1706C4&\pos(960,1053)}A suspicious situation... Nazuna works.
-Comment: 0,0:05:35.31,0:05:37.73,Working - TS,,0,0,0,,[ding dong]
-Comment: 0,0:05:37.98,0:05:39.23,Working - TS,,0,0,0,,[ding dong]
+Dialogue: 0,0:05:35.31,0:05:37.73,Working - TS,,0,0,0,,ding dong
+Dialogue: 0,0:05:37.98,0:05:39.23,Working - TS,,0,0,0,,ding dong
 Dialogue: 0,0:06:56.10,0:06:56.14,Working - Comfortaa,,0,0,0,,{\c&H25C8E1&\bord3\3c&HFFFFFF&\shad7\pos(1338,640)}Recovered them somehow
 Dialogue: 0,0:06:56.14,0:06:56.18,Working - Comfortaa,,0,0,0,,{\c&H25C8E1&\bord3\3c&HFFFFFF&\shad7\pos(1340.27,640)}Recovered them somehow
 Dialogue: 0,0:06:56.18,0:06:56.22,Working - Comfortaa,,0,0,0,,{\c&H25C8E1&\bord3\3c&HFFFFFF&\shad7\pos(1342.84,640)}Recovered them somehow
@@ -119,12 +119,214 @@ Dialogue: 0,0:06:59.39,0:06:59.44,Working - Comfortaa,,0,0,0,,{\c&H25C8E1&\bord3
 Dialogue: 0,0:06:59.44,0:06:59.48,Working - Comfortaa,,0,0,0,,{\c&H25C8E1&\bord3\3c&HFFFFFF&\shad7\pos(1525.65,640.03)}Recovered them somehow
 Dialogue: 0,0:06:59.48,0:06:59.52,Working - Comfortaa,,0,0,0,,{\c&H25C8E1&\bord3\3c&HFFFFFF&\shad7\pos(1526.01,640.04)}Recovered them somehow
 Dialogue: 0,0:06:59.52,0:07:01.10,Working - Comfortaa,,0,0,0,,{\c&H25C8E1&\bord3\3c&HFFFFFF&\shad7\pos(1526.01,640.04)}Recovered them somehow
-Dialogue: 1,0:08:26.36,0:08:27.77,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1531.5,106.5)}Yamada
-Dialogue: 0,0:08:26.36,0:08:27.77,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H000000&\3c&H000000&\blur2\bord5\alpha&H96&\pos(1538.5,113.5)}Yamada
-Comment: 0,0:13:50.01,0:13:51.76,Working - TS,,0,0,0,,[Offering]
-Comment: 0,0:14:59.42,0:15:01.00,Working - TS,,0,0,0,,[Hits him a lot]
-Comment: 0,0:16:14.03,0:16:17.33,Working - TS,,0,0,0,,[Stare]
-Comment: 0,0:18:53.44,0:18:55.40,Working - TS,,0,0,0,,[agitation]
+Comment: 1,0:08:26.36,0:08:27.77,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1531.5,106.5)}Yamada
+Dialogue: 1,0:08:26.36,0:08:26.40,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&HB4E6F8&\3c&HB1E4D6&\bord5\pos(1531.5,106.5)}Yamada
+Dialogue: 1,0:08:26.40,0:08:26.44,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H98DEF5&\3c&H8DD8B1&\bord5\pos(1531.92,106.04)}Yamada
+Dialogue: 1,0:08:26.44,0:08:26.48,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H78D5F1&\3c&H6BCD8E&\bord5\pos(1532.34,105.87)}Yamada
+Dialogue: 1,0:08:26.48,0:08:26.52,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1532.79,105.54)}Yamada
+Dialogue: 1,0:08:26.52,0:08:26.56,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1533.2,105.23)}Yamada
+Dialogue: 1,0:08:26.56,0:08:26.61,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1533.62,104.92)}Yamada
+Dialogue: 1,0:08:26.61,0:08:26.65,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1534.07,104.62)}Yamada
+Dialogue: 1,0:08:26.65,0:08:26.69,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1534.52,104.32)}Yamada
+Dialogue: 1,0:08:26.69,0:08:26.73,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1534.95,104.04)}Yamada
+Dialogue: 1,0:08:26.73,0:08:26.77,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1535.4,103.73)}Yamada
+Dialogue: 1,0:08:26.77,0:08:26.81,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1535.84,103.45)}Yamada
+Dialogue: 1,0:08:26.81,0:08:26.86,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1536.29,103.16)}Yamada
+Dialogue: 1,0:08:26.86,0:08:26.90,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1536.74,102.87)}Yamada
+Dialogue: 1,0:08:26.90,0:08:26.94,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1537.17,102.57)}Yamada
+Dialogue: 1,0:08:26.94,0:08:26.98,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1537.61,102.27)}Yamada
+Dialogue: 1,0:08:26.98,0:08:27.02,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1538.03,101.98)}Yamada
+Dialogue: 1,0:08:27.02,0:08:27.06,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1538.48,101.68)}Yamada
+Dialogue: 1,0:08:27.06,0:08:27.11,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1538.93,101.39)}Yamada
+Dialogue: 1,0:08:27.11,0:08:27.15,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1539.36,101.09)}Yamada
+Dialogue: 1,0:08:27.15,0:08:27.19,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1539.81,100.81)}Yamada
+Dialogue: 1,0:08:27.19,0:08:27.23,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1540.23,100.5)}Yamada
+Dialogue: 1,0:08:27.23,0:08:27.27,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1540.7,100.2)}Yamada
+Dialogue: 1,0:08:27.27,0:08:27.31,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1541.15,99.91)}Yamada
+Dialogue: 1,0:08:27.31,0:08:27.36,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1541.57,99.61)}Yamada
+Dialogue: 1,0:08:27.36,0:08:27.40,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1542.03,99.3)}Yamada
+Dialogue: 1,0:08:27.40,0:08:27.44,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1542.48,99)}Yamada
+Dialogue: 1,0:08:27.44,0:08:27.48,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1542.92,98.7)}Yamada
+Dialogue: 1,0:08:27.48,0:08:27.52,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1543.37,98.4)}Yamada
+Dialogue: 1,0:08:27.52,0:08:27.57,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1543.82,98.09)}Yamada
+Dialogue: 1,0:08:27.57,0:08:27.61,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1544.25,97.79)}Yamada
+Dialogue: 1,0:08:27.61,0:08:27.65,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1544.67,97.5)}Yamada
+Dialogue: 1,0:08:27.65,0:08:27.69,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1545.13,97.22)}Yamada
+Dialogue: 1,0:08:27.69,0:08:27.73,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1545.55,96.9)}Yamada
+Dialogue: 1,0:08:27.73,0:08:27.77,Working - Comfortaa,,0,0,0,,{\frz10\blur0.6\c&H59CFEE&\3c&H4ABD64&\bord5\pos(1545.98,96.58)}Yamada
+Comment: 0,0:08:26.36,0:08:27.77,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\blur0.6\c&H000000&\3c&H000000&\blur2\bord5\pos(1538.5,113.5)}Yamada
+Dialogue: 0,0:08:26.36,0:08:26.40,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&HB0B0B0&\3c&HB0B0B0&\blur2\bord5\pos(1538.5,113.5)}Yamada
+Dialogue: 0,0:08:26.40,0:08:26.44,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H747474&\3c&H747474&\blur2\bord5\pos(1538.92,113.04)}Yamada
+Dialogue: 0,0:08:26.44,0:08:26.48,Working - Comfortaa,,0,0,0,,{\alpha&HB6&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1539.34,112.87)}Yamada
+Dialogue: 0,0:08:26.48,0:08:26.52,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1539.79,112.54)}Yamada
+Dialogue: 0,0:08:26.52,0:08:26.56,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1540.2,112.23)}Yamada
+Dialogue: 0,0:08:26.56,0:08:26.61,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1540.62,111.92)}Yamada
+Dialogue: 0,0:08:26.61,0:08:26.65,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1541.07,111.62)}Yamada
+Dialogue: 0,0:08:26.65,0:08:26.69,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1541.52,111.32)}Yamada
+Dialogue: 0,0:08:26.69,0:08:26.73,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1541.95,111.04)}Yamada
+Dialogue: 0,0:08:26.73,0:08:26.77,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1542.4,110.73)}Yamada
+Dialogue: 0,0:08:26.77,0:08:26.81,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1542.84,110.45)}Yamada
+Dialogue: 0,0:08:26.81,0:08:26.86,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1543.29,110.16)}Yamada
+Dialogue: 0,0:08:26.86,0:08:26.90,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1543.74,109.87)}Yamada
+Dialogue: 0,0:08:26.90,0:08:26.94,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1544.17,109.57)}Yamada
+Dialogue: 0,0:08:26.94,0:08:26.98,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1544.61,109.27)}Yamada
+Dialogue: 0,0:08:26.98,0:08:27.02,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1545.03,108.98)}Yamada
+Dialogue: 0,0:08:27.02,0:08:27.06,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1545.48,108.68)}Yamada
+Dialogue: 0,0:08:27.06,0:08:27.11,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1545.93,108.39)}Yamada
+Dialogue: 0,0:08:27.11,0:08:27.15,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1546.36,108.09)}Yamada
+Dialogue: 0,0:08:27.15,0:08:27.19,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1546.81,107.81)}Yamada
+Dialogue: 0,0:08:27.19,0:08:27.23,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1547.23,107.5)}Yamada
+Dialogue: 0,0:08:27.23,0:08:27.27,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1547.7,107.2)}Yamada
+Dialogue: 0,0:08:27.27,0:08:27.31,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1548.15,106.91)}Yamada
+Dialogue: 0,0:08:27.31,0:08:27.36,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1548.57,106.61)}Yamada
+Dialogue: 0,0:08:27.36,0:08:27.40,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1549.03,106.3)}Yamada
+Dialogue: 0,0:08:27.40,0:08:27.44,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1549.48,106)}Yamada
+Dialogue: 0,0:08:27.44,0:08:27.48,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1549.92,105.7)}Yamada
+Dialogue: 0,0:08:27.48,0:08:27.52,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1550.37,105.4)}Yamada
+Dialogue: 0,0:08:27.52,0:08:27.57,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1550.82,105.09)}Yamada
+Dialogue: 0,0:08:27.57,0:08:27.61,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1551.25,104.79)}Yamada
+Dialogue: 0,0:08:27.61,0:08:27.65,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1551.67,104.5)}Yamada
+Dialogue: 0,0:08:27.65,0:08:27.69,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1552.13,104.22)}Yamada
+Dialogue: 0,0:08:27.69,0:08:27.73,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1552.55,103.9)}Yamada
+Dialogue: 0,0:08:27.73,0:08:27.77,Working - Comfortaa,,0,0,0,,{\alpha&H96&\frz10\c&H000000&\3c&H000000&\blur2\bord5\pos(1552.98,103.58)}Yamada
+Comment: 0,0:13:50.01,0:13:50.30,Working - TS,,0,0,0,,{\an5\c&H05D9FB&\shad3\4a&H00&\fs70\frz7\pos(931.5,106)\4c&H002350&\blur1}Offering
+Dialogue: 0,0:13:50.01,0:13:50.05,Working - TS,,0,0,0,,{\fscx117\t(-84,15,\fscx118)\fscy117\t(-84,15,\fscy118)\an5\c&H05D9FB&\shad3.54\4a&H00&\fs70\frz7\pos(698.89,-43.97)\4c&H002350&\blur1}Offering
+Dialogue: 0,0:13:50.05,0:13:50.10,Working - TS,,0,0,0,,{\fscx114\t(-18,81,\fscx115)\fscy114\t(-18,81,\fscy115)\an5\c&H05D9FB&\shad3.43\4a&H00&\fs70\frz7\pos(763.55,-2.27)\4c&H002350&\blur1}Offering
+Dialogue: 0,0:13:50.10,0:13:50.14,Working - TS,,0,0,0,,{\fscx109\t(-42,57,\fscx110)\fscy109\t(-42,57,\fscy110)\an5\c&H05D9FB&\shad3.28\4a&H00&\fs70\frz7\pos(821.06,34.8)\4c&H002350&\blur1}Offering
+Dialogue: 0,0:13:50.14,0:13:50.18,Working - TS,,0,0,0,,{\fscx105\t(-50,50,\fscx106)\fscy105\t(-50,50,\fscy106)\an5\c&H05D9FB&\shad3.17\4a&H00&\fs70\frz7\pos(867.83,64.94)\4c&H002350&\blur1}Offering
+Dialogue: 0,0:13:50.18,0:13:50.22,Working - TS,,0,0,0,,{\fscx102\t(-48,51,\fscx103)\fscy102\t(-48,51,\fscy103)\an5\c&H05D9FB&\shad3.07\4a&H00&\fs70\frz7\pos(902.62,87.43)\4c&H002350&\blur1}Offering
+Dialogue: 0,0:13:50.22,0:13:50.26,Working - TS,,0,0,0,,{\fscx100\t(-53,46,\fscx101)\fscy100\t(-53,46,\fscy101)\an5\c&H05D9FB&\shad3.02\4a&H00&\fs70\frz7\pos(924.44,101.44)\4c&H002350&\blur1}Offering
+Dialogue: 0,0:13:50.26,0:13:50.30,Working - TS,,0,0,0,,{\fscx100\t(0,100,\fscx100)\fscy100\t(0,100,\fscy100)\an5\c&H05D9FB&\shad3\4a&H00&\fs70\frz7\pos(931.5,106)\4c&H002350&\blur1}Offering
+Dialogue: 0,0:13:50.30,0:13:51.76,Working - TS,,0,0,0,,{\an5\c&H05D9FB&\shad3\4a&H00&\fs70\frz7\pos(931.5,106)\4c&H002350&\blur1}Offering
+Dialogue: 0,0:14:59.42,0:15:01.00,Working - Comfortaa,,0,0,0,,{\c&H000000&\bord3.5\blur0.8\3c&HCFCCD6&\frz12\fs70\pos(229.5,199)}Hits him a lot
+Comment: 0,0:16:14.03,0:16:17.33,Working - Comfortaa,,0,0,0,,Stare
+Comment: 0,0:16:14.11,0:16:17.33,Working - Comfortaa,,0,0,0,,{\frz13\fs60\c&HC66E86&\bord3\3c&H494954&\pos(286.5,154.5)}Stare
+Dialogue: 1,0:16:14.11,0:16:14.16,Working - Comfortaa,,0,0,0,,{\fscx101\t(-89,10,\fscx102)\fscy101\t(-89,10,\fscy102)\frz13\fs60\c&HC66E86&\alpha&H60&\bord1\3c&HC66E86&\blur3\pos(293.51,147.52)}Stare
+Dialogue: 0,0:16:14.11,0:16:14.16,Working - Comfortaa,,0,0,0,,{\fscx101\t(-89,10,\fscx102)\fscy101\t(-89,10,\fscy102)\frz13\fs60\c&HC66E86&\alpha&H60&\bord3.06\blur3\3c&H494954&\pos(293.51,147.52)}Stare
+Dialogue: 0,0:16:14.16,0:16:14.20,Working - Comfortaa,,0,0,0,,{\fscx100\t(0,100,\fscx100)\fscy100\t(0,100,\fscy100)\frz13\fs60\c&HC66E86&\bord3\3c&H494954&\pos(286.5,154.5)}Stare
+Dialogue: 0,0:16:14.20,0:16:14.24,Working - Comfortaa,,0,0,0,,{\fscx98\t(-1,98,\fscx99)\fscy98\t(-1,98,\fscy99)\frz13\fs60\c&HC66E86&\bord2.94\3c&H494954&\pos(279.85,161.5)}Stare
+Dialogue: 0,0:16:14.24,0:16:14.28,Working - Comfortaa,,0,0,0,,{\fscx96\t(-9,90,\fscx97)\fscy96\t(-9,90,\fscy97)\frz13\fs60\c&HC66E86&\bord2.88\3c&H494954&\pos(273.33,168.34)}Stare
+Dialogue: 0,0:16:14.28,0:16:14.32,Working - Comfortaa,,0,0,0,,{\fscx94\t(-23,76,\fscx95)\fscy94\t(-23,76,\fscy95)\frz13\fs60\c&HC66E86&\bord2.83\3c&H494954&\pos(267.02,174.96)}Stare
+Dialogue: 0,0:16:14.32,0:16:14.36,Working - Comfortaa,,0,0,0,,{\fscx92\t(-42,57,\fscx93)\fscy92\t(-42,57,\fscy93)\frz13\fs60\c&HC66E86&\bord2.77\3c&H494954&\pos(260.92,181.38)}Stare
+Dialogue: 0,0:16:14.36,0:16:14.41,Working - Comfortaa,,0,0,0,,{\fscx90\t(-90,9,\fscx91)\fscy90\t(-90,9,\fscy91)\frz13\fs60\c&HC66E86&\bord2.73\3c&H494954&\pos(255.08,187.31)}Stare
+Dialogue: 0,0:16:14.41,0:16:14.45,Working - Comfortaa,,0,0,0,,{\fscx89\t(-40,59,\fscx90)\fscy89\t(-40,59,\fscy90)\frz13\fs60\c&HC66E86&\bord2.68\3c&H494954&\pos(249.45,193.04)}Stare
+Dialogue: 0,0:16:14.45,0:16:14.49,Working - Comfortaa,,0,0,0,,{\fscx87\t(-98,1,\fscx88)\fscy87\t(-98,1,\fscy88)\frz13\fs60\c&HC66E86&\bord2.64\3c&H494954&\pos(244.05,198.57)}Stare
+Dialogue: 0,0:16:14.49,0:16:14.53,Working - Comfortaa,,0,0,0,,{\fscx86\t(-62,37,\fscx87)\fscy86\t(-62,37,\fscy87)\frz13\fs60\c&HC66E86&\bord2.6\3c&H494954&\pos(238.85,203.85)}Stare
+Dialogue: 0,0:16:14.53,0:16:14.57,Working - Comfortaa,,0,0,0,,{\fscx85\t(-26,73,\fscx86)\fscy85\t(-26,73,\fscy86)\frz13\fs60\c&HC66E86&\bord2.56\3c&H494954&\pos(233.88,208.98)}Stare
+Dialogue: 0,0:16:14.57,0:16:14.62,Working - Comfortaa,,0,0,0,,{\fscx84\t(-4,95,\fscx85)\fscy84\t(-4,95,\fscy85)\frz13\fs60\c&HC66E86&\bord2.52\3c&H494954&\pos(229.12,213.75)}Stare
+Dialogue: 0,0:16:14.62,0:16:14.66,Working - Comfortaa,,0,0,0,,{\fscx82\t(-84,15,\fscx83)\fscy82\t(-84,15,\fscy83)\frz13\fs60\c&HC66E86&\bord2.49\3c&H494954&\pos(224.61,218.28)}Stare
+Dialogue: 0,0:16:14.66,0:16:14.70,Working - Comfortaa,,0,0,0,,{\fscx81\t(-73,26,\fscx82)\fscy81\t(-73,26,\fscy82)\frz13\fs60\c&HC66E86&\bord2.45\3c&H494954&\pos(220.29,222.5)}Stare
+Dialogue: 0,0:16:14.70,0:16:14.74,Working - Comfortaa,,0,0,0,,{\fscx80\t(-68,31,\fscx81)\fscy80\t(-68,31,\fscy81)\frz13\fs60\c&HC66E86&\bord2.42\3c&H494954&\pos(216.24,226.49)}Stare
+Dialogue: 0,0:16:14.74,0:16:14.78,Working - Comfortaa,,0,0,0,,{\fscx79\t(-64,35,\fscx80)\fscy79\t(-64,35,\fscy80)\frz13\fs60\c&HC66E86&\bord2.39\3c&H494954&\pos(212.39,230.25)}Stare
+Dialogue: 0,0:16:14.78,0:16:14.82,Working - Comfortaa,,0,0,0,,{\fscx78\t(-70,29,\fscx79)\fscy78\t(-70,29,\fscy79)\frz13\fs60\c&HC66E86&\bord2.36\3c&H494954&\pos(208.78,233.7)}Stare
+Dialogue: 0,0:16:14.82,0:16:14.87,Working - Comfortaa,,0,0,0,,{\fscx77\t(-81,18,\fscx78)\fscy77\t(-81,18,\fscy78)\frz13\fs60\c&HC66E86&\bord2.33\3c&H494954&\pos(205.42,236.87)}Stare
+Dialogue: 0,0:16:14.87,0:16:14.91,Working - Comfortaa,,0,0,0,,{\fscx77\t(-3,96,\fscx78)\fscy77\t(-3,96,\fscy78)\frz13\fs60\c&HC66E86&\bord2.31\3c&H494954&\pos(202.26,239.66)}Stare
+Dialogue: 0,0:16:14.91,0:16:14.95,Working - Comfortaa,,0,0,0,,{\fscx76\t(-28,71,\fscx77)\fscy76\t(-28,71,\fscy77)\frz13\fs60\c&HC66E86&\bord2.29\3c&H494954&\pos(199.35,242.24)}Stare
+Dialogue: 0,0:16:14.95,0:16:14.99,Working - Comfortaa,,0,0,0,,{\fscx75\t(-62,37,\fscx76)\fscy75\t(-62,37,\fscy76)\frz13\fs60\c&HC66E86&\bord2.27\3c&H494954&\pos(196.62,244.43)}Stare
+Dialogue: 0,0:16:14.99,0:16:15.03,Working - Comfortaa,,0,0,0,,{\fscx75\t(0,100,\fscx75)\fscy75\t(0,100,\fscy75)\frz13\fs60\c&HC66E86&\bord2.25\3c&H494954&\pos(194.2,246.41)}Stare
+Dialogue: 0,0:16:15.03,0:16:15.07,Working - Comfortaa,,0,0,0,,{\fscx74\t(-45,54,\fscx75)\fscy74\t(-45,54,\fscy75)\frz13\fs60\c&HC66E86&\bord2.23\3c&H494954&\pos(191.98,248.05)}Stare
+Dialogue: 0,0:16:15.07,0:16:15.12,Working - Comfortaa,,0,0,0,,{\fscx73\t(-95,4,\fscx74)\fscy73\t(-95,4,\fscy74)\frz13\fs60\c&HC66E86&\bord2.22\3c&H494954&\pos(190.01,249.39)}Stare
+Dialogue: 0,0:16:15.12,0:16:15.16,Working - Comfortaa,,0,0,0,,{\fscx73\t(-56,43,\fscx74)\fscy73\t(-56,43,\fscy74)\frz13\fs60\c&HC66E86&\bord2.21\3c&H494954&\pos(188.29,250.37)}Stare
+Dialogue: 0,0:16:15.16,0:16:15.20,Working - Comfortaa,,0,0,0,,{\fscx73\t(-26,73,\fscx74)\fscy73\t(-26,73,\fscy74)\frz13\fs60\c&HC66E86&\bord2.2\3c&H494954&\pos(186.81,250.91)}Stare
+Dialogue: 0,0:16:15.20,0:16:15.24,Working - Comfortaa,,0,0,0,,{\fscx73\t(-1,98,\fscx74)\fscy73\t(-1,98,\fscy74)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(185.55,251.23)}Stare
+Dialogue: 0,0:16:15.24,0:16:15.28,Working - Comfortaa,,0,0,0,,{\fscx72\t(-84,15,\fscx73)\fscy72\t(-84,15,\fscy73)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(184.58,251.07)}Stare
+Dialogue: 0,0:16:15.28,0:16:15.32,Working - Comfortaa,,0,0,0,,{\fscx72\t(-65,34,\fscx73)\fscy72\t(-65,34,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(183.86,250.72)}Stare
+Dialogue: 0,0:16:15.32,0:16:15.37,Working - Comfortaa,,0,0,0,,{\fscx72\t(-65,34,\fscx73)\fscy72\t(-65,34,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(183.43,249.89)}Stare
+Dialogue: 0,0:16:15.37,0:16:15.41,Working - Comfortaa,,0,0,0,,{\fscx72\t(-64,35,\fscx73)\fscy72\t(-64,35,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(183.08,248.84)}Stare
+Dialogue: 0,0:16:15.41,0:16:15.45,Working - Comfortaa,,0,0,0,,{\fscx72\t(-65,34,\fscx73)\fscy72\t(-65,34,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(182.75,247.78)}Stare
+Dialogue: 0,0:16:15.45,0:16:15.49,Working - Comfortaa,,0,0,0,,{\fscx72\t(-70,29,\fscx73)\fscy72\t(-70,29,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(182.4,246.67)}Stare
+Dialogue: 0,0:16:15.49,0:16:15.53,Working - Comfortaa,,0,0,0,,{\fscx72\t(-68,31,\fscx73)\fscy72\t(-68,31,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(182.08,245.63)}Stare
+Dialogue: 0,0:16:15.53,0:16:15.57,Working - Comfortaa,,0,0,0,,{\fscx72\t(-70,29,\fscx73)\fscy72\t(-70,29,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(181.75,244.61)}Stare
+Dialogue: 0,0:16:15.57,0:16:15.62,Working - Comfortaa,,0,0,0,,{\fscx72\t(-73,26,\fscx73)\fscy72\t(-73,26,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(181.42,243.55)}Stare
+Dialogue: 0,0:16:15.62,0:16:15.66,Working - Comfortaa,,0,0,0,,{\fscx72\t(-73,26,\fscx73)\fscy72\t(-73,26,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(181.1,242.5)}Stare
+Dialogue: 0,0:16:15.66,0:16:15.70,Working - Comfortaa,,0,0,0,,{\fscx72\t(-73,26,\fscx73)\fscy72\t(-73,26,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(180.78,241.47)}Stare
+Dialogue: 0,0:16:15.70,0:16:15.74,Working - Comfortaa,,0,0,0,,{\fscx72\t(-75,25,\fscx73)\fscy72\t(-75,25,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(180.43,240.4)}Stare
+Dialogue: 0,0:16:15.74,0:16:15.78,Working - Comfortaa,,0,0,0,,{\fscx72\t(-73,26,\fscx73)\fscy72\t(-73,26,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(180.11,239.39)}Stare
+Dialogue: 0,0:16:15.78,0:16:15.82,Working - Comfortaa,,0,0,0,,{\fscx72\t(-78,21,\fscx73)\fscy72\t(-78,21,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(179.77,238.27)}Stare
+Dialogue: 0,0:16:15.82,0:16:15.87,Working - Comfortaa,,0,0,0,,{\fscx72\t(-81,18,\fscx73)\fscy72\t(-81,18,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(179.42,237.17)}Stare
+Dialogue: 0,0:16:15.87,0:16:15.91,Working - Comfortaa,,0,0,0,,{\fscx72\t(-76,23,\fscx73)\fscy72\t(-76,23,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(179.13,236.24)}Stare
+Dialogue: 0,0:16:15.91,0:16:15.95,Working - Comfortaa,,0,0,0,,{\fscx72\t(-79,20,\fscx73)\fscy72\t(-79,20,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(178.75,235.15)}Stare
+Dialogue: 0,0:16:15.95,0:16:15.99,Working - Comfortaa,,0,0,0,,{\fscx72\t(-78,21,\fscx73)\fscy72\t(-78,21,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(178.45,234.2)}Stare
+Dialogue: 0,0:16:15.99,0:16:16.03,Working - Comfortaa,,0,0,0,,{\fscx72\t(-76,23,\fscx73)\fscy72\t(-76,23,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(178.14,233.22)}Stare
+Dialogue: 0,0:16:16.03,0:16:16.07,Working - Comfortaa,,0,0,0,,{\fscx72\t(-73,26,\fscx73)\fscy72\t(-73,26,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(177.82,232.21)}Stare
+Dialogue: 0,0:16:16.07,0:16:16.12,Working - Comfortaa,,0,0,0,,{\fscx72\t(-75,25,\fscx73)\fscy72\t(-75,25,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(177.46,231.14)}Stare
+Dialogue: 0,0:16:16.12,0:16:16.16,Working - Comfortaa,,0,0,0,,{\fscx72\t(-79,20,\fscx73)\fscy72\t(-79,20,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(177.14,230.07)}Stare
+Dialogue: 0,0:16:16.16,0:16:16.20,Working - Comfortaa,,0,0,0,,{\fscx72\t(-79,20,\fscx73)\fscy72\t(-79,20,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(176.8,229.06)}Stare
+Dialogue: 0,0:16:16.20,0:16:16.24,Working - Comfortaa,,0,0,0,,{\fscx72\t(-76,23,\fscx73)\fscy72\t(-76,23,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(176.48,228.05)}Stare
+Dialogue: 0,0:16:16.24,0:16:16.28,Working - Comfortaa,,0,0,0,,{\fscx72\t(-73,26,\fscx73)\fscy72\t(-73,26,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(176.17,227.09)}Stare
+Dialogue: 0,0:16:16.28,0:16:16.33,Working - Comfortaa,,0,0,0,,{\fscx72\t(-76,23,\fscx73)\fscy72\t(-76,23,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(175.82,226.01)}Stare
+Dialogue: 0,0:16:16.33,0:16:16.37,Working - Comfortaa,,0,0,0,,{\fscx72\t(-76,23,\fscx73)\fscy72\t(-76,23,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(175.51,225.04)}Stare
+Dialogue: 0,0:16:16.37,0:16:16.41,Working - Comfortaa,,0,0,0,,{\fscx72\t(-73,26,\fscx73)\fscy72\t(-73,26,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(175.17,224.02)}Stare
+Dialogue: 0,0:16:16.41,0:16:16.45,Working - Comfortaa,,0,0,0,,{\fscx72\t(-78,21,\fscx73)\fscy72\t(-78,21,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(174.88,222.99)}Stare
+Dialogue: 0,0:16:16.45,0:16:16.49,Working - Comfortaa,,0,0,0,,{\fscx72\t(-76,23,\fscx73)\fscy72\t(-76,23,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(174.52,221.89)}Stare
+Dialogue: 0,0:16:16.49,0:16:16.53,Working - Comfortaa,,0,0,0,,{\fscx72\t(-76,23,\fscx73)\fscy72\t(-76,23,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(174.17,220.85)}Stare
+Dialogue: 0,0:16:16.53,0:16:16.58,Working - Comfortaa,,0,0,0,,{\fscx72\t(-76,23,\fscx73)\fscy72\t(-76,23,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(173.85,219.84)}Stare
+Dialogue: 0,0:16:16.58,0:16:16.62,Working - Comfortaa,,0,0,0,,{\fscx72\t(-81,18,\fscx73)\fscy72\t(-81,18,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(173.51,218.73)}Stare
+Dialogue: 0,0:16:16.62,0:16:16.66,Working - Comfortaa,,0,0,0,,{\fscx72\t(-82,17,\fscx73)\fscy72\t(-82,17,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(173.19,217.68)}Stare
+Dialogue: 0,0:16:16.66,0:16:16.70,Working - Comfortaa,,0,0,0,,{\fscx72\t(-82,17,\fscx73)\fscy72\t(-82,17,\fscy73)\frz13\fs60\c&HC66E86&\bord2.18\3c&H494954&\pos(172.84,216.62)}Stare
+Dialogue: 0,0:16:16.70,0:16:16.74,Working - Comfortaa,,0,0,0,,{\fscx72\t(-84,15,\fscx73)\fscy72\t(-84,15,\fscy73)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(172.53,215.62)}Stare
+Dialogue: 0,0:16:16.74,0:16:16.78,Working - Comfortaa,,0,0,0,,{\fscx72\t(-85,14,\fscx73)\fscy72\t(-85,14,\fscy73)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(172.2,214.54)}Stare
+Dialogue: 0,0:16:16.78,0:16:16.83,Working - Comfortaa,,0,0,0,,{\fscx72\t(-87,12,\fscx73)\fscy72\t(-87,12,\fscy73)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(171.87,213.47)}Stare
+Dialogue: 0,0:16:16.83,0:16:16.87,Working - Comfortaa,,0,0,0,,{\fscx72\t(-93,6,\fscx73)\fscy72\t(-93,6,\fscy73)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(171.5,212.34)}Stare
+Dialogue: 0,0:16:16.87,0:16:16.91,Working - Comfortaa,,0,0,0,,{\fscx72\t(-90,9,\fscx73)\fscy72\t(-90,9,\fscy73)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(171.21,211.39)}Stare
+Dialogue: 0,0:16:16.91,0:16:16.95,Working - Comfortaa,,0,0,0,,{\fscx72\t(-85,14,\fscx73)\fscy72\t(-85,14,\fscy73)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(170.88,210.41)}Stare
+Dialogue: 0,0:16:16.95,0:16:16.99,Working - Comfortaa,,0,0,0,,{\fscx72\t(-92,7,\fscx73)\fscy72\t(-92,7,\fscy73)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(170.53,209.29)}Stare
+Dialogue: 0,0:16:16.99,0:16:17.03,Working - Comfortaa,,0,0,0,,{\fscx72\t(-90,9,\fscx73)\fscy72\t(-90,9,\fscy73)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(170.19,208.24)}Stare
+Dialogue: 0,0:16:17.03,0:16:17.08,Working - Comfortaa,,0,0,0,,{\fscx72\t(-90,9,\fscx73)\fscy72\t(-90,9,\fscy73)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(169.89,207.27)}Stare
+Dialogue: 0,0:16:17.08,0:16:17.12,Working - Comfortaa,,0,0,0,,{\fscx72\t(-98,1,\fscx73)\fscy72\t(-98,1,\fscy73)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(169.52,206.1)}Stare
+Dialogue: 0,0:16:17.12,0:16:17.16,Working - Comfortaa,,0,0,0,,{\fscx73\t(-1,98,\fscx74)\fscy73\t(-1,98,\fscy74)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(169.2,205.06)}Stare
+Dialogue: 0,0:16:17.16,0:16:17.20,Working - Comfortaa,,0,0,0,,{\fscx73\t(-1,98,\fscx74)\fscy73\t(-1,98,\fscy74)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(168.88,203.95)}Stare
+Dialogue: 0,0:16:17.20,0:16:17.24,Working - Comfortaa,,0,0,0,,{\fscx72\t(-95,4,\fscx73)\fscy72\t(-95,4,\fscy73)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(168.58,203.07)}Stare
+Dialogue: 0,0:16:17.24,0:16:17.28,Working - Comfortaa,,0,0,0,,{\fscx72\t(-98,1,\fscx73)\fscy72\t(-98,1,\fscy73)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(168.24,201.93)}Stare
+Dialogue: 0,0:16:17.28,0:16:17.33,Working - Comfortaa,,0,0,0,,{\fscx73\t(0,100,\fscx73)\fscy73\t(0,100,\fscy73)\frz13\fs60\c&HC66E86&\bord2.19\3c&H494954&\pos(167.85,200.78)}Stare
+Comment: 0,0:18:53.44,0:18:55.40,Working - Comfortaa,,0,0,0,,{\fs80\bord5\c&H080309&\3c&HE7E0E6&\pos(1468.5,258)}Agitation
+Dialogue: 0,0:18:53.44,0:18:53.48,Working - Comfortaa,,0,0,0,,{\fscx100\t(0,100,\fscx100)\fscy100\t(0,100,\fscy100)\fs80\bord5\c&H080309&\3c&HE7E0E6&\pos(1468.5,258)}Agitation
+Dialogue: 0,0:18:53.48,0:18:53.52,Working - Comfortaa,,0,0,0,,{\fscx99\t(-90,9,\fscx100)\fscy99\t(-90,9,\fscy100)\fs80\bord4.99\c&H080309&\3c&HE7E0E6&\pos(1461.57,234.9)}Agitation
+Dialogue: 0,0:18:53.52,0:18:53.57,Working - Comfortaa,,0,0,0,,{\fscx99\t(-87,12,\fscx100)\fscy99\t(-87,12,\fscy100)\fs80\bord4.99\c&H080309&\3c&HE7E0E6&\pos(1444.36,220.28)}Agitation
+Dialogue: 0,0:18:53.57,0:18:53.61,Working - Comfortaa,,0,0,0,,{\fscx99\t(-73,26,\fscx100)\fscy99\t(-73,26,\fscy100)\fs80\bord4.99\c&H080309&\3c&HE7E0E6&\pos(1453.95,216.3)}Agitation
+Dialogue: 0,0:18:53.61,0:18:53.65,Working - Comfortaa,,0,0,0,,{\fscx98\t(-7,92,\fscx99)\fscy98\t(-7,92,\fscy99)\fs80\bord4.9\c&H080309&\3c&HE7E0E6&\pos(1433.83,216.36)}Agitation
+Dialogue: 0,0:18:53.65,0:18:53.69,Working - Comfortaa,,0,0,0,,{\fscx95\t(-42,57,\fscx96)\fscy95\t(-42,57,\fscy96)\fs80\bord4.77\c&H080309&\3c&HE7E0E6&\pos(1426.25,227.44)}Agitation
+Dialogue: 0,0:18:53.69,0:18:53.73,Working - Comfortaa,,0,0,0,,{\fscx94\t(-98,1,\fscx95)\fscy94\t(-98,1,\fscy95)\fs80\bord4.75\c&H080309&\3c&HE7E0E6&\pos(1417.67,223.36)}Agitation
+Dialogue: 0,0:18:53.73,0:18:53.77,Working - Comfortaa,,0,0,0,,{\fscx96\t(-23,76,\fscx97)\fscy96\t(-23,76,\fscy97)\fs80\bord4.81\c&H080309&\3c&HE7E0E6&\pos(1421.27,216.94)}Agitation
+Dialogue: 0,0:18:53.77,0:18:53.82,Working - Comfortaa,,0,0,0,,{\fscx96\t(-57,42,\fscx97)\fscy96\t(-57,42,\fscy97)\fs80\bord4.83\c&H080309&\3c&HE7E0E6&\pos(1426.81,213.4)}Agitation
+Dialogue: 0,0:18:53.82,0:18:53.86,Working - Comfortaa,,0,0,0,,{\fscx96\t(-70,29,\fscx97)\fscy96\t(-70,29,\fscy97)\fs80\bord4.83\c&H080309&\3c&HE7E0E6&\pos(1415.1,199.27)}Agitation
+Dialogue: 0,0:18:53.86,0:18:53.90,Working - Comfortaa,,0,0,0,,{\fscx96\t(-53,46,\fscx97)\fscy96\t(-53,46,\fscy97)\fs80\bord4.83\c&H080309&\3c&HE7E0E6&\pos(1419.21,213)}Agitation
+Dialogue: 0,0:18:53.90,0:18:53.94,Working - Comfortaa,,0,0,0,,{\fscx96\t(-20,79,\fscx97)\fscy96\t(-20,79,\fscy97)\fs80\bord4.81\c&H080309&\3c&HE7E0E6&\pos(1404.03,212.17)}Agitation
+Dialogue: 0,0:18:53.94,0:18:53.98,Working - Comfortaa,,0,0,0,,{\fscx96\t(-65,34,\fscx97)\fscy96\t(-65,34,\fscy97)\fs80\bord4.83\c&H080309&\3c&HE7E0E6&\pos(1412.46,206.74)}Agitation
+Dialogue: 0,0:18:53.98,0:18:54.02,Working - Comfortaa,,0,0,0,,{\fscx96\t(-87,12,\fscx97)\fscy96\t(-87,12,\fscy97)\fs80\bord4.84\c&H080309&\3c&HE7E0E6&\pos(1410.34,201.27)}Agitation
+Dialogue: 0,0:18:54.02,0:18:54.07,Working - Comfortaa,,0,0,0,,{\fscx96\t(-31,68,\fscx97)\fscy96\t(-31,68,\fscy97)\fs80\bord4.82\c&H080309&\3c&HE7E0E6&\pos(1402.17,195.85)}Agitation
+Dialogue: 0,0:18:54.07,0:18:54.11,Working - Comfortaa,,0,0,0,,{\fscx96\t(-48,51,\fscx97)\fscy96\t(-48,51,\fscy97)\fs80\bord4.82\c&H080309&\3c&HE7E0E6&\pos(1399.97,203.75)}Agitation
+Dialogue: 0,0:18:54.11,0:18:54.15,Working - Comfortaa,,0,0,0,,{\fscx96\t(-34,65,\fscx97)\fscy96\t(-34,65,\fscy97)\fs80\bord4.82\c&H080309&\3c&HE7E0E6&\pos(1407.37,201.55)}Agitation
+Dialogue: 0,0:18:54.15,0:18:54.19,Working - Comfortaa,,0,0,0,,{\fscx95\t(-15,84,\fscx96)\fscy95\t(-15,84,\fscy96)\fs80\bord4.76\c&H080309&\3c&HE7E0E6&\pos(1408.27,205.51)}Agitation
+Dialogue: 0,0:18:54.19,0:18:54.23,Working - Comfortaa,,0,0,0,,{\fscx95\t(-37,62,\fscx96)\fscy95\t(-37,62,\fscy96)\fs80\bord4.77\c&H080309&\3c&HE7E0E6&\pos(1394.66,201.57)}Agitation
+Dialogue: 0,0:18:54.23,0:18:54.27,Working - Comfortaa,,0,0,0,,{\fscx95\t(-23,76,\fscx96)\fscy95\t(-23,76,\fscy96)\fs80\bord4.76\c&H080309&\3c&HE7E0E6&\pos(1391.84,200.91)}Agitation
+Dialogue: 0,0:18:54.27,0:18:54.32,Working - Comfortaa,,0,0,0,,{\fscx93\t(-90,9,\fscx94)\fscy93\t(-90,9,\fscy94)\fs80\bord4.7\c&H080309&\3c&HE7E0E6&\pos(1385.13,203.85)}Agitation
+Dialogue: 0,0:18:54.32,0:18:54.36,Working - Comfortaa,,0,0,0,,{\fscx93\t(-75,25,\fscx94)\fscy93\t(-75,25,\fscy94)\fs80\bord4.69\c&H080309&\3c&HE7E0E6&\pos(1386.03,210.49)}Agitation
+Dialogue: 0,0:18:54.36,0:18:54.40,Working - Comfortaa,,0,0,0,,{\fscx93\t(-43,56,\fscx94)\fscy93\t(-43,56,\fscy94)\fs80\bord4.67\c&H080309&\3c&HE7E0E6&\pos(1390.76,201.15)}Agitation
+Dialogue: 0,0:18:54.40,0:18:54.44,Working - Comfortaa,,0,0,0,,{\fscx91\t(-96,3,\fscx92)\fscy91\t(-96,3,\fscy92)\fs80\bord4.6\c&H080309&\3c&HE7E0E6&\pos(1391.18,208.41)}Agitation
+Dialogue: 0,0:18:54.44,0:18:54.48,Working - Comfortaa,,0,0,0,,{\fscx91\t(-62,37,\fscx92)\fscy91\t(-62,37,\fscy92)\fs80\bord4.58\c&H080309&\3c&HE7E0E6&\pos(1386.21,211.1)}Agitation
+Dialogue: 0,0:18:54.48,0:18:54.52,Working - Comfortaa,,0,0,0,,{\fscx91\t(-68,31,\fscx92)\fscy91\t(-68,31,\fscy92)\fs80\bord4.58\c&H080309&\3c&HE7E0E6&\pos(1382.77,206.72)}Agitation
+Dialogue: 0,0:18:54.52,0:18:54.57,Working - Comfortaa,,0,0,0,,{\fscx91\t(-26,73,\fscx92)\fscy91\t(-26,73,\fscy92)\fs80\bord4.56\c&H080309&\3c&HE7E0E6&\pos(1374.83,211.62)}Agitation
+Dialogue: 0,0:18:54.57,0:18:54.61,Working - Comfortaa,,0,0,0,,{\fscx91\t(-71,28,\fscx92)\fscy91\t(-71,28,\fscy92)\fs80\bord4.59\c&H080309&\3c&HE7E0E6&\pos(1377.32,210.83)}Agitation
+Dialogue: 0,0:18:54.61,0:18:54.65,Working - Comfortaa,,0,0,0,,{\fscx91\t(-45,54,\fscx92)\fscy91\t(-45,54,\fscy92)\fs80\bord4.57\c&H080309&\3c&HE7E0E6&\pos(1373.54,218.15)}Agitation
+Dialogue: 0,0:18:54.65,0:18:54.69,Working - Comfortaa,,0,0,0,,{\fscx90\t(-68,31,\fscx91)\fscy90\t(-68,31,\fscy91)\fs80\bord4.53\c&H080309&\3c&HE7E0E6&\pos(1364.95,212.67)}Agitation
+Dialogue: 0,0:18:54.69,0:18:54.73,Working - Comfortaa,,0,0,0,,{\fscx90\t(-73,26,\fscx91)\fscy90\t(-73,26,\fscy91)\fs80\bord4.54\c&H080309&\3c&HE7E0E6&\pos(1362.47,210.52)}Agitation
+Dialogue: 0,0:18:54.73,0:18:54.78,Working - Comfortaa,,0,0,0,,{\fscx90\t(-62,37,\fscx91)\fscy90\t(-62,37,\fscy91)\fs80\bord4.53\c&H080309&\3c&HE7E0E6&\pos(1368.75,211.48)}Agitation
+Dialogue: 0,0:18:54.78,0:18:54.82,Working - Comfortaa,,0,0,0,,{\fscx89\t(-43,56,\fscx90)\fscy89\t(-43,56,\fscy90)\fs80\bord4.47\c&H080309&\3c&HE7E0E6&\pos(1364.57,212.04)}Agitation
+Dialogue: 0,0:18:54.82,0:18:54.86,Working - Comfortaa,,0,0,0,,{\fscx89\t(-54,45,\fscx90)\fscy89\t(-54,45,\fscy90)\fs80\bord4.48\c&H080309&\3c&HE7E0E6&\pos(1356.04,208.04)}Agitation
+Dialogue: 0,0:18:54.86,0:18:54.90,Working - Comfortaa,,0,0,0,,{\fscx90\t(-25,75,\fscx91)\fscy90\t(-25,75,\fscy91)\fs80\bord4.51\c&H080309&\3c&HE7E0E6&\pos(1367.87,209.84)}Agitation
+Dialogue: 0,0:18:54.90,0:18:54.94,Working - Comfortaa,,0,0,0,,{\fscx90\t(-42,57,\fscx91)\fscy90\t(-42,57,\fscy91)\fs80\bord4.52\c&H080309&\3c&HE7E0E6&\pos(1375.84,207.54)}Agitation
+Dialogue: 0,0:18:54.94,0:18:54.98,Working - Comfortaa,,0,0,0,,{\fscx90\t(-68,31,\fscx91)\fscy90\t(-68,31,\fscy91)\fs80\bord4.53\c&H080309&\3c&HE7E0E6&\pos(1373.94,199.99)}Agitation
+Dialogue: 0,0:18:54.98,0:18:55.03,Working - Comfortaa,,0,0,0,,{\fscx90\t(-64,35,\fscx91)\fscy90\t(-64,35,\fscy91)\fs80\bord4.53\c&H080309&\3c&HE7E0E6&\pos(1369.08,203.27)}Agitation
+Dialogue: 0,0:18:55.03,0:18:55.07,Working - Comfortaa,,0,0,0,,{\fscx90\t(-26,73,\fscx91)\fscy90\t(-26,73,\fscy91)\fs80\bord4.51\c&H080309&\3c&HE7E0E6&\pos(1368.77,207.24)}Agitation
+Dialogue: 0,0:18:55.07,0:18:55.11,Working - Comfortaa,,0,0,0,,{\fscx90\t(-85,14,\fscx91)\fscy90\t(-85,14,\fscy91)\fs80\bord4.54\c&H080309&\3c&HE7E0E6&\pos(1370.04,208.02)}Agitation
+Dialogue: 0,0:18:55.11,0:18:55.15,Working - Comfortaa,,0,0,0,,{\fscx93\t(-3,96,\fscx94)\fscy93\t(-3,96,\fscy94)\fs80\bord4.65\c&H080309&\3c&HE7E0E6&\pos(1368.15,201.21)}Agitation
+Dialogue: 0,0:18:55.15,0:18:55.19,Working - Comfortaa,,0,0,0,,{\fscx91\t(-95,4,\fscx92)\fscy91\t(-95,4,\fscy92)\fs80\bord4.6\c&H080309&\3c&HE7E0E6&\pos(1362.35,203.31)}Agitation
+Dialogue: 0,0:18:55.19,0:18:55.23,Working - Comfortaa,,0,0,0,,{\fscx93\t(-60,39,\fscx94)\fscy93\t(-60,39,\fscy94)\fs80\bord4.68\c&H080309&\3c&HE7E0E6&\pos(1362.08,199.05)}Agitation
+Dialogue: 0,0:18:55.23,0:18:55.28,Working - Comfortaa,,0,0,0,,{\fscx92\t(-46,53,\fscx93)\fscy92\t(-46,53,\fscy93)\fs80\bord4.62\c&H080309&\3c&HE7E0E6&\pos(1363,205.53)}Agitation
+Dialogue: 0,0:18:55.28,0:18:55.32,Working - Comfortaa,,0,0,0,,{\fscx92\t(-70,29,\fscx93)\fscy92\t(-70,29,\fscy93)\fs80\bord4.64\c&H080309&\3c&HE7E0E6&\pos(1369.26,212.25)}Agitation
+Dialogue: 0,0:18:55.32,0:18:55.36,Working - Comfortaa,,0,0,0,,{\fscx93\t(-12,87,\fscx94)\fscy93\t(-12,87,\fscy94)\fs80\bord4.66\c&H080309&\3c&HE7E0E6&\pos(1365.18,210.5)}Agitation
+Dialogue: 0,0:18:55.36,0:18:55.40,Working - Comfortaa,,0,0,0,,{\fscx94\t(-12,87,\fscx95)\fscy94\t(-12,87,\fscy95)\fs80\bord4.71\c&H080309&\3c&HE7E0E6&\pos(1372.63,210.38)}Agitation
 Dialogue: 1,0:22:27.95,0:22:30.95,Working - TS,,0,0,0,,{\3c&HCE6E34&\bord6.75\fs72\pos(380,244)\an5}Next episode preview
 Dialogue: 0,0:22:27.95,0:22:30.95,Working - TS,,0,0,0,,{\3c&H000000&\blur5\bord6\fs72\pos(385,249)\alpha&H70&\an5\c&H000000&}Next episode preview
 Dialogue: 0,0:00:02.40,0:00:04.73,Working - Dialogue,,0,0,0,,Hello, I'm Kotori-chan.
