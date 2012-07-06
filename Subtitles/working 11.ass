@@ -11,51 +11,65 @@ Video Zoom: 4
 Video Zoom Percent: 6
 Last Style Storage: Default
 Collisions: Normal
-Scroll Position: 18
-Active Line: 32
+Scroll Position: 0
+Active Line: 4
 Video File: ..\Raw\11-720.mkv
 YCbCr Matrix: TV.709
 Video Aspect Ratio: c1.77778
-Video Position: 703
+Video Position: 3579
 Audio URI: ..\Raw\11-720.mkv
 Audio File: ?video
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Working - TS,Avenir LT Std 55 Roman,54,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,2,27,27,27,1
 Style: Working - Dialogue,Verlag Bold,80,&H00FFFFFF,&HFFFFFFFF,&H00040423,&H96000000,0,0,0,0,100,100,0,0,1,3,3,2,120,120,50,1
 Style: Working - Alt,Verlag Bold,80,&H00FFFFFF,&HFFFFFFFF,&H00031706,&H96000000,0,0,0,0,100,100,0,0,1,3,3,2,120,120,50,1
 Style: Working - Internal,Verlag Bold,80,&H00FFFFFF,&HFFFFFFFF,&H00040423,&H96000000,0,-1,0,0,100,100,0,0,1,3,3,2,120,120,50,1
+Style: Working - TS,Avenir LT Std 55 Roman,54,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,2,27,27,27,1
+Style: Working - Comfortaa,Comfortaa,54,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,27,27,27,1
 Style: Working ED - eng,Verlag Bold,68,&H00FFFFFF,&HFFFFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,3,3,2,120,120,50,1
 Style: Working ED - rom,Flora LT Medium,63,&H000285E0,&H00A3ECFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,3,3,8,50,50,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:28.92,0:02:42.85,Working - TS,,0,0,0,,Yamada's Imagination
-Dialogue: 0,0:02:28.92,0:02:42.85,Working - TS,,0,0,0,,~Wagnarai News~
-Comment: 0,0:02:28.92,0:02:42.85,Names,,0,0,0,,~Wagnaria Update~
-Dialogue: 0,0:02:28.92,0:02:42.85,Working - TS,,0,0,0,,The muddy love triangle that occurred in a family restaurant!!
-Comment: 0,0:02:28.92,0:02:42.85,Names,,0,0,0,,Love triangle mudslinging occurring within a local restaurant
-Comment: 0,0:02:28.89,0:02:42.87,Sign - Wagnaria News,,0,0,0,,{\an7\fs25\fad(250,250)\pos(333,324)}A love triangle has arisen within\Nthe family restaurant!!
-Comment: 0,0:03:07.70,0:03:11.37,Working - Dialogue,,0,0,0,,Item 11
-Comment: 0,0:03:07.70,0:03:11.37,Working - Dialogue,,0,0,0,,Yachiyo and Satou Back Then. And, Welcome to the Takanashi Household.
-Comment: 0,0:05:11.74,0:05:14.75,Working - Dialogue,,0,0,0,,ts
-Comment: 0,0:06:09.59,0:06:10.64,Working - TS,,0,0,0,,Ex-delinquent
+Dialogue: 0,0:02:28.92,0:02:42.85,Working - TS,,0,0,0,,{\frz20\shad4\bord3\3c&H2261E0&\an1\pos(208.5,675)}Yamada's\NImagination
+Dialogue: 0,0:02:28.92,0:02:42.85,Working - TS,,0,0,0,,{\fs40\pos(615,712.5)\c&H0062FF&\bord3\3c&HFFFFFF&\shad4}~Wagnaria News~
+Comment: 0,0:02:28.92,0:02:42.85,Working - TS,,0,0,0,,~Wagnaria Update~
+Comment: 0,0:02:28.92,0:02:42.85,Working - TS,,0,0,0,,The muddy love triangle that occurred in a family restaurant!!
+Dialogue: 0,0:02:28.92,0:02:42.85,Working - TS,,0,0,0,,{\fs40\an4\pos(331.5,934.5)\3c&H1561D3&\bord3\shad4}Love triangle mudslinging\Noccurring at a local restaurant!!
+Comment: 0,0:02:28.89,0:02:42.87,Working - TS,,0,0,0,,{\an7\fs25\fad(250,250)\pos(333,324)}A love triangle has arisen within\Nthe family restaurant!!
+Dialogue: 0,0:03:07.70,0:03:11.37,Working - TS,,0,0,0,,{\fad(0,638)\fs58.5\3c&HFFFFFF&\bord6.75\c&H1706C4&\pos(960,735)}Item 11
+Dialogue: 0,0:03:07.70,0:03:11.37,Working - TS,,0,0,0,,{\fad(0,638)\fs58.5\3c&HFFFFFF&\bord6.75\c&H1706C4&\pos(960,1053)}Yachiyo and Satou Back Then. And, Welcome to the Takanashi Household.
+Comment: 0,0:05:11.74,0:05:14.75,Working - TS,,0,0,0,,ts
+Dialogue: 0,0:06:09.59,0:06:09.76,Working - Comfortaa,,0,0,0,,{\c&H57CCEC&\bord5\3c&HB36FE6&\shad5\blur0.8\pos(345,93)}Ex-delinquent
+Dialogue: 0,0:06:09.89,0:06:10.05,Working - Comfortaa,,0,0,0,,{\c&H57CCEC&\bord5\3c&HB36FE6&\shad5\blur0.8\pos(345,93)}Ex-delinquent
+Dialogue: 0,0:06:10.18,0:06:10.34,Working - Comfortaa,,0,0,0,,{\c&H57CCEC&\bord5\3c&HB36FE6&\shad5\blur0.8\pos(345,93)}Ex-delinquent
+Dialogue: 0,0:06:10.47,0:06:10.64,Working - Comfortaa,,0,0,0,,{\c&H57CCEC&\bord5\3c&HB36FE6&\shad5\blur0.8\pos(345,93)}Ex-delinquent
 Comment: 0,0:06:51.76,0:06:53.93,Working - TS,,0,0,0,,Cooking Manual
 Comment: 0,0:06:53.93,0:06:59.35,Working - TS,,0,0,0,,Cooking Manual
-Comment: 0,0:07:29.76,0:07:32.97,Working - TS,,0,0,0,,Love struck
-Dialogue: 0,0:07:50.86,0:07:53.91,Working - TS,,0,0,0,,Like this forever
-Dialogue: 0,0:07:52.36,0:07:53.91,Working - TS,,0,0,0,,Unrequited love forever
+Dialogue: 1,0:07:29.76,0:07:30.38,Working - TS,,0,0,0,,{\fs70\c&HC478E1&\bord4\3c&H796D59&\pos(578.5,1010.5)}Love struck
+Dialogue: 0,0:07:29.76,0:07:30.38,Working - TS,,0,0,0,,{\fs70\c&HC478E1&\bord8\shad4\3c&HFFFFFF&\pos(578.5,1010.5)}Love struck
+Dialogue: 1,0:07:30.38,0:07:32.97,Working - TS,,0,0,0,,{\fs70\c&HC478E1&\bord4\3c&H796D59&\pos(578.5,1010.5)}Love struck
+Dialogue: 0,0:07:30.38,0:07:32.97,Working - TS,,0,0,0,,{\fs70\c&HC478E1&\bord8\shad4\3c&HFFFFFF&\pos(578.5,1010.5)}Love struck
+Comment: 0,0:07:50.86,0:07:53.91,Working - TS,,0,0,0,,{\c&HA26682&\bord5\fs80\blur0.8\3c&HF5F2F4&\pos(550.5,175.5)}Like this forever
+Dialogue: 0,0:07:52.66,0:07:53.91,Working - TS,,0,0,0,,{\c&HA26682&\bord5\fs80\blur0.8\3c&HF5F2F4&\pos(600,139.5)}Like this forever
+Comment: 0,0:07:52.36,0:07:53.91,Working - TS,,0,0,0,,Unrequited love forever
+Dialogue: 0,0:07:52.66,0:07:53.91,Working - TS,,0,0,0,,{\c&HA26682&\bord5\fs80\blur0.8\3c&HF5F2F4&\pos(412.5,1054.5)}Unrequited love forever
 Dialogue: 0,0:11:30.96,0:11:33.96,Working - TS,,0,0,0,,A few days later
-Dialogue: 0,0:12:33.60,0:12:38.69,Working - TS,,0,0,0,,Scary Stories That Actually Happened
+Dialogue: 0,0:12:33.60,0:12:38.69,Working - TS,,0,0,0,,{\pos(1249.5,807)}Scary Stories That Actually Happened
 Dialogue: 0,0:16:06.02,0:16:09.86,Working - TS,,0,0,0,,Tremble
 Dialogue: 0,0:16:06.02,0:16:09.86,Working - TS,,0,0,0,,Tremble
 Dialogue: 0,0:16:06.02,0:16:09.86,Working - TS,,0,0,0,,Tremble
-Dialogue: 0,0:18:26.91,0:18:29.54,Working - TS,,0,0,0,,Thinking
-Dialogue: 0,0:20:42.47,0:20:45.93,Working - TS,,0,0,0,,Old Maid
-Dialogue: 0,0:22:15.93,0:22:18.94,Working - TS,,0,0,0,,Next Episode
-Comment: 0,0:22:24.90,0:22:26.24,Working - TS,,0,0,0,,Rage
+Dialogue: 0,0:18:26.91,0:18:27.62,Working - Comfortaa,,0,0,0,,{\c&HE78078&\fs120\bord7\blur0.8\3c&HE4D587&\shad8\pos(1600.5,831)}Thinking
+Dialogue: 0,0:18:27.62,0:18:29.33,Working - Comfortaa,,0,0,0,,{\c&HE78078&\fs120\bord7\blur0.8\3c&HE4D587&\shad8\pos(1600.5,831)}Thinking
+Dialogue: 0,0:18:29.33,0:18:29.54,Working - Comfortaa,,0,0,0,,{\c&HE78078&\fs120\bord7\blur0.8\3c&HE4D587&\shad8\pos(1600.5,831)}Thinking
+Dialogue: 0,0:20:42.47,0:20:42.55,Working - TS,,0,0,0,,{\c&H5C5EF0&\bord4\3c&H11A3F8&\shad4\pos(928.5,139.5)}Old Maid{cbf to find a better font}
+Dialogue: 0,0:20:42.63,0:20:45.93,Working - TS,,0,0,0,,{\c&H5C5EF0&\bord4\3c&H11A3F8&\shad4\pos(928.5,139.5)}Old Maid{cbf to find a better font}
+Dialogue: 1,0:22:15.93,0:22:18.94,Working - TS,,0,0,0,,{\3c&HCE6E34&\bord6.75\fs72\pos(380,244)\an5}Next episode preview
+Dialogue: 0,0:22:15.93,0:22:18.94,Working - TS,,0,0,0,,{\3c&H000000&\blur5\bord6\fs72\pos(385,249)\alpha&H70&\an5\c&H000000&}Next episode preview
+Dialogue: 0,0:22:24.90,0:22:26.24,Working - TS,,0,0,0,,Rage
 Dialogue: 0,0:22:26.44,0:22:27.40,Working - TS,,0,0,0,,Poke
+Dialogue: 0,0:22:26.70,0:22:27.40,Working - TS,,0,0,0,,Poke
 Dialogue: 0,0:22:27.65,0:22:33.33,Working - TS,,0,0,0,,Item 12
 Dialogue: 0,0:22:27.65,0:22:33.33,Working - TS,,0,0,0,,An unexpected night before the match. Taneshima's Repayment.
 Dialogue: 0,0:00:10.61,0:00:13.00,Working - Dialogue,,0,0,0,,Good morning, Yamada here.
