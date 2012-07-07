@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE Tags SYSTEM "matroskatags.dtd"> -->
+
+<Chapters>
+  <EditionEntry>
+    <EditionUID>1347934633</EditionUID>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>1</EditionFlagDefault>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <ChapterAtom>
+      <ChapterUID>4197378746</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>Item 10: A suspicious situation... Nazuna works. (Part 1)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:14.992000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2021932437</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterSegmentUID format="hex">
+        93 9f 35 6d 7d 07 1b e3 9b e0 42 0d 9f ee 8e 3d
+      </ChapterSegmentUID>
+      <ChapterDisplay>
+        <ChapterString>OP: Someone Else</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:29.923000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1352252337</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>Item 10: A suspicious situation... Nazuna works. (Part 2)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:01:14.992000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:20:16.006000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1500637857</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>ED: Golden Day</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:20:16.006000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:21:45.971000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>439859107</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Item 10: A suspicious situation... Nazuna works. (Part 3)</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:21:45.971000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:27.972000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2904902588</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>Next Episode Preview</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:22:27.972000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:22:47.950000000</ChapterTimeEnd>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
